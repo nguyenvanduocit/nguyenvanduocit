@@ -51,20 +51,4 @@ jobs:
 
         Format it as a proper GitHub profile README with markdown formatting. Keep it concise but informative.
 
-        Important: Create the README.md file directly. Don't expose secrets or sensitive information." --model gpt-5
-
-    - name: Commit and push changes
-      run: |
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        
-        if [[ "$(git status --porcelain)" != "" ]]; then
-          git add README.md
-          git commit -m "🤖 Auto-update README based on recent GitHub activity"
-          git push
-        else
-          echo "No changes to commit"
-        fi
-        
-        # Cleanup temporary files
-        rm -f recent_activity.json recent_repos.json user_profile.json
+        Create the README.md file directly. Don't expose secrets or sensitive information. then commit and push the README.md to repository, use gh cli" --force --model gpt-5
