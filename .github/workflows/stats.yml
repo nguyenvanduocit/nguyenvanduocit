@@ -4,66 +4,50 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch:
-
 jobs:
   update-profile:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      actions: read
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-        token: ${{ secrets.TOKEN }}
         
-    - name: Fetch GitHub activity
+    - name: Fetch recent GitHub activity
       env:
-        GH_TOKEN: ${{ secrets.TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Get user profile info with error handling
-        if ! gh api user > user_profile.json 2>/dev/null; then
-          echo "Failed to fetch user profile, creating minimal profile"
-          echo '{"login":"'$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)'","name":"Developer","bio":"Building things on GitHub"}' > user_profile.json
-        fi
+        # Get recent public contributions (last 30 days)
+        gh api user/events/public --paginate | jq '[.[] | select(.created_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))] | .[0:50]' > recent_activity.json
         
-        # Get recent repositories with error handling
-        if ! gh api user/repos --field sort=updated --field per_page=10 > recent_repos.json 2>/dev/null; then
-          echo "Failed to fetch repos, using empty array"
-          echo '[]' > recent_repos.json
-        fi
+        # Get recent repositories
+        gh api user/repos --field sort=updated --field per_page=20 | jq '[.[] | select(.updated_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))]' > recent_repos.json
         
-        # Get recent events with simplified approach
-        if ! gh api users/$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)/events/public --field per_page=30 > recent_activity.json 2>/dev/null; then
-          echo "Failed to fetch events, using empty array"
-          echo '[]' > recent_activity.json
-        fi
+        # Get user profile info
+        gh api user > user_profile.json
 
-    - name: Generate README
+    - name: Install Cursor CLI
       run: |
-        # Create a simple README based on available data
-        cat > README.md << 'EOF'
-        # Hi there! 👋
-        
-        I'm $(jq -r '.name // .login' user_profile.json), a developer passionate about building things.
-        
-        ## 🔭 Recent Activity
-        
-        $(if [ -s recent_repos.json ] && [ "$(jq length recent_repos.json)" -gt 0 ]; then
-          echo "### Recent Repositories"
-          jq -r '.[:5] | .[] | "- **" + .name + "**: " + (.description // "No description")' recent_repos.json
-        else
-          echo "Working on various projects and contributions!"
-        fi)
-        
-        ## 📫 Get in touch
-        
-        $(jq -r '.bio // "Always learning and building new things!"' user_profile.json)
-        
-        ---
-        *This README is automatically updated based on my GitHub activity*
-        EOF
+        curl https://cursor.com/install -fsS | bash
+        echo "$HOME/.cursor/bin" >> $GITHUB_PATH
+
+    - name: Generate README with AI
+      env:
+        CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+      run: |
+        cursor-agent -p "You are in a GitHub action. I want you to analyze my recent GitHub activity and create a personalized README.md file for my profile.
+
+        Please:
+        1. Read the user_profile.json, recent_activity.json, and recent_repos.json files to understand my GitHub activity
+        2. Read the current README.md file to see what's there now
+        3. Create a new README.md file that introduces who I am based on my activity patterns
+        4. Highlight what I'm currently working on (based on recent commits/repos)
+        5. Show my areas of focus and expertise
+        6. Maintain a professional yet personal tone
+        7. Include relevant information that tells people about my current projects and interests
+
+        Format it as a proper GitHub profile README with markdown formatting. Keep it concise but informative.
+
+        Important: Create the README.md file directly. Dont expose secret, " --model gpt-5
 
     - name: Commit and push changes
       run: |
