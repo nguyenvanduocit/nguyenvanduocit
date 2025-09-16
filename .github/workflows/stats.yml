@@ -1,26 +1,66 @@
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 */12 * * *'
   push:
     branches:
       - master
 jobs:
-  publish:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@master
-      with:
-        token: ${{ secrets.TOKEN }}
-    - name: Update README.md
+        
+    - name: Fetch recent GitHub activity
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
+        # Get recent public contributions (last 30 days)
+        gh api user/events/public --paginate | jq '[.[] | select(.created_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))] | .[0:50]' > recent_activity.json
+        
+        # Get recent repositories
+        gh api user/repos --field sort=updated --field per_page=20 | jq '[.[] | select(.updated_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))]' > recent_repos.json
+        
+        # Get user profile info
+        gh api user > user_profile.json
+
+    - name: Install Cursor CLI
+      run: |
+        curl https://cursor.com/install -fsS | bash
+        echo "$HOME/.cursor/bin" >> $GITHUB_PATH
+
+    - name: Generate README with AI
+      env:
+        CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+      run: |
+        cursor-agent -p "You are in a GitHub repository. I want you to analyze my recent GitHub activity and create a personalized README.md file for my profile.
+
+        Please:
+        1. Read the user_profile.json, recent_activity.json, and recent_repos.json files to understand my GitHub activity
+        2. Read the current README.md file to see what's there now
+        3. Create a new README.md file that introduces who I am based on my activity patterns
+        4. Highlight what I'm currently working on (based on recent commits/repos)
+        5. Show my areas of focus and expertise
+        6. Maintain a professional yet personal tone
+        7. Include relevant information that tells people about my current projects and interests
+
+        Format it as a proper GitHub profile README with markdown formatting. Keep it concise but informative.
+
+        Important: Create the README.md file directly. Dont expose secrets or sensitive information." --model gpt-5
+
+    - name: Commit and push changes
+      run: |
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
+        
+        if [[ "$(git status --porcelain)" != "" ]]; then
+          git add README.md
+          git commit -m "🤖 Auto-update README based on recent GitHub activity"
+          git push
+        else
+          echo "No changes to commit"
         fi
+        
+        # Cleanup temporary files
+        rm -f recent_activity.json recent_repos.json user_profile.json
