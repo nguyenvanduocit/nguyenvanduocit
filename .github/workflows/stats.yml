@@ -34,7 +34,7 @@ jobs:
 
     - name: Install Cursor CLI
       run: |
-        curl -fsSL https://cursor.com/install.sh | sh
+        curl https://cursor.com/install -fsS | bash
         echo "$HOME/.cursor/bin" >> $GITHUB_PATH
 
     - name: Generate README with AI
@@ -44,8 +44,8 @@ jobs:
         cursor-agent -p "You are in a GitHub action. I want you to analyze my recent GitHub activity and create a personalized README.md file for my profile.
 
         Please:
-        1. Read the user_profile.json, recent_activity.json, and recent_repos.json files to understand my GitHub activity
-        2. Read the current README.md file to see what's there now
+        1. Read the @user_profile.json, @recent_activity.json, and @recent_repos.json files to understand my GitHub activity
+        2. Read the current @README.md file to see what's there now
         3. Create a new README.md file that introduces who I am based on my activity patterns
         4. Highlight what I'm currently working on (based on recent commits/repos)
         5. Show my areas of focus and expertise
