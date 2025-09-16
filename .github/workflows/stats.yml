@@ -16,18 +16,25 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
-        # Get recent public contributions (last 30 days)
-        gh api user/events/public --paginate | jq '[.[] | select(.created_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))] | .[0:50]' > recent_activity.json
+        # Get username from repository
+        USERNAME=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
         
-        # Get recent repositories
-        gh api user/repos --field sort=updated --field per_page=20 | jq '[.[] | select(.updated_at > (now - 30*24*3600 | strftime("%Y-%m-%dT%H:%M:%SZ")))]' > recent_repos.json
+        # Get user profile info - try authenticated first, then public
+        if ! gh api user > user_profile.json 2>/dev/null; then
+          gh api users/$USERNAME > user_profile.json || echo '{"login":"'$USERNAME'","name":"Developer"}' > user_profile.json
+        fi
         
-        # Get user profile info
-        gh api user > user_profile.json
+        # Get recent repositories - try authenticated first, then public
+        if ! gh api user/repos --field sort=updated --field per_page=10 > recent_repos.json 2>/dev/null; then
+          gh api users/$USERNAME/repos --field sort=updated --field per_page=10 > recent_repos.json || echo '[]' > recent_repos.json
+        fi
+        
+        # Get recent public events using the correct public endpoint
+        gh api users/$USERNAME/events/public --field per_page=30 > recent_activity.json || echo '[]' > recent_activity.json
 
     - name: Install Cursor CLI
       run: |
-        curl https://cursor.com/install -fsS | bash
+        curl -fsSL https://cursor.com/install.sh | sh
         echo "$HOME/.cursor/bin" >> $GITHUB_PATH
 
     - name: Generate README with AI
@@ -47,7 +54,7 @@ jobs:
 
         Format it as a proper GitHub profile README with markdown formatting. Keep it concise but informative.
 
-        Important: Create the README.md file directly. Dont expose secret, " --model gpt-5
+        Important: Create the README.md file directly. Don't expose secrets or sensitive information." --model claude-3-5-sonnet-20241022
 
     - name: Commit and push changes
       run: |
