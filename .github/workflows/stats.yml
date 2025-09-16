@@ -16,21 +16,18 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
-        # Get username from repository
-        USERNAME=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-        
         # Get user profile info - try authenticated first, then public
         if ! gh api user > user_profile.json 2>/dev/null; then
-          gh api users/$USERNAME > user_profile.json || echo '{"login":"'$USERNAME'","name":"Developer"}' > user_profile.json
+          gh api users/nguyenvanduocit > user_profile.json
         fi
         
         # Get recent repositories - try authenticated first, then public
         if ! gh api user/repos --field sort=updated --field per_page=10 > recent_repos.json 2>/dev/null; then
-          gh api users/$USERNAME/repos --field sort=updated --field per_page=10 > recent_repos.json || echo '[]' > recent_repos.json
+          gh api users/nguyenvanduocit/repos --field sort=updated --field per_page=10 > recent_repos.json
         fi
         
         # Get recent public events using the correct public endpoint
-        gh api users/$USERNAME/events/public --field per_page=30 > recent_activity.json || echo '[]' > recent_activity.json
+        gh api users/nguyenvanduocit/events/public --field per_page=30 > recent_activity.json
 
     - name: Install Cursor CLI
       run: |
