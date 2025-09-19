@@ -38,14 +38,14 @@ jobs:
         CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        cursor-agent -p "You are running inside a GitHub Actions runner (ubuntu-latest). The GitHub CLI (gh) is available and authenticated via the GITHUB_TOKEN environment variable, so you can use gh to perform GitHub operations as needed.
+        cursor-agent -p "You are running inside a GitHub Actions runner (ubuntu-latest). The GitHub CLI (gh) is available and authenticated, so you can use gh to perform GitHub operations as needed.
 
         I want you to analyze my recent GitHub activity and create a personalized README.md file for my profile.
 
         Please:
         1. Read the @user_profile.json, @recent_activity.json, and @recent_repos.json files to understand my GitHub activity
         2. Read the current @README.md file to see what's there now
-        3. Create a new README.md file that introduces who I am based on my activity patterns
+        3. Create a new README.md file that introduces who I am based on my activity patterns (never talk about all-in-one-model-context-protocol, dev-kit, they are replaced by multiple mcp repos)
         4. Highlight what I'm currently working on (based on recent commits/repos)
         5. Show my areas of focus and expertise
         6. Maintain a professional yet personal tone
