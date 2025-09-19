@@ -1,21 +1,22 @@
-Hi, I'm Duoc Nguyen 👋
+## Hi, I'm Duoc Nguyen 👋
 
-I build AI developer tools and smoother developer experiences from Việt Nam — an unlucky programmer who keeps shipping.
+I build AI developer tools and smooth developer experiences from Việt Nam — an unlucky programmer who keeps shipping.
 
-### Currently building
+### What I'm working on
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑powered DOM inspector for faster frontend iteration (TypeScript)
-- [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based Model Context Protocol connector for Jira so AI can plan/execute work (Go)
-- [all-in-one-model-context-protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol): All‑in‑one MCP server with AI search, RAG, and multi‑service integrations ([overview](https://www.youtube.com/watch?v=XnDFtYKU6xU))
-- [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for rapid client/server prototyping (TypeScript)
+- [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector so AI can plan/execute work in Jira (Go)
+- [all-in-one-model-context-protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol): All‑in‑one MCP server with AI search, RAG, and multi‑service integrations ([overview video](https://www.youtube.com/watch?v=XnDFtYKU6xU))
+- [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for quick client/server prototyping (TypeScript)
+- [dev-kit](https://github.com/nguyenvanduocit/dev-kit): Day‑to‑day MCP developer toolkit (Go)
 
 ### Focus & expertise
-- **AI developer tooling**: MCP servers/connectors, pragmatic automation, agent‑enabling integrations
+- **AI developer tooling**: MCP servers/connectors, pragmatic automation, agent‑ready integrations
 - **Plugins & DX**: Obsidian ecosystem, productivity‑first UX, high‑quality TypeScript tooling
 - **Languages**: TypeScript for products/tools; Go for reliable CLIs/services
-- **Integrations**: GitHub Actions, command‑line workflows, and APIs that fit real‑world dev flows
+- **Integrations**: GitHub Actions, CLI workflows, and APIs that fit real‑world dev flows
 
 ### Recent highlights
-- Actively updating: [all‑in‑one‑model‑context‑protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol), [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [instantCode](https://github.com/nguyenvanduocit/instantCode), [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
+- Actively maintaining (Sep 2025): [all‑in‑one‑model‑context‑protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol), [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [instantCode](https://github.com/nguyenvanduocit/instantCode), [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 - Exploring typed RPC patterns in [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)
 
 ### Selected OSS
