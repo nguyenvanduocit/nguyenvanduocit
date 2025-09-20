@@ -4,14 +4,14 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 
 ### Currently building
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑powered DOM inspector for faster frontend iteration (TypeScript)
-- [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector so AI can plan/execute work in Jira (Go)
+- [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector so AI can plan/execute work in Jira (Go)
 - [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for quick client/server prototyping (TypeScript)
 - [mimaid](https://github.com/nguyenvanduocit/mimaid): Minimal Mermaid diagram editor focused on speed and clarity (TypeScript)
 - [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate): Bridge the web and your Obsidian vault (TypeScript)
 
 ### Focus & expertise
 - **AI developer tooling**: MCP connectors, pragmatic automation, agent‑ready integrations
-- **Plugins & DX**: Obsidian ecosystem, productivity‑first UX, high‑quality TypeScript tooling
+- **Plugins & DX**: Obsidian ecosystem, productivity‑first UX, TypeScript tooling
 - **Languages**: TypeScript for products/tools; Go for reliable CLIs/services
 - **Integrations**: GitHub Actions, CLI workflows, and APIs that fit real‑world dev flows
 
