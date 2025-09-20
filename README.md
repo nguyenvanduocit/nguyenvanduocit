@@ -2,7 +2,7 @@
 
 I build AI developer tools and smooth developer experiences from Việt Nam — an unlucky programmer who keeps shipping.
 
-### What I'm working on
+### Currently building
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑powered DOM inspector for faster frontend iteration (TypeScript)
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector so AI can plan/execute work in Jira (Go)
 - [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for quick client/server prototyping (TypeScript)
