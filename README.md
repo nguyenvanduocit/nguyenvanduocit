@@ -4,16 +4,16 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 
 ### Currently building
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑powered DOM inspector for faster frontend iteration (TypeScript)
-- [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector so AI can plan/execute work in Jira (Go)
+- [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector enabling AI to plan and execute work in Jira (Go)
 - [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for quick client/server prototyping (TypeScript)
 - [mimaid](https://github.com/nguyenvanduocit/mimaid): Minimal Mermaid diagram editor focused on speed and clarity (TypeScript)
-- [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate): Bridge the web and your Obsidian vault (TypeScript)
+- Maintaining [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate): bridge the web and your Obsidian vault (TypeScript)
 
 ### Focus & expertise
 - **AI developer tooling**: MCP connectors, pragmatic automation, agent‑ready integrations
 - **Plugins & DX**: Obsidian ecosystem, productivity‑first UX, TypeScript tooling
 - **Languages**: TypeScript for products/tools; Go for reliable CLIs/services
-- **Integrations**: GitHub Actions, CLI workflows, and APIs that fit real‑world dev flows
+- **Integrations**: GitHub Actions, CLI workflows, APIs that fit real‑world dev flows
 
 ### Recent highlights
 - Actively shipping (Aug–Sep 2025): updates across [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [mimaid](https://github.com/nguyenvanduocit/mimaid)
@@ -30,7 +30,7 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 - **Company**: Sen Việt
 - **Location**: Việt Nam — open to collaboration
 - **Hireable**: Yes
-- **Stats**: 416 public repos, 128 gists, 155 followers
+- **Stats**: 416 public repos, 128 gists, 154 followers
 
 —
 
