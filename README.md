@@ -2,7 +2,7 @@
 
 I build AI developer tools and smooth developer experiences from Việt Nam — an unlucky programmer who keeps shipping.
 
-### Currently building
+### Currently working on
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑powered DOM inspector for faster frontend iteration (TypeScript)
 - [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp): Go‑based MCP connector enabling AI to plan and execute work in Jira (Go)
 - [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen): Type‑safe Socket.IO RPC generator for quick client/server prototyping (TypeScript)
@@ -16,8 +16,8 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 - **Integrations**: GitHub Actions, CLI workflows, APIs that fit real‑world dev flows
 
 ### Recent highlights
-- Actively shipping (Aug–Sep 2025): updates across [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [mimaid](https://github.com/nguyenvanduocit/mimaid)
-- Maintaining the Obsidian plugin [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
+- Actively shipping (Aug–Sep 2025): heavy commits to [instantCode](https://github.com/nguyenvanduocit/instantCode), plus updates to [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [mimaid](https://github.com/nguyenvanduocit/mimaid)
+- Mix of pushes and PRs across active repos; focused on practical features over hype
 
 ### Selected OSS
 - [vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) — well‑loved Vue spinner collection (689★)
