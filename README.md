@@ -16,14 +16,15 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 - **Integrations**: GitHub Actions, CLI workflows, APIs that fit real‑world dev flows
 
 ### Recent highlights
-- Actively shipping (Aug–Sep 2025): heavy commits to [instantCode](https://github.com/nguyenvanduocit/instantCode), plus updates to [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [mimaid](https://github.com/nguyenvanduocit/mimaid)
+- Actively shipping (Aug–Sep 2025): heavy commits to [instantCode](https://github.com/nguyenvanduocit/instantCode), plus updates to [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [mimaid](https://github.com/nguyenvanduocit/mimaid); ongoing maintenance of [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 - Mix of pushes and PRs across active repos; focused on practical features over hype
 
 ### Selected OSS
 - [vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) — well‑loved Vue spinner collection (689★)
-- [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — Obsidian plugin (205★)
+- [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — Obsidian plugin (206★)
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — enabling AI to work with Jira (61★)
 - [instantCode](https://github.com/nguyenvanduocit/instantCode) — in‑browser AI inspector (10★)
+- [obsidian-ai-assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant) — tools for knowledge workflows (21★)
 
 ### Elsewhere
 - **Website**: [12bit.vn](https://12bit.vn)
