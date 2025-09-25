@@ -16,7 +16,7 @@ I build AI developer tools and smooth developer experiences from Việt Nam — 
 - **Workflows**: GitHub Actions, CLI‑first development, APIs that fit real‑world dev flows
 
 ### Recent highlights
-- Active in Sep 2025: multiple pushes to [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp) and [instantCode](https://github.com/nguyenvanduocit/instantCode); contributed to `vitejs/awesome-vite`.
+- Active in Sep 2025: multiple pushes to [jira‑mcp](https://github.com/nguyenvanduocit/jira-mcp) and [instantCode](https://github.com/nguyenvanduocit/instantCode); contributions to the Vite ecosystem via `awesome-vite`.
 - Selected OSS: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) (206★), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) (61★), [obsidian-ai-assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant) (21★), [instantCode](https://github.com/nguyenvanduocit/instantCode) (10★)
 
 ### Elsewhere
