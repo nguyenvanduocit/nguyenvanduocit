@@ -2,7 +2,7 @@
 
 I build pragmatic AI developer tools and productivity plugins from Việt Nam. Hireable and open to collaboration.
 
-### What I'm working on
+### Currently building
 - [instantCode](https://github.com/nguyenvanduocit/instantCode): AI‑assisted DOM inspector for faster frontend iteration (TypeScript)
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp): Go MCP connector for Jira — agent‑ready issue/sprint workflows
 - Maintaining multiple MCP connectors around developer workflows and integrations
@@ -18,7 +18,7 @@ I build pragmatic AI developer tools and productivity plugins from Việt Nam. H
 - **Workflows**: GitHub Actions, CLI‑first development, APIs that fit real‑world dev flows
 
 ### Recent highlights
-- Community traction: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 200+ ⭐, [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 60+ ⭐, [instantCode](https://github.com/nguyenvanduocit/instantCode) 39+ ⭐
+- Community traction: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 200+ ⭐, [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 60+ ⭐, [instantCode](https://github.com/nguyenvanduocit/instantCode) 40+ ⭐
 - Active lately across: [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp), [instantCode](https://github.com/nguyenvanduocit/instantCode), [awesome-vite](https://github.com/nguyenvanduocit/awesome-vite), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), [mimaid](https://github.com/nguyenvanduocit/mimaid), and [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 
 ### Elsewhere
