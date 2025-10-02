@@ -2,26 +2,25 @@
 
 I build pragmatic AI developer tools and productivity plugins from Việt Nam. I'm hireable and open to collaboration.
 
-## What I'm working on
-- [mimaid](https://github.com/nguyenvanduocit/mimaid) — a minimal, fast Mermaid diagram editor (TypeScript). Try it at https://mimaid.aiocean.dev
+### Currently building
+- [mimaid](https://github.com/nguyenvanduocit/mimaid) — a minimal, fast Mermaid diagram editor (TypeScript). Try it at [mimaid.aiocean.dev](https://mimaid.aiocean.dev)
 - [instantCode](https://github.com/nguyenvanduocit/instantCode) — AI‑assisted DOM inspector for faster frontend iteration (TypeScript)
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
 - Maintaining several MCP connectors and developer integrations (Go, TypeScript)
 - [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — bridge the web and your Obsidian vault (maintainer)
-- [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen) — type‑safe Socket.IO RPC generator for quick client/server prototyping
 - Curating Vite resources via [awesome-vite](https://github.com/nguyenvanduocit/awesome-vite)
 
-## Focus & expertise
+### Focus & expertise
 - **AI developer tooling**: MCP connectors and agent integrations (Go, TypeScript)
 - **Plugins & DX**: Obsidian ecosystem, productivity‑first UX
 - **Languages**: TypeScript for apps/tools; Go for reliable CLIs/services
 - **Workflows**: GitHub Actions, CLI‑first development, typed APIs that fit real dev flows
 
-## Recent highlights
+### Recent highlights
 - Community traction: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 200+ ⭐, [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 60+ ⭐, [instantCode](https://github.com/nguyenvanduocit/instantCode) 40+ ⭐
-- Active lately across: [mimaid](https://github.com/nguyenvanduocit/mimaid), [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp), [awesome-vite](https://github.com/nguyenvanduocit/awesome-vite), [socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen), and [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
+- Active lately across: [mimaid](https://github.com/nguyenvanduocit/mimaid), [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp), [awesome-vite](https://github.com/nguyenvanduocit/awesome-vite), and [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 
-## Elsewhere
+### Elsewhere
 - **Website**: [12bit.vn](https://12bit.vn)
 - **Company**: Sen Việt
 - **Location**: Việt Nam
