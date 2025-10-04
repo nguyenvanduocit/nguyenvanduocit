@@ -15,8 +15,8 @@ I build pragmatic AI developer tools and productivity plugins from Việt Nam. I
 - **Languages**: TypeScript for apps/tools; Go for reliable CLIs/services
 - **Workflows**: GitHub Actions, CLI‑first development, typed APIs that fit real dev flows
 
-## Recent highlights
-- Active repos this month: [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp), [mimaid](https://github.com/nguyenvanduocit/mimaid), [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)
+## Recent activity
+- Active recently: [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp), [mimaid](https://github.com/nguyenvanduocit/mimaid), [instantCode](https://github.com/nguyenvanduocit/instantCode), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)
 - Community traction: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 200+ ⭐, [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 60+ ⭐, [instantCode](https://github.com/nguyenvanduocit/instantCode) 40+ ⭐
 
 ## Elsewhere
