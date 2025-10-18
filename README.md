@@ -8,16 +8,16 @@ I build pragmatic AI developer tooling and productivity plugins from Việt Nam.
 - [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp) — Go MCP server for Atlassian Confluence (search, read, create, update)
 - Maintaining/curating: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 
+## What I'm focused on now
+- Shipping improvements to `mimaid` (recent updates mid‑Oct)
+- Stabilizing and extending MCP integrations: `jira-mcp`, `confluence-mcp`
+- Exploring adjacent ecosystems: `coder/agentapi`, `coder/coder`, `sentient-agi/ROMA`, `aws/smithy-go`, `cloudwego/eino`
+
 ## Focus & expertise
 - **AI developer tooling**: MCP servers/connectors and agent integrations (Go, TypeScript)
 - **Plugins & DX**: Obsidian ecosystem, productivity‑first UX
 - **Languages**: Go for reliable CLIs/services; TypeScript for apps/tools
 - **Workflows**: GitHub Actions, CLI‑first development, typed APIs that fit real dev flows
-
-## Recent highlights
-- Shipped updates across: [mimaid](https://github.com/nguyenvanduocit/mimaid) (Oct 15), [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) (Oct 9), [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp) (Oct 2)
-- Exploring ecosystems: watching `coder/agentapi`, `coder/coder`, `sentient-agi/ROMA`, `aws/smithy-go`, `cloudwego/eino`
-- Community traction: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) 200+ ⭐, [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 60+ ⭐
 
 ## Elsewhere
 - **Website**: [12bit.vn](https://12bit.vn)
