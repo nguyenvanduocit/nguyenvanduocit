@@ -3,15 +3,16 @@
 I build pragmatic AI developer tooling and productivity plugins from Việt Nam. I'm hireable and open to collaboration.
 
 ## Currently building
-- [mimaid](https://github.com/nguyenvanduocit/mimaid) — a minimal, fast Mermaid diagram editor (TypeScript) · try [mimaid.aiocean.dev](https://mimaid.aiocean.dev)
+- [mimaid](https://github.com/nguyenvanduocit/mimaid) — a minimal, fast Mermaid diagram editor (TypeScript) · try it at [mimaid.aiocean.dev](https://mimaid.aiocean.dev)
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
 - [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp) — Go MCP server for Atlassian Confluence (search, read, create, update)
 - Maintaining/curating: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
 
 ## What I'm focused on now
-- Shipping improvements to `mimaid` (recent updates mid‑Oct)
-- Stabilizing and extending MCP integrations: `jira-mcp`, `confluence-mcp`
-- Exploring adjacent ecosystems: `coder/agentapi`, `coder/coder`, `sentient-agi/ROMA`, `aws/smithy-go`, `cloudwego/eino`
+- Shipping improvements to `mimaid` (recent updates in October)
+- Iterating and stabilizing MCP integrations: `jira-mcp`, `confluence-mcp`
+- Exploring adjacent ecosystems: `neobrutalism` UI components, node‑based editors (BaklavaJS), agent/realtime tooling
+- Documentation and DX that make AI‑assisted workflows reliable for builders
 
 ## Focus & expertise
 - **AI developer tooling**: MCP servers/connectors and agent integrations (Go, TypeScript)
