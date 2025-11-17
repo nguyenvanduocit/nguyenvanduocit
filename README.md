@@ -1,24 +1,27 @@
 # Hi, I'm Duoc Nguyen 👋
 
-I build pragmatic AI developer tools and productivity plugins from Việt Nam. I'm hireable and open to collaboration.
+I build pragmatic AI developer tools and research workflows from Việt Nam. I'm hireable and open to collaboration.
 
 ## Currently building
-- [mimaid](https://github.com/nguyenvanduocit/mimaid) — a minimal, fast Mermaid diagram editor (TypeScript) · try it at [mimaid.aiocean.dev](https://mimaid.aiocean.dev)
+- [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with quality controls and verification
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
-- [confluence-mcp](https://github.com/nguyenvanduocit/confluence-mcp) — Go MCP server for Atlassian Confluence (search, read, create, update)
-- Maintaining/curating: [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
+- [research-mcp](https://github.com/nguyenvanduocit/research-mcp) — Model Context Protocol for research tasks (Go)
+- [hello-temporal](https://github.com/nguyenvanduocit/hello-temporal) — exploring Temporal for long‑running, reliable workflows (Go)
+- [google-kit](https://github.com/nguyenvanduocit/google-kit) — Go utilities for Google APIs
+- [rag-kit](https://github.com/nguyenvanduocit/rag-kit) — Go building blocks for retrieval‑augmented systems
+- Notable OSS: [vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) (widely used Vue spinners)
 
-## What I'm working on now
-- Shipping October improvements to `mimaid`
-- Hardening MCP integrations: `jira-mcp` (incl. ARM64 Docker support) and `confluence-mcp`
-- Exploring adjacent ecosystems: neobrutalism UI (Vue/components), node‑based editors (BaklavaJS), and agent/realtime tooling (Coder/Agent API, ROMA, VibeTunnel)
-- Better docs and developer experience for reliable AI‑assisted workflows
+## What I'm focused on now
+- Strengthening MCP integrations across multiple repos (e.g., `jira-mcp`, `research-mcp`)
+- Orchestrating reliable multi‑agent research pipelines (`research-orchestrator`)
+- Workflow engines and durability patterns with Temporal (`hello-temporal`)
+- Better docs and developer experience for dependable AI‑assisted tooling
 
 ## Focus & expertise
-- **AI developer tooling**: MCP servers/connectors and agent integrations (Go, TypeScript)
-- **Plugins & DX**: Obsidian ecosystem, productivity‑first UX
+- **AI developer tooling**: MCP servers/connectors, orchestration, RAG (Go, TypeScript)
 - **Languages**: Go for reliable CLIs/services; TypeScript for apps/tools
 - **Workflows**: GitHub Actions, containerized builds, CLI‑first development, typed APIs
+- **OSS & DX**: Vue components and productivity‑first plugins
 
 ## Elsewhere
 - **Website**: [12bit.vn](https://12bit.vn)
