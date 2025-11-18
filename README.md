@@ -8,7 +8,6 @@ I build pragmatic AI developer tools and research workflows from Việt Nam. I'm
 - [research-mcp](https://github.com/nguyenvanduocit/research-mcp) — Model Context Protocol for research tasks (Go)
 - [hello-temporal](https://github.com/nguyenvanduocit/hello-temporal) — exploring Temporal for long‑running, reliable workflows (Go)
 - [google-kit](https://github.com/nguyenvanduocit/google-kit) — Go utilities for Google APIs
-- [rag-kit](https://github.com/nguyenvanduocit/rag-kit) — Go building blocks for retrieval‑augmented systems
 - Notable OSS: [vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) (widely used Vue spinners)
 
 ## What I'm focused on now
