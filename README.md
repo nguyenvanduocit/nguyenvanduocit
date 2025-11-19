@@ -16,6 +16,11 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - Workflow engines and durability patterns with Temporal (`hello-temporal`)
 - Polishing docs and usability for dependable AI‑assisted tooling
 
+### Recent highlights
+- Iterating across `jira-mcp`, `research-mcp`, and `research-orchestrator` to streamline agent workflows
+- Continued experiments with Temporal for resilient long‑running jobs
+- Small improvements to `google-kit` for simpler Google API workflows
+
 ### Focus & expertise
 - **AI developer tooling**: MCP servers/connectors, orchestration, retrieval, DX (Go, TypeScript)
 - **Languages**: Go for reliable CLIs/services; TypeScript for tooling and apps
@@ -26,6 +31,6 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - **Website**: [12bit.vn](https://12bit.vn)
 - **Company**: Sen Việt
 - **Location**: Việt Nam
-- **Hireable**: Yes
+- **Hireable**: Yes — open to consulting/contract and interesting collaborations
 
 I care about useful software, tight feedback loops, and tools that make builders faster. If that resonates, say hi or open an issue on any repo.
