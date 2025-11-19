@@ -6,20 +6,20 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with quality controls and verification
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
 - [research-mcp](https://github.com/nguyenvanduocit/research-mcp) — Model Context Protocol for research tasks (Go)
-- [hello-temporal](https://github.com/nguyenvanduocit/hello-temporal) — exploring Temporal for long‑running, reliable workflows (Go)
-- [google-kit](https://github.com/nguyenvanduocit/google-kit) — Go utilities for Google APIs
+- [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — bring the web into Obsidian notes (TypeScript)
+- [useai-release](https://github.com/nguyenvanduocit/useai-release) — AI on Obsidian Canvas for structured thinking
 - Notable OSS: [vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) — widely used Vue spinners
 
 ### What I'm focused on now
-- Strengthening MCP integrations across multiple repos (e.g., `jira-mcp`, `research-mcp`)
+- Strengthening MCP integrations across multiple repos (`jira-mcp`, `research-mcp`)
 - Orchestrating reliable multi‑agent research pipelines (`research-orchestrator`)
-- Workflow engines and durability patterns with Temporal (`hello-temporal`)
+- Go‑first tooling and durable workflows; GitHub Actions automation
 - Polishing docs and usability for dependable AI‑assisted tooling
 
 ### Recent highlights
 - Iterating across `jira-mcp`, `research-mcp`, and `research-orchestrator` to streamline agent workflows
-- Continued experiments with Temporal for resilient long‑running jobs
-- Small improvements to `google-kit` for simpler Google API workflows
+- Continued improvements to Obsidian tooling (e.g., `obsidian-open-gate`, `useai-release`)
+- Community‑trusted UI utility: `vue-loading-spinner`
 
 ### Focus & expertise
 - **AI developer tooling**: MCP servers/connectors, orchestration, retrieval, DX (Go, TypeScript)
