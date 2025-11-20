@@ -17,8 +17,8 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - Polishing docs and usability for dependable AI‑assisted tooling
 
 ### Recent highlights
-- Iterating across `obsidian-open-gate` and `research-orchestrator` based on recent activity
-- Continued improvements to Obsidian tooling (e.g., `useai-release`)
+- Active across `research-orchestrator` and `jira-mcp` this month
+- Iterating on Obsidian tooling (e.g., `obsidian-open-gate`, `useai-release`)
 - Community‑trusted UI utility: `vue-loading-spinner`
 
 ### Focus & expertise
