@@ -3,7 +3,7 @@
 I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm hireable and open to collaboration.
 
 ### Currently building
-- [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with quality controls and verification
+- [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with guardrails and verification
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
 - [research-mcp](https://github.com/nguyenvanduocit/research-mcp) — Model Context Protocol for research tasks (Go)
 - [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — bring the web into Obsidian notes (TypeScript)
@@ -17,8 +17,8 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - Polishing docs and usability for dependable AI‑assisted tooling
 
 ### Recent highlights
-- Iterating across `jira-mcp`, `research-mcp`, and `research-orchestrator` to streamline agent workflows
-- Continued improvements to Obsidian tooling (e.g., `obsidian-open-gate`, `useai-release`)
+- Iterating across `obsidian-open-gate` and `research-orchestrator` based on recent activity
+- Continued improvements to Obsidian tooling (e.g., `useai-release`)
 - Community‑trusted UI utility: `vue-loading-spinner`
 
 ### Focus & expertise
