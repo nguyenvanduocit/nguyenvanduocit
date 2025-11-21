@@ -3,7 +3,8 @@
 I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm hireable and open to collaboration.
 
 ### Currently building
-- [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with guardrails and verification
+- [research-orchestrator](https://github.com/nguyenvanduocit/research-orchestrator) — multi‑agent research orchestration with quality guardrails and verification
+- [research-kit](https://github.com/nguyenvanduocit/research-kit) — Spec‑Driven Research toolkit (fork) with automation and DX improvements
 - [jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) — Go MCP connector for Jira enabling agent‑ready workflows
 - [research-mcp](https://github.com/nguyenvanduocit/research-mcp) — Model Context Protocol for research tasks (Go)
 - [obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate) — bring the web into Obsidian notes (TypeScript)
@@ -13,16 +14,17 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 ### What I'm focused on now
 - Strengthening MCP integrations across multiple repos (`jira-mcp`, `research-mcp`)
 - Orchestrating reliable multi‑agent research pipelines (`research-orchestrator`)
-- Go‑first tooling and durable workflows; GitHub Actions automation
-- Polishing docs and usability for dependable AI‑assisted tooling
+- Evolving Spec‑Driven Research workflows (`research-kit`)
+- Go‑first tooling and durable CI/CD with GitHub Actions
+- Polished docs and usability for dependable AI‑assisted tooling
 
 ### Recent highlights
-- Active across `research-orchestrator` and `jira-mcp` this month
-- Iterating on Obsidian tooling (e.g., `obsidian-open-gate`, `useai-release`)
-- Community‑trusted UI utility: `vue-loading-spinner`
+- Active across `research-kit` (forked, multiple pushes, releases) this month
+- Shipping improvements to `research-orchestrator`
+- Community engagement on `obsidian-open-gate`
 
 ### Focus & expertise
-- **AI developer tooling**: MCP servers/connectors, orchestration, retrieval, DX (Go, TypeScript)
+- **AI developer tooling**: MCP servers/connectors, orchestration, retrieval, developer experience (Go, TypeScript)
 - **Languages**: Go for reliable CLIs/services; TypeScript for tooling and apps
 - **Workflows**: GitHub Actions, containerized builds, CLI‑first development, typed APIs
 - **Systems**: distributed workflows, observability, performance, reliability
