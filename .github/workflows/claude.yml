@@ -55,5 +55,6 @@ jobs:
             Rules:
             - Never mention all-in-one-model-context-protocol or dev-kit (they are replaced by multiple mcp repos)
             - Use proper GitHub profile README markdown formatting
-            - After generating, commit and push the README.md if there are meaningful changes
+            - Always update the "Last updated" timestamp at the bottom of the README
+            - Always commit and push the README.md after updating
             - Do not expose secrets or sensitive information

@@ -36,3 +36,6 @@ I build pragmatic AI developer tools and reliable backends from Việt Nam. I'm 
 - **Hireable**: Yes — open to consulting/contract and interesting collaborations
 
 I care about useful software, tight feedback loops, and tools that make builders faster. If that resonates, say hi or open an issue on any repo.
+
+---
+*Last updated: 2025-12-05*
