@@ -32,8 +32,9 @@ jobs:
           ls -la *.json
 
       - uses: anthropics/claude-code-action@v1
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: |
             Analyze my recent GitHub activity and update my README.md profile.
