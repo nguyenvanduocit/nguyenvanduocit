@@ -36,6 +36,8 @@ jobs:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           show_full_output: true
+          claude_args: |
+            --allowedTools Edit,Read,Write,Bash,Glob,Grep
           prompt: |
             Analyze my recent GitHub activity and update my README.md profile.
 
@@ -45,12 +47,23 @@ jobs:
             - recent_repos.json - my recently updated repos
             - README.md - current profile README
 
+            POSITIONING: I am a Pi-shaped engineer with:
+            1. Deep technical expertise in backend systems and AI tooling (Go, TypeScript)
+            2. Active exploration and interest in AI agents, MCP, and AI-assisted workflows
+            3. Product development knowledge from shipping developer tools and learning from user feedback
+
             Create an updated README.md that:
-            1. Introduces who I am based on activity patterns
-            2. Highlights what I'm currently working on (based on recent commits/repos)
-            3. Shows my areas of focus and expertise
-            4. Maintains a professional yet personal tone
-            5. Keeps it concise but informative
+            1. Opens with Pi-shaped engineer positioning (tech depth + AI interest + product sense)
+            2. Frames projects as product solutions, not just technical achievements
+               - Show the problem each tool solves
+               - Mention user impact, adoption, or feedback where evident
+            3. Highlights current work with both technical and product context
+            4. Shows expertise across three dimensions:
+               - Technical: backend, AI tooling, systems
+               - AI exploration: agents, MCP, orchestration
+               - Product: DX thinking, iteration based on usage, solving real workflow problems
+            5. Maintains professional yet approachable tone
+            6. Keeps it concise but shows the full Pi-shape
 
             Rules:
             - Never mention all-in-one-model-context-protocol or dev-kit (they are replaced by multiple mcp repos)
@@ -58,3 +71,4 @@ jobs:
             - Always update the "Last updated" timestamp at the bottom of the README
             - Always commit and push the README.md after updating
             - Do not expose secrets or sensitive information
+            - Show product thinking: user problems, impact, iteration, not just features
