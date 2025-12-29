@@ -1,54 +1,64 @@
 ## Hi, I'm Duoc Nguyen 👋
 
-I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI tooling (Go, TypeScript), active exploration of AI agents and the Model Context Protocol ecosystem, and product sense from shipping developer tools and learning from real-world usage.
+I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI tooling (Go, TypeScript), active exploration of AI agents and the Model Context Protocol ecosystem, and product sense from shipping developer tools and iterating based on real-world usage.
 
 ### What I build
 
-**[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian plugin for seamless web integration. Solves the problem of keeping your knowledge base connected to external context without disrupting your note-taking flow. Proven adoption with 215+ stars from knowledge workers who need this bridge. (215 stars, 10 forks)
+**[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian plugin that solves the isolation problem of local knowledge bases. Lets you seamlessly integrate web content into your notes without breaking your flow. 215+ stars from knowledge workers who needed this exact bridge between their notes and the web. (TypeScript)
 
-**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP server connecting AI assistants to Jira. Makes project management AI-native by letting agents handle issue management, sprint planning, and workflow transitions. Built after observing repetitive Jira tasks that could be automated. (75 stars, 20 forks)
+**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP server that makes Jira AI-native. Born from watching teams waste time on repetitive ticket operations. Now AI assistants can handle issue management, sprint planning, and workflow transitions directly. 75 stars, real teams using it in production. (Go)
 
-**[InstantCode](https://github.com/nguyenvanduocit/instantCode)** — Browser extension bringing AI insights directly to webpage elements. Eliminates the context-switching tax when debugging frontend code—just click an element and ask. Recently integrated with Claude GitHub Actions for continuous improvement based on user feedback. (50 stars, 9 forks)
+**[InstantCode](https://github.com/nguyenvanduocit/instantCode)** — Browser extension that eliminates context-switching when debugging frontend code. Click any element, ask AI about it—no copy-paste, no tab-switching. Integrated with GitHub Actions for continuous improvements from user feedback. (TypeScript, 50 stars)
 
-**[autosocial-trends](https://github.com/nguyenvanduocit/autosocial-trends)** — Automated daily trend research pipeline for social content. Running production workflows that deliver trend data without manual overhead, helping creators stay current. Active iteration with daily commits refining the automation.
+**[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid diagram editor because existing tools had messy, overcomplicated interfaces. Built with real-time collaboration using Liveblocks and Yjs. Solving the DX problem: clean interface, fast editing, no clutter. (TypeScript, actively shipping)
 
-**[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC framework over Socket.IO. Addresses the DX gap in real-time communication where type safety typically breaks down, reducing runtime errors for teams using Socket.IO.
+**[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for direct GitHub Copilot API access. For developers who want programmatic integration with Copilot in their own workflows without the editor middleman. (TypeScript)
 
-**[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API. Direct integration for developers who want programmatic access to Copilot capabilities in their own workflows.
+**[autosocial-trends](https://github.com/nguyenvanduocit/autosocial-trends)** — Daily automated trend research pipeline. Runs in production, delivering fresh trend data without manual overhead. Built to solve the content creator's problem: staying current without burning time on research.
 
-### Current focus
+**[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC over Socket.IO. Solves the DX gap where real-time communication breaks type safety, reducing runtime errors for teams using Socket.IO. (TypeScript)
 
-**AI-assisted workflows**: Actively building and iterating on MCP servers. Not just implementing specs—testing real integration points, observing where AI agents struggle in development workflows, and fixing those gaps.
+### Current focus (Dec 2025)
 
-**Automation that runs**: Building systems that operate daily in production (autosocial-trends), proving reliability under real usage before calling them done.
+**Building AI-native dev tools**: Actively shipping and iterating on MCP servers and AI-assisted workflows. Not just following specs—testing real integration points, finding where AI agents break down in developer workflows, and fixing those gaps with actual code.
 
-**Developer experience**: Every tool solves a specific friction point. InstantCode removes context switching, obsidian-open-gate connects isolated knowledge, jira-mcp reduces project management overhead. Product decisions come from watching how developers actually work.
+**Real-time collaboration**: Working on mimaid's collaborative editing experience. Exploring how developers actually use diagram tools and removing friction from the workflow.
+
+**Production-tested automation**: Running systems that operate daily (autosocial-trends), proving reliability under real usage patterns before calling them shipped.
 
 ### Technical depth
 
-- **Backend & systems**: Go-first for MCP servers and CLIs, TypeScript for developer tooling and browser extensions
-- **AI tooling**: MCP protocol implementation, agent orchestration, bridging AI capabilities into existing workflows
-- **Type safety**: Prioritizing type-safe APIs across both Go and TypeScript stacks
-- **Continuous integration**: GitHub Actions for automated workflows, CI/CD that ships improvements based on real usage
+- **Backend & systems**: Go for MCP servers, CLIs, and backend services. TypeScript for developer tooling and browser extensions
+- **AI tooling**: MCP protocol implementation, agent orchestration, building bridges between AI capabilities and existing developer workflows
+- **Real-time systems**: Collaborative editing with Liveblocks, Yjs, and WebSocket-based architectures
+- **Type safety**: Prioritizing type-safe APIs across Go and TypeScript—type-safety as a design requirement, not an afterthought
+- **Continuous delivery**: GitHub Actions workflows that ship improvements based on real usage and user feedback
 
 ### Product thinking
 
-I build tools by identifying workflow pain points and shipping solutions:
-- obsidian-open-gate came from watching knowledge workers manually copy context between apps
-- jira-mcp emerged from seeing teams waste time on repetitive ticket management
-- autosocial-trends runs daily because manual trend research was blocking content creation
-- InstantCode integrates with Claude because user feedback showed the need for smarter element analysis
+I build by identifying real workflow friction and shipping solutions:
+- obsidian-open-gate: watching knowledge workers manually context-switch between apps
+- jira-mcp: seeing teams waste hours on repetitive ticket operations
+- mimaid: frustrated with bloated diagram editors when all I needed was clean Mermaid editing
+- InstantCode: debugging frontend code shouldn't require constant tab-switching
+- autosocial-trends: manual trend research was blocking content creation, so I automated it
 
-Adoption and stars validate the problem exists. Daily usage and iteration prove the solution works.
+Stars validate the problem exists. Daily commits and iteration prove the solution works. Production usage proves it's reliable.
+
+### How I work
+
+- **Ship early, iterate based on usage**: InstantCode integrated GitHub Actions after seeing user patterns. autosocial-trends runs daily because that's what real users needed.
+- **Technical depth meets product sense**: Build MCP servers in Go for performance, but design APIs thinking about developer ergonomics. Type safety matters because it reduces user pain, not just because it's technically correct.
+- **AI exploration with engineering discipline**: Testing MCP integrations, agent workflows, and AI-assisted coding tools—but always with production reliability in mind.
 
 ### Connect
 
 - **Website**: [12bit.vn](https://12bit.vn)
 - **Location**: Việt Nam
 - **Company**: Sen Việt
-- **Hireable**: Yes — open to interesting projects and collaborations
+- **Hireable**: Yes — open to interesting projects in developer tooling, AI infrastructure, or workflow automation
 
-I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI infrastructure, or product problems in this space, let's connect.
+I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
 *Last updated: 2025-12-29*
