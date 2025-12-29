@@ -4,39 +4,42 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### What I build
 
-**[InstantCode](https://github.com/nguyenvanduocit/instantCode)** — Browser inspection tool that brings AI directly to your webpage. Click any element for intelligent insights and frontend development help. Solving the context-switching problem developers face when inspecting and understanding UI code. (50 stars, 9 forks)
+**[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian plugin for seamless web integration. Solves the problem of keeping your knowledge base connected to external context without disrupting your note-taking flow. Proven adoption with 215+ stars from knowledge workers who need this bridge. (215 stars, 10 forks)
 
-**[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Web integration for Obsidian notes. Helps knowledge workers bridge the gap between their personal knowledge base and the broader web without leaving their note-taking environment. (214 stars, 10 forks)
+**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP server connecting AI assistants to Jira. Makes project management AI-native by letting agents handle issue management, sprint planning, and workflow transitions. Built after observing repetitive Jira tasks that could be automated. (75 stars, 20 forks)
 
-**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP connector that lets AI assistants like Claude interact with Jira. Makes project management AI-native by enabling agents to handle issue management, sprint planning, and workflow transitions. (75 stars, 20 forks)
+**[InstantCode](https://github.com/nguyenvanduocit/instantCode)** — Browser extension bringing AI insights directly to webpage elements. Eliminates the context-switching tax when debugging frontend code—just click an element and ask. Recently integrated with Claude GitHub Actions for continuous improvement based on user feedback. (50 stars, 9 forks)
 
-**[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC client-server using Socket.IO. Addresses the type safety gap in real-time communication, reducing runtime errors and improving DX for Socket.IO users.
+**[autosocial-trends](https://github.com/nguyenvanduocit/autosocial-trends)** — Automated daily trend research pipeline for social content. Running production workflows that deliver trend data without manual overhead, helping creators stay current. Active iteration with daily commits refining the automation.
 
-**[autosocial-trends](https://github.com/nguyenvanduocit/autosocial-trends)** — Daily trend research automation for social media. Automated pipeline that keeps content creators informed without manual research overhead.
+**[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC framework over Socket.IO. Addresses the DX gap in real-time communication where type safety typically breaks down, reducing runtime errors for teams using Socket.IO.
+
+**[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API. Direct integration for developers who want programmatic access to Copilot capabilities in their own workflows.
 
 ### Current focus
 
-**AI-assisted workflows**: Building MCP servers and exploring how AI agents can integrate into real development and project management workflows. Not just building features—testing how developers actually use these tools and iterating based on feedback.
+**AI-assisted workflows**: Actively building and iterating on MCP servers. Not just implementing specs—testing real integration points, observing where AI agents struggle in development workflows, and fixing those gaps.
 
-**Developer experience**: Creating tools that reduce friction. Every project tackles a specific workflow pain point: context switching (InstantCode), knowledge management (obsidian-open-gate), project management overhead (jira-mcp).
+**Automation that runs**: Building systems that operate daily in production (autosocial-trends), proving reliability under real usage before calling them done.
 
-**Technical systems**: Go for reliable backends and CLIs, TypeScript for developer tooling and browser extensions. Focus on type safety, observability, and systems that hold up under real usage.
+**Developer experience**: Every tool solves a specific friction point. InstantCode removes context switching, obsidian-open-gate connects isolated knowledge, jira-mcp reduces project management overhead. Product decisions come from watching how developers actually work.
 
 ### Technical depth
 
-- **Backend & systems**: Go-first approach for services and tooling, distributed workflows, reliability
-- **AI tooling**: MCP protocol implementation, agent orchestration, context management
-- **TypeScript ecosystems**: Browser extensions, Node tooling, type-safe APIs
-- **Infrastructure**: GitHub Actions, containerized builds, CLI-first development
+- **Backend & systems**: Go-first for MCP servers and CLIs, TypeScript for developer tooling and browser extensions
+- **AI tooling**: MCP protocol implementation, agent orchestration, bridging AI capabilities into existing workflows
+- **Type safety**: Prioritizing type-safe APIs across both Go and TypeScript stacks
+- **Continuous integration**: GitHub Actions for automated workflows, CI/CD that ships improvements based on real usage
 
 ### Product thinking
 
-I don't just ship features—I ship solutions to real problems:
-- InstantCode addresses the friction of context-switching during frontend debugging
-- obsidian-open-gate solves the isolation problem in personal knowledge management
-- jira-mcp makes AI agents useful for actual project management tasks
+I build tools by identifying workflow pain points and shipping solutions:
+- obsidian-open-gate came from watching knowledge workers manually copy context between apps
+- jira-mcp emerged from seeing teams waste time on repetitive ticket management
+- autosocial-trends runs daily because manual trend research was blocking content creation
+- InstantCode integrates with Claude because user feedback showed the need for smarter element analysis
 
-Each tool reflects iteration based on how developers actually work, not just technical capability.
+Adoption and stars validate the problem exists. Daily usage and iteration prove the solution works.
 
 ### Connect
 
@@ -48,4 +51,4 @@ Each tool reflects iteration based on how developers actually work, not just tec
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI infrastructure, or product problems in this space, let's connect.
 
 ---
-*Last updated: 2025-12-28*
+*Last updated: 2025-12-29*
