@@ -20,11 +20,11 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### Current focus (Dec 2025)
 
-**Building AI-native dev tools**: Actively shipping and iterating on MCP servers and AI-assisted workflows. Not just following specs—testing real integration points, finding where AI agents break down in developer workflows, and fixing those gaps with actual code.
+**Shipping AI-assisted tooling**: Daily commits to mimaid (real-time collaborative Mermaid editor), iterating on build pipeline and deployment. Fixing TypeScript errors, integrating Claude AI via GitHub Actions for automated issue resolution. Not just building—actively debugging production deployments on Cloudflare Pages.
 
-**Real-time collaboration**: Working on mimaid's collaborative editing experience. Exploring how developers actually use diagram tools and removing friction from the workflow.
+**Production automation at scale**: autosocial-trends runs daily trend research pipelines, shipping fresh data without manual intervention. Proven reliability through consistent automated execution.
 
-**Production-tested automation**: Running systems that operate daily (autosocial-trends), proving reliability under real usage patterns before calling them shipped.
+**Exploring AI integration patterns**: Building copilot-sdk for direct GitHub Copilot API integration, testing how developers actually want to integrate AI into custom workflows beyond IDE extensions.
 
 ### Technical depth
 
@@ -61,4 +61,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2025-12-29*
+*Last updated: 2025-12-30*
