@@ -20,13 +20,15 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### Current focus (Dec 2025)
 
-**AI-assisted development in production**: Actively using Claude to ship code faster. mimaid uses GitHub Actions to automatically invoke Claude when builds fail—Claude diagnoses TypeScript errors, submits PRs, and fixes issues without manual intervention. Not just talking about AI coding assistants—using them daily to maintain and improve production apps. Testing what works: when to let AI handle routine fixes vs. when human judgment matters.
+**AI-first CI/CD in production**: mimaid runs GitHub Actions that automatically invoke Claude when builds fail. Recent example: TypeScript compilation error fixed autonomously—Claude analyzed the build log, identified unused variable declaration, submitted PR, merged fix. Zero human intervention from failure to deployment. This pattern is now handling all build failures in mimaid, proving AI can reliably maintain production code quality.
 
-**Production-grade automation**: autosocial-trends delivers daily trend research through fully automated pipelines. Zero manual intervention, consistent execution across multiple data sources. Proving that well-designed automation beats manual processes for repetitive workflows.
+**Shipping AI-powered developer tools**: InstantCode brings AI directly into the browser inspection workflow. Click any DOM element, ask questions, get intelligent insights without context-switching. Integrated with GitHub Actions for continuous iteration based on usage patterns. 50 stars from developers who needed exactly this: AI assistance without leaving their debugging flow.
 
-**Expanding AI integration surfaces**: Building copilot-sdk to unlock programmatic GitHub Copilot access. Developers shouldn't be limited to IDE extensions—API-first access enables custom workflows, integrations, and automation that editors can't provide.
+**Programmatic AI access**: Building copilot-sdk to unlock GitHub Copilot API for custom integrations. The problem: developers are locked into IDE extensions. The solution: TypeScript SDK for direct API access, enabling programmatic Copilot integration in any workflow. Shipping the foundation for AI-assisted tooling beyond traditional editors.
 
-**MCP adoption and iteration**: jira-mcp (76 stars, 20 forks) demonstrates MCP's value for enterprise tool integration. Real teams using it in production validates the approach. Continuing to explore where MCP adds the most value in connecting AI to existing workflows.
+**Production automation at scale**: autosocial-trends runs fully automated daily pipelines—zero manual intervention, consistent trend research delivery. Not a prototype: production system handling real content workflows. Demonstrates that well-designed automation eliminates entire categories of manual work.
+
+**MCP ecosystem leadership**: jira-mcp (76 stars, 20 forks) proves MCP's value for enterprise integrations. Real teams using it in production to connect AI assistants to Jira workflows. Actively exploring where MCP adds the most leverage: GitLab, Confluence, and other knowledge work platforms.
 
 ### Technical depth
 
@@ -64,4 +66,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2025-12-31*
+*Last updated: 2025-12-31 00:35 UTC*
