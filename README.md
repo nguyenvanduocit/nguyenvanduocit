@@ -20,13 +20,13 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### Current focus (Dec 2025)
 
-**Shipping AI-assisted tooling**: Daily iteration on mimaid with AI-powered development workflows. Integrated Claude via GitHub Actions—when builds fail, Claude automatically diagnoses and fixes TypeScript errors through PR automation. Not just building features, actively testing AI-assisted development patterns in production.
+**AI-assisted development in production**: Actively using Claude to ship code faster. mimaid uses GitHub Actions to automatically invoke Claude when builds fail—Claude diagnoses TypeScript errors, submits PRs, and fixes issues without manual intervention. Not just talking about AI coding assistants—using them daily to maintain and improve production apps. Testing what works: when to let AI handle routine fixes vs. when human judgment matters.
 
-**Production automation at scale**: autosocial-trends runs daily trend research pipelines, shipping fresh data without manual intervention. Proven reliability through consistent automated execution across multiple sources.
+**Production-grade automation**: autosocial-trends delivers daily trend research through fully automated pipelines. Zero manual intervention, consistent execution across multiple data sources. Proving that well-designed automation beats manual processes for repetitive workflows.
 
-**Exploring AI integration patterns**: Building copilot-sdk to enable direct GitHub Copilot API integration. Testing how developers actually want to integrate AI into custom workflows beyond IDE extensions—API-first approach for programmatic access.
+**Expanding AI integration surfaces**: Building copilot-sdk to unlock programmatic GitHub Copilot access. Developers shouldn't be limited to IDE extensions—API-first access enables custom workflows, integrations, and automation that editors can't provide.
 
-**MCP ecosystem leadership**: jira-mcp continues gaining production adoption (76 stars, 20 forks). Demonstrating MCP's value for connecting AI assistants to enterprise tools. Active in the broader MCP community.
+**MCP adoption and iteration**: jira-mcp (76 stars, 20 forks) demonstrates MCP's value for enterprise tool integration. Real teams using it in production validates the approach. Continuing to explore where MCP adds the most value in connecting AI to existing workflows.
 
 ### Technical depth
 
@@ -64,4 +64,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2025-12-30*
+*Last updated: 2025-12-31*
