@@ -18,17 +18,17 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 **[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC over Socket.IO. Solves the DX gap where real-time communication breaks type safety, reducing runtime errors for teams using Socket.IO. (TypeScript)
 
-### Current focus (Dec 2025)
+### Current focus (Jan 2026)
 
-**AI-first CI/CD in production**: mimaid runs GitHub Actions that automatically invoke Claude when builds fail. Recent example: TypeScript compilation error fixed autonomously—Claude analyzed the build log, identified unused variable declaration, submitted PR, merged fix. Zero human intervention from failure to deployment. This pattern is now handling all build failures in mimaid, proving AI can reliably maintain production code quality.
+**AI-first CI/CD in production**: mimaid runs GitHub Actions that automatically invoke Claude when builds fail. Recent example (Dec 29, 2025): TypeScript compilation error fixed autonomously—Claude analyzed the Cloudflare Pages build log, identified unused variable declaration, created PR, merged fix. Zero human intervention from failure to deployment. This pattern is actively handling build failures in production, proving AI can reliably maintain code quality without blocking developers.
 
-**Shipping AI-powered developer tools**: InstantCode brings AI directly into the browser inspection workflow. Click any DOM element, ask questions, get intelligent insights without context-switching. Integrated with GitHub Actions for continuous iteration based on usage patterns. 50 stars from developers who needed exactly this: AI assistance without leaving their debugging flow.
+**Shipping AI-powered developer tools**: InstantCode brings AI directly into the browser inspection workflow. Click any DOM element, ask questions, get intelligent insights without context-switching. Integrated with GitHub Actions for continuous iteration (latest update Dec 28). 50 stars from developers who needed exactly this: AI assistance without leaving their debugging flow.
 
-**Programmatic AI access**: Building copilot-sdk to unlock GitHub Copilot API for custom integrations. The problem: developers are locked into IDE extensions. The solution: TypeScript SDK for direct API access, enabling programmatic Copilot integration in any workflow. Shipping the foundation for AI-assisted tooling beyond traditional editors.
+**Programmatic AI access**: copilot-sdk unlocks GitHub Copilot API for custom integrations. The problem: developers are locked into IDE extensions. The solution: TypeScript SDK for direct API access, enabling programmatic Copilot integration in any workflow. Active development continues (latest update Dec 29) to expand the foundation for AI-assisted tooling beyond traditional editors.
 
-**Production automation at scale**: autosocial-trends runs fully automated daily pipelines—zero manual intervention, consistent trend research delivery. Not a prototype: production system handling real content workflows. Demonstrates that well-designed automation eliminates entire categories of manual work.
+**Production automation at scale**: autosocial-trends runs fully automated daily pipelines—zero manual intervention, consistent trend research delivery. Daily commits prove reliability: not a prototype, but a production system handling real content workflows. Demonstrates that well-designed automation eliminates entire categories of manual work.
 
-**MCP ecosystem leadership**: jira-mcp (76 stars, 20 forks) proves MCP's value for enterprise integrations. Real teams using it in production to connect AI assistants to Jira workflows. Actively exploring where MCP adds the most leverage: GitLab, Confluence, and other knowledge work platforms.
+**MCP ecosystem leadership**: jira-mcp (76 stars, 20 forks) proves MCP's value for enterprise integrations. Real teams using it in production to connect AI assistants to Jira workflows. The broader MCP ecosystem is maturing, showing that standardized AI-context protocols unlock genuine productivity gains for knowledge work.
 
 ### Technical depth
 
@@ -66,4 +66,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2025-12-31 00:35 UTC*
+*Last updated: 2026-01-01 12:15 UTC*
