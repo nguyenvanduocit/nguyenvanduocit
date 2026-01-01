@@ -20,15 +20,15 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**AI-first CI/CD in production**: mimaid runs GitHub Actions that automatically invoke Claude when builds fail. Recent example (Dec 29, 2025): TypeScript compilation error fixed autonomously—Claude analyzed the Cloudflare Pages build log, identified unused variable declaration, created PR, merged fix. Zero human intervention from failure to deployment. This pattern is actively handling build failures in production, proving AI can reliably maintain code quality without blocking developers.
+**AI-first CI/CD refinement**: Building on the autonomous build-fixing pattern established in mimaid. Dec 29 demonstrated the full cycle: Claude analyzed Cloudflare Pages TypeScript error, created fix, merged PR—zero human intervention. Now refining this approach across multiple projects, establishing patterns for when AI should autonomously fix vs. alert. The goal: maintainable CI/CD that handles routine failures autonomously while escalating genuinely novel issues.
 
-**Shipping AI-powered developer tools**: InstantCode brings AI directly into the browser inspection workflow. Click any DOM element, ask questions, get intelligent insights without context-switching. Integrated with GitHub Actions for continuous iteration (latest update Dec 28). 50 stars from developers who needed exactly this: AI assistance without leaving their debugging flow.
+**Real-time collaboration tooling**: mimaid deployed collaborative diagram editing with Liveblocks + Yjs integration. Solving the problem where teams fumble with diagram sync across Slack/Notion. Real-time editing with AI-assisted error recovery means diagrams stay current without manual coordination overhead.
 
-**Programmatic AI access**: copilot-sdk unlocks GitHub Copilot API for custom integrations. The problem: developers are locked into IDE extensions. The solution: TypeScript SDK for direct API access, enabling programmatic Copilot integration in any workflow. Active development continues (latest update Dec 29) to expand the foundation for AI-assisted tooling beyond traditional editors.
+**Unlocking programmatic AI workflows**: copilot-sdk removes the IDE lock-in barrier. Latest work (Dec 29) focused on streamlined authentication and TypeScript ergonomics. Use case: integrate Copilot into custom tooling, CLIs, or backend workflows—not just editor extensions. Opening the door to AI-assisted automation that runs server-side or in CI/CD.
 
-**Production automation at scale**: autosocial-trends runs fully automated daily pipelines—zero manual intervention, consistent trend research delivery. Daily commits prove reliability: not a prototype, but a production system handling real content workflows. Demonstrates that well-designed automation eliminates entire categories of manual work.
+**Production-grade automation patterns**: autosocial-trends proves daily automated pipelines work at scale. Recent activity (Dec 28-30) shows consistent daily trend research with zero manual intervention. This isn't a demo—it's infrastructure that eliminates an entire job function. Key insight: reliable automation requires thoughtful error handling and monitoring, not just "run this daily."
 
-**MCP ecosystem leadership**: jira-mcp (76 stars, 20 forks) proves MCP's value for enterprise integrations. Real teams using it in production to connect AI assistants to Jira workflows. The broader MCP ecosystem is maturing, showing that standardized AI-context protocols unlock genuine productivity gains for knowledge work.
+**MCP ecosystem growth**: jira-mcp hit 76 stars, 20 forks—real adoption by teams integrating AI with enterprise workflows. The broader trend: MCP is moving from "interesting experiment" to "production integration layer." watching the ecosystem mature: more servers, better tooling, clearer patterns for AI-context standardization.
 
 ### Technical depth
 
@@ -66,4 +66,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2026-01-01 12:15 UTC*
+*Last updated: 2026-01-01*
