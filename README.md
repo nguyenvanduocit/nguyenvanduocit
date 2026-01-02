@@ -22,15 +22,15 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**AI-first CI/CD in production**: Established autonomous build-fixing patterns in mimaid. Recent activity (Dec 29) showed the full cycle: Claude analyzed Cloudflare Pages TypeScript error, created fix, merged PR—zero human intervention. Now refining this approach: when should AI autonomously fix vs. alert? Building production-grade patterns for maintainable CI/CD that handles routine failures autonomously while escalating novel issues.
+**AI-driven CI/CD patterns proven at scale**: mimaid autonomously fixed Cloudflare Pages TypeScript build failures (Dec 29) through full GitHub Actions workflow—Claude analyzed error logs, generated fix, opened PR, merged without human intervention. This validates the pattern: AI agents handling routine build failures while humans focus on architecture decisions. Now scaling this approach: which categories of failures are safe for autonomous fixes vs. requiring human review? Building production patterns for AI-first CI/CD that reduce toil without compromising safety.
 
-**Real-time collaboration tooling**: mimaid deploys collaborative diagram editing with Liveblocks + Yjs integration. Solving the problem where teams fumble with diagram sync across Slack/Notion. Real-time editing with AI-assisted error recovery means diagrams stay current without manual coordination overhead. InstantCode continues shipping improvements via GitHub Actions based on user feedback.
+**Real-time collaborative tooling in production**: mimaid ships live diagram editing with Liveblocks + Yjs. Solves the coordination problem where diagram updates get lost in Slack threads or stale Notion docs. Real-time sync plus AI-driven error recovery means teams maintain current architecture diagrams without manual overhead. InstantCode (Dec 28) integrated GitHub Actions for continuous improvement based on real usage patterns—tools that evolve with their users.
 
-**Unlocking programmatic AI workflows**: copilot-sdk removes the IDE lock-in barrier. Latest work (Dec 29) focused on streamlined authentication and TypeScript ergonomics. Use case: integrate Copilot into custom tooling, CLIs, or backend workflows—not just editor extensions. Opening the door to AI-assisted automation that runs server-side or in CI/CD.
+**Programmatic AI workflows without IDE lock-in**: copilot-sdk (Dec 29 updates) provides direct TypeScript SDK for GitHub Copilot API. Removes the "must use VS Code/JetBrains" constraint. Enables: custom CLI tools with Copilot suggestions, backend services using Copilot for code generation, CI/CD pipelines with AI-assisted code review. Latest work improved authentication flow and TypeScript ergonomics. Opening AI assistance to server-side workflows, not just interactive editing.
 
-**Production-grade automation patterns**: autosocial-trends proves daily automated pipelines work at scale. Consistent daily trend research (Dec 28-30) with zero manual intervention. This isn't a demo—it's infrastructure that eliminates manual research overhead. Key insight: reliable automation requires thoughtful error handling and monitoring, not just "run this daily."
+**Production automation infrastructure**: autosocial-trends ran daily without intervention (Dec 28-30), delivering fresh trend research autonomously. This isn't a demo—it's production infrastructure eliminating manual research tasks. Key learning: reliable automation needs robust error handling and monitoring, not just "cron job + script." Building patterns for autonomous agents that degrade gracefully and alert on anomalies.
 
-**MCP ecosystem growth**: jira-mcp hit 76 stars, 20 forks—real adoption by teams integrating AI with enterprise workflows. The broader trend: MCP is moving from "interesting experiment" to "production integration layer." Watching the ecosystem mature: more servers, better tooling, clearer patterns for AI-context standardization.
+**MCP ecosystem maturation**: jira-mcp reached 76 stars, 20 forks—real teams integrating AI with enterprise workflows. Watching MCP evolve from "interesting protocol" to "production integration layer." The ecosystem is maturing: more MCP servers launching, better tooling emerging, clearer patterns for context standardization. Contributing to this shift by building production-grade Go implementations and sharing learnings.
 
 ### Technical depth
 
@@ -69,4 +69,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: 2026-01-02*
+*Last updated: January 2, 2026*
