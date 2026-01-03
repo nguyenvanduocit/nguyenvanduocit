@@ -18,8 +18,6 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 **[fetch-kit](https://github.com/nguyenvanduocit/fetch-kit)** — Go toolkit for handling web content fetching with common patterns like retries, timeouts, and user-agent management. Solves the repetitive boilerplate when building scrapers and research tools. 9 stars from Go developers who needed battle-tested HTTP utilities. (Go)
 
-**[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe RPC over Socket.IO. Solves the DX gap where real-time communication breaks type safety, reducing runtime errors for teams using Socket.IO in production. (TypeScript)
-
 ### Current focus (Jan 2026)
 
 **AI-driven CI/CD patterns proven at scale**: mimaid autonomously fixed Cloudflare Pages TypeScript build failures (Dec 29) through full GitHub Actions workflow—Claude analyzed error logs, generated fix, opened PR, merged without human intervention. This validates the pattern: AI agents handling routine build failures while humans focus on architecture decisions. Now scaling this approach: which categories of failures are safe for autonomous fixes vs. requiring human review? Building production patterns for AI-first CI/CD that reduce toil without compromising safety.
@@ -69,4 +67,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: January 2, 2026*
+*Last updated: January 3, 2026*
