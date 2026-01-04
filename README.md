@@ -18,19 +18,19 @@ I'm a Pi-shaped engineer: deep technical expertise in backend systems and AI too
 
 **[fetch-kit](https://github.com/nguyenvanduocit/fetch-kit)** — Go toolkit for handling web content fetching with common patterns like retries, timeouts, and user-agent management. Solves the repetitive boilerplate when building scrapers and research tools. 9 stars from Go developers who needed battle-tested HTTP utilities. (Go)
 
-### Current focus (Jan 2026)
+### Current focus (Early Jan 2026)
 
-**AI-driven CI/CD validation moving to production**: mimaid autonomously fixed Cloudflare Pages TypeScript build failures (Dec 29) through full GitHub Actions workflow—Claude analyzed error logs, generated fix, opened PR, merged without human intervention. InstantCode integrated the same pattern (Dec 28). Now validating at scale: which failure categories are safe for autonomous fixes vs. requiring human review? Building production patterns for AI agents handling routine build failures while humans focus on architecture. Real teams are asking how to adopt this.
+**AI-driven autonomous development workflows in production**: Recent work validates the pattern—mimaid autonomously fixed Cloudflare Pages build failures (Dec 29): Claude analyzed error logs via GitHub Actions webhook, generated fix, opened PR, merged without human intervention. InstantCode adopted the same pattern (Dec 28). Now exploring boundaries: starred Auto-Claude (Jan 1) researching full agent automation. The shift from "AI assists developers" to "AI autonomously maintains codebases with human oversight" is happening. Building production patterns for when agents should act vs. escalate.
 
-**Exploring agent orchestration boundaries**: Recent activity shows interesting pattern—starred Auto-Claude (Jan 1) for agent automation research. The question isn't "can agents fix build failures?" (proven: yes). It's "when should they?" and "how do teams coordinate human+AI workflows?" Exploring practical orchestration patterns that work for real teams, not just demos.
+**Agent orchestration at the workflow level**: The question evolved from "can agents fix bugs?" (yes) to "when should they, and how do teams coordinate human+AI collaboration?" Recent activity pattern shows exploration of multi-agent systems—not just single-task automation, but orchestrated workflows where agents handle routine maintenance (build failures, dependency updates) while humans focus on architecture and product decisions. Researching practical orchestration patterns beyond demos.
 
-**Real-time collaborative tooling in production**: mimaid ships live diagram editing with Liveblocks + Yjs. Solves the coordination problem where diagram updates get lost in Slack threads or stale Notion docs. Real-time sync plus AI-driven error recovery means teams maintain current architecture diagrams without manual overhead. Production deployment shows reliable uptime with autonomous fixes.
+**Real-time collaborative tooling meets autonomous maintenance**: mimaid ships live diagram editing (Liveblocks + Yjs) with AI-driven error recovery. The combo solves two problems: real-time sync prevents stale diagrams, autonomous fixes maintain uptime. Teams keep architecture current without manual overhead. This pattern—collaborative UX + autonomous operations—appears repeatedly in production tools. Validating it scales beyond diagram editors.
 
-**Programmatic AI workflows without IDE lock-in**: copilot-sdk (Dec 29 updates) provides direct TypeScript SDK for GitHub Copilot API. Removes the "must use VS Code/JetBrains" constraint. Enables: custom CLI tools with Copilot suggestions, backend services using Copilot for code generation, CI/CD pipelines with AI-assisted code review. Latest work improved authentication flow and TypeScript ergonomics. Opening AI assistance to server-side workflows, not just interactive editing.
+**Programmatic AI workflows without IDE constraints**: copilot-sdk (latest updates Dec 29) provides direct TypeScript SDK for GitHub Copilot API. Removes "must use VS Code/JetBrains" lock-in. Use cases emerging: CLI tools with AI suggestions, backend services generating code programmatically, CI/CD pipelines with AI code review. Opening AI assistance to server-side workflows, not just interactive editing. Latest work improved auth flow and TypeScript ergonomics based on real usage.
 
-**Production automation infrastructure**: autosocial-trends ran daily without intervention (Dec 28-30), delivering fresh trend research autonomously. This isn't a demo—it's production infrastructure eliminating manual research tasks. Key learning: reliable automation needs robust error handling and monitoring, not just "cron job + script." Building patterns for autonomous agents that degrade gracefully and alert on anomalies.
+**Production automation infrastructure evolving**: autosocial-trends runs daily (Dec 28-30) delivering fresh trend research autonomously—no manual intervention. This proves reliable automation requires more than "cron + script": robust error handling, monitoring, graceful degradation, anomaly alerts. Building patterns where autonomous agents run production workloads with monitoring and escalation when needed. Real-world validation of "set it and forget it" AI workflows.
 
-**MCP ecosystem maturation**: jira-mcp reached 76 stars, 20 forks—real teams integrating AI with enterprise workflows. Watching MCP evolve from "interesting protocol" to "production integration layer." The ecosystem is maturing: more MCP servers launching, better tooling emerging, clearer patterns for context standardization. Contributing to this shift by building production-grade Go implementations and sharing learnings.
+**MCP ecosystem reaching production maturity**: jira-mcp hit 76 stars, 20 forks—real enterprise teams integrating AI with workflows. MCP shifted from "interesting protocol" to "production integration layer." More servers launching, better tooling emerging, clearer context standardization patterns. Contributing production-grade Go implementations and sharing operational learnings. The ecosystem is maturing from exploration to deployment.
 
 ### Technical depth
 
@@ -69,4 +69,4 @@ Stars validate the problem exists. Daily commits and iteration prove the solutio
 I care about building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, MCP integrations, or solving real product problems in this space, let's connect.
 
 ---
-*Last updated: January 3, 2026*
+*Last updated: January 4, 2026*
