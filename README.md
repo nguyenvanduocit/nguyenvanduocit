@@ -10,9 +10,9 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 **[InstantCode](https://github.com/nguyenvanduocit/instantCode)** — Browser extension that stops context-switching during frontend debugging. Click any element, ask AI about it. No copy-paste, no tab-juggling. Recently added Claude GitHub Actions integration for autonomous improvements. 50 stars from developers fixing real workflow friction. (TypeScript)
 
-**[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid diagram editor built from frustration with bloated alternatives. Clean interface, real-time collaboration via Liveblocks and Yjs, AI-driven maintenance. Live at [mimaid.aiocean.dev](https://mimaid.aiocean.dev). Claude autonomously fixes build failures through GitHub Actions—Dec 29 proved the concept when it caught and fixed an unused variable breaking Cloudflare Pages deployment. (TypeScript)
+**[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid diagram editor built from frustration with bloated alternatives. Clean interface, real-time collaboration via Liveblocks and Yjs, AI-driven maintenance. Live at [mimaid.aiocean.dev](https://mimaid.aiocean.dev). Claude autonomously maintains the codebase through GitHub Actions—recent example: caught and fixed TypeScript build errors blocking Cloudflare Pages deployment without human intervention. Production proof that AI can own routine maintenance. (TypeScript)
 
-**[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for direct GitHub Copilot API access, no editor required. For developers building programmatic AI workflows: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI-powered reviews. Dec 29 updates improved auth and TypeScript ergonomics based on integration feedback. (TypeScript)
+**[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for direct GitHub Copilot API access, no editor required. For developers building programmatic AI workflows: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI-powered reviews. Continuous iteration on auth flows and TypeScript ergonomics based on integration feedback. (TypeScript)
 
 **[autosocial-trends](https://github.com/nguyenvanduocit/autosocial-trends)** — Daily automated trend research pipeline in production. Content creators need current data without burning research time. This runs daily without human intervention. (Automated workflow)
 
@@ -20,13 +20,13 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid's autonomous build fixes (proven Dec 29) demonstrate the pattern: Cloudflare Pages build fails, Claude analyzes logs, fixes TypeScript errors, opens PR, merges—zero human intervention. InstantCode also deployed autonomous improvement workflows. Key insight: build failures, unused variables, lint errors are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining when AI acts independently vs. when it escalates.
+**AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid and InstantCode prove the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Recent example: TypeScript unused variable broke Cloudflare Pages deployment—Claude caught it, fixed it, shipped it. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining boundaries between autonomous execution and human escalation.
 
 **Extracting patterns from real usage**: Early 2026 activity shows clear boundaries emerging—AI excels at repetitive maintenance (builds, dependencies, lint), humans own product direction. The question shifted from "can AI help?" to "what should AI own completely?" Autonomous daily commits in mimaid and autosocial-trends prove it works. Current work: packaging these orchestration patterns so other teams can deploy autonomous AI maintenance without rebuilding infrastructure.
 
 **Real-time collaboration with zero-maintenance infrastructure**: mimaid combines seamless multi-user editing (Liveblocks + Yjs) with AI-driven build health. Users get instant collaborative DX and zero downtime from broken builds. Testing if this "human-facing collaboration + AI maintenance layer" architecture scales to other developer tools beyond diagram editors.
 
-**Programmatic AI workflows**: copilot-sdk unlocks GitHub Copilot API access without editor lock-in. Emerging use cases: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI reviews. Late Dec updates refined auth and TypeScript ergonomics based on integration feedback. Goal: enable headless AI automation, not just interactive coding sessions. Exploring integration patterns between Copilot and MCP for richer context.
+**Programmatic AI workflows**: copilot-sdk unlocks GitHub Copilot API access without editor lock-in. Emerging use cases: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI reviews. Continuous iteration on auth flows and TypeScript ergonomics based on real integration feedback. Goal: enable headless AI automation, not just interactive coding sessions. Exploring integration patterns between Copilot and MCP for richer context.
 
 **Daily autonomous operations**: autosocial-trends runs unattended trend research daily with consistent results. Building reliable AI operations means robust error handling, active monitoring, graceful degradation, clear escalation paths. Moving from demo scripts to infrastructure that operates overnight without human babysitting.
 
@@ -71,4 +71,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 7, 2026*
+*Last updated: January 7, 2026 by AI*
