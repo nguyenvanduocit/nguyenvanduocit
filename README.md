@@ -20,17 +20,19 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**AI autonomy in production infrastructure**: mimaid runs Claude GitHub Actions to autonomously fix build failures. Dec 29 demonstrated the pattern: Cloudflare Pages build breaks, Claude analyzes logs, identifies unused TypeScript variable, opens PR, merges fix—no human intervention. Production systems now maintain themselves. Key learning: build failures, unused variables, lint errors are safe for autonomous handling. Architectural decisions, API changes, security patches still need human review. Working out when AI acts autonomously vs. when it escalates.
+**AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid's autonomous build fixes (proven Dec 29) demonstrate the pattern: Cloudflare Pages build fails, Claude analyzes logs, fixes TypeScript errors, opens PR, merges—zero human intervention. InstantCode also deployed autonomous improvement workflows. Key insight: build failures, unused variables, lint errors are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining when AI acts independently vs. when it escalates.
 
-**Extracting patterns from real usage**: mimaid and InstantCode reveal clear boundaries—AI excels at repetitive maintenance (builds, dependencies, lint), humans own product direction and architecture. The question evolved from "can AI help?" to "what should AI own completely?" Autonomous daily commits prove it works. Current work: packaging these orchestration patterns so other teams can deploy autonomous AI maintenance.
+**Extracting patterns from real usage**: Early 2026 activity shows clear boundaries emerging—AI excels at repetitive maintenance (builds, dependencies, lint), humans own product direction. The question shifted from "can AI help?" to "what should AI own completely?" Autonomous daily commits in mimaid and autosocial-trends prove it works. Current work: packaging these orchestration patterns so other teams can deploy autonomous AI maintenance without rebuilding infrastructure.
 
 **Real-time collaboration with zero-maintenance infrastructure**: mimaid combines seamless multi-user editing (Liveblocks + Yjs) with AI-driven build health. Users get instant collaborative DX and zero downtime from broken builds. Testing if this "human-facing collaboration + AI maintenance layer" architecture scales to other developer tools beyond diagram editors.
 
-**Programmatic AI workflows**: copilot-sdk unlocks GitHub Copilot API access without editor lock-in. Emerging use cases: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI reviews. Dec 29 updates refined auth and TypeScript ergonomics based on integration feedback. Goal: enable headless AI automation, not just interactive coding sessions.
+**Programmatic AI workflows**: copilot-sdk unlocks GitHub Copilot API access without editor lock-in. Emerging use cases: CLI tools with AI suggestions, backend services generating code, CI/CD pipelines with AI reviews. Late Dec updates refined auth and TypeScript ergonomics based on integration feedback. Goal: enable headless AI automation, not just interactive coding sessions. Exploring integration patterns between Copilot and MCP for richer context.
 
-**Daily autonomous operations**: autosocial-trends runs unattended trend research daily. Recent activity confirms consistency. Building reliable AI operations means robust error handling, active monitoring, graceful degradation, clear escalation paths. Moving from demo scripts to infrastructure that operates overnight.
+**Daily autonomous operations**: autosocial-trends runs unattended trend research daily with consistent results. Building reliable AI operations means robust error handling, active monitoring, graceful degradation, clear escalation paths. Moving from demo scripts to infrastructure that operates overnight without human babysitting.
 
-**MCP in production teams**: jira-mcp (76 stars, 20 forks) proves real teams deploy AI-Jira integration. MCP shifted from "interesting protocol" to "critical integration layer." Contributing Go implementations and operational learnings from running MCP servers at scale. Focus: making MCP production-ready, not just technically possible.
+**MCP in production teams**: jira-mcp (76 stars, 20 forks) proves real teams deploy AI-Jira integration. MCP shifted from "interesting protocol" to "critical integration layer." Contributing Go implementations and operational learnings from running MCP servers at scale. Early 2026 activity shows continued interest in AI-assisted project management. Focus: making MCP production-ready, not just technically possible.
+
+**Exploring agent orchestration**: Watching projects like claude-reflect (AI self-reflection patterns) and Auto-Claude (autonomous workflows) to understand emerging patterns in agent coordination. Current tooling focuses on single-agent workflows; multi-agent orchestration is the next frontier for complex tasks requiring different specializations.
 
 ### Technical depth
 
@@ -69,4 +71,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 6, 2026*
+*Last updated: January 7, 2026*
