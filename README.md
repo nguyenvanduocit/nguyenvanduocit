@@ -20,6 +20,8 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
+**Shipping Clik**: Launched v0.1.0 and v0.2.0 (Jan 7, 2026)—a native macOS app for MCP server management. Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed, each with separate config files. Clik centralizes server management in one interface. Early releases gathering user feedback on UX and workflow fit. Building in public to understand what developers actually need for MCP tooling. (aiocean/clik-releases)
+
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid and InstantCode prove the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Recent example: TypeScript unused variable broke Cloudflare Pages deployment—Claude caught it, fixed it, shipped it. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining boundaries between autonomous execution and human escalation.
 
 **Extracting patterns from real usage**: Early 2026 activity shows clear boundaries emerging—AI excels at repetitive maintenance (builds, dependencies, lint), humans own product direction. The question shifted from "can AI help?" to "what should AI own completely?" Autonomous daily commits in mimaid and autosocial-trends prove it works. Current work: packaging these orchestration patterns so other teams can deploy autonomous AI maintenance without rebuilding infrastructure.
@@ -71,4 +73,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 7, 2026 by AI*
+*Last updated: January 8, 2026 by AI*
