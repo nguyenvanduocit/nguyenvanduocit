@@ -20,7 +20,7 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**Shipping Clik**: Actively iterating on Clik, a native macOS MCP server manager—v0.6.0 through v0.8.0 shipped in early January 2026. Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed, each with separate config files and manual JSON editing. Clik centralizes server management in one native interface with visual config, server health monitoring, and one-click installation. Rapid iteration cycle (multiple releases per day) driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. Building in public, learning what developers actually need when managing 5+ MCP servers daily. (aiocean/clik-releases)
+**Shipping Clik**: Actively iterating on Clik, a native macOS MCP server manager—rapid release cycle with v0.6.0 through v0.8.0+ shipped in early January 2026. Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed, each with separate config files and manual JSON editing. Clik centralizes server management in one native interface with visual config, server health monitoring, and one-click installation. Multiple releases per day driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. Building in public, learning what developers actually need when managing 5+ MCP servers daily. (aiocean/clik-releases)
 
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid and InstantCode prove the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Recent example: TypeScript unused variable broke Cloudflare Pages deployment—Claude caught it, fixed it, shipped it. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining boundaries between autonomous execution and human escalation.
 
@@ -34,7 +34,7 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 **MCP in production teams**: jira-mcp (76 stars, 20 forks) proves real teams deploy AI-Jira integration. MCP shifted from "interesting protocol" to "critical integration layer." Contributing Go implementations and operational learnings from running MCP servers at scale. Early 2026 activity shows continued interest in AI-assisted project management. Focus: making MCP production-ready, not just technically possible.
 
-**Exploring agent orchestration**: Watching projects like claude-reflect (AI self-reflection patterns) and Auto-Claude (autonomous workflows) to understand emerging patterns in agent coordination. Current tooling focuses on single-agent workflows; multi-agent orchestration is the next frontier for complex tasks requiring different specializations.
+**Exploring agent orchestration and multi-agent systems**: Watching projects like claude-reflect (AI self-reflection patterns) and Auto-Claude (autonomous workflows) to understand emerging patterns in agent coordination. Current tooling focuses on single-agent workflows; multi-agent orchestration is the next frontier for complex tasks requiring different specializations. The rapid Clik iteration cycle demonstrates how fast feedback loops enable better product decisions—applying these lessons to agent orchestration where multiple specialized agents need to coordinate without human bottlenecks.
 
 ### Technical depth
 
@@ -73,4 +73,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 9, 2026 by AI*
+*Last updated: January 9, 2026*
