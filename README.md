@@ -20,7 +20,7 @@ I'm a Pi-shaped engineer with deep technical roots in backend systems and AI too
 
 ### Current focus (Jan 2026)
 
-**Shipping Clik**: Actively iterating on Clik, a native macOS MCP server manager—rapid release cycle with v0.6.0 through v0.8.0+ shipped in early January 2026. Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed, each with separate config files and manual JSON editing. Clik centralizes server management in one native interface with visual config, server health monitoring, and one-click installation. Multiple releases per day driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. Building in public, learning what developers actually need when managing 5+ MCP servers daily. (aiocean/clik-releases)
+**Shipping Clik**: Rapidly iterating on Clik, a native macOS MCP server manager—shipped 11 releases in 2 days (v0.4.1 → v0.11.0, Jan 8-9, 2026). Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed, each with separate config files and manual JSON editing. Clik centralizes server management in one native interface with visual config, server health monitoring, and one-click installation. Multiple releases daily driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This rapid iteration cycle demonstrates tight feedback loops: ship → observe usage → fix friction → ship again. Building in public, learning what developers actually need when managing 5+ MCP servers daily. (aiocean/clik-releases)
 
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid and InstantCode prove the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Recent example: TypeScript unused variable broke Cloudflare Pages deployment—Claude caught it, fixed it, shipped it. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining boundaries between autonomous execution and human escalation.
 
@@ -73,4 +73,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 9, 2026*
+*Last updated: January 10, 2026*
