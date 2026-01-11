@@ -1,6 +1,11 @@
 ## Hi, I'm Duoc Nguyen 👋
 
-I'm a Pi-shaped engineer combining three strengths: deep technical expertise in backend systems and AI tooling (Go, TypeScript), active exploration of AI agents and MCP ecosystems, and product thinking from shipping developer tools people actually adopt.
+I'm a Pi-shaped engineer combining three strengths:
+- **Deep technical expertise** in backend systems and AI tooling (Go, TypeScript)
+- **Active exploration** of AI agents, MCP, and AI-assisted workflows
+- **Product development knowledge** from shipping developer tools and learning from user feedback
+
+I spot workflow friction, build solutions, and iterate based on real usage. My projects solve problems teams face daily: eliminating context-switching during debugging, bridging knowledge bases with the web, giving AI native access to project management systems.
 
 ### What I build
 
@@ -18,11 +23,13 @@ I'm a Pi-shaped engineer combining three strengths: deep technical expertise in 
 
 **[fetch-kit](https://github.com/nguyenvanduocit/fetch-kit)** — Go toolkit for web content fetching with battle-tested patterns: retries, timeouts, user-agent management. Extracted from repeatedly building scrapers and research tools. 9 stars from Go developers needing HTTP utilities that just work. (Go)
 
+**[goscrape](https://github.com/nguyenvanduocit/goscrape)** — Go-based web scraping tool for downloading entire websites for offline access. Recently updated (Jan 8, 2026) with improvements for reliability and modern web handling. Solves the problem of preserving web content for offline documentation, archival, or local development. (Go)
+
 ### Current focus (Jan 2026)
 
-**Building Claude plugin ecosystem**: Deep in `aiocean/claude-plugins` (Jan 10, 2026)—exploring how to extend Claude's capabilities through composable plugins. The MCP protocol proves AI assistants need external integrations; now investigating how plugin architectures can make those integrations more modular, discoverable, and maintainable. Early-stage work translating lessons from Clik's MCP server management into reusable plugin patterns.
+**Building Claude plugin ecosystem**: Actively developing `aiocean/claude-plugins` (latest work: Jan 10, 2026). The problem: MCP proves AI assistants need external integrations, but developers still rebuild common patterns—authentication, rate limiting, error handling—for each server. Building a plugin architecture that makes MCP integrations more modular, discoverable, and maintainable. Translating lessons from Clik's rapid iteration into reusable patterns. Goal: reduce time from "I need Claude to access X" to working integration from days to minutes.
 
-**Shipping Clik**: Rapidly iterated through 11 releases in 2 days (v0.4.1 → v0.11.0, Jan 8-9, 2026). Problem: developers juggle multiple MCP servers across Claude Desktop, Cursor, Zed—each with separate config files and manual JSON editing. Clik centralizes server management in one native macOS interface with visual config, health monitoring, and one-click installation. Multiple daily releases driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This rapid iteration demonstrates tight feedback loops: ship → observe usage → fix friction → ship again. Building in public, learning what developers actually need when managing 5+ MCP servers daily. (aiocean/clik-releases)
+**Shipping Clik**: Rapid iteration cycle with 11 releases in 2 days (v0.4.1 → v0.11.0, Jan 8-9, 2026), now stabilizing with continued refinements (latest: Jan 9). The problem: developers managing 5+ MCP servers across Claude Desktop, Cursor, Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This demonstrates product iteration at speed: ship → observe friction → fix → ship again. The work continues: recent updates focus on stability, edge cases, and polish based on real usage patterns. (aiocean/clik-releases)
 
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude GitHub Actions. mimaid and InstantCode prove the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Recent example: TypeScript unused variable broke Cloudflare Pages deployment—Claude caught it, fixed it, shipped it. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. Current work: refining boundaries between autonomous execution and human escalation.
 
@@ -49,21 +56,25 @@ I'm a Pi-shaped engineer combining three strengths: deep technical expertise in 
 ### Product thinking
 
 I build by spotting workflow friction and shipping fixes:
-- **jira-mcp**: watched teams burn hours on repetitive ticket operations, gave AI native Jira access
-- **obsidian-open-gate**: saw knowledge workers context-switching between apps, built the bridge
-- **mimaid**: needed clean Mermaid editing with real-time collaboration, existing tools were bloated
-- **InstantCode**: debugging frontend shouldn't mean constant tab-switching
-- **autosocial-trends**: manual trend research blocked content creation, automated it
-- **copilot-sdk**: developers wanted programmatic Copilot without IDE lock-in
-- **fetch-kit**: wrote HTTP boilerplate too many times for scrapers and research tools
+- **Clik**: developers juggling 5+ MCP servers across multiple editors with manual JSON config → unified visual management interface
+- **claude-plugins**: teams rebuilding auth/rate-limiting/error-handling for each MCP server → reusable plugin patterns
+- **jira-mcp**: watched teams burn hours on repetitive ticket operations → gave AI native Jira access (76 stars, 20 forks)
+- **obsidian-open-gate**: knowledge workers context-switching between apps → built the integration bridge (218 stars)
+- **mimaid**: needed clean Mermaid editing with real-time collaboration → minimal editor with AI-maintained infrastructure (2 stars)
+- **InstantCode**: debugging frontend with constant tab-switching → click-and-ask workflow (50 stars)
+- **copilot-sdk**: developers wanting programmatic Copilot without editor lock-in → TypeScript SDK for headless workflows
+- **autosocial-trends**: manual trend research blocking content creation → automated daily pipeline
+- **goscrape**: repeatedly needing offline website copies → reliable scraping tool
+- **fetch-kit**: writing HTTP boilerplate for every scraper → reusable Go toolkit (9 stars)
 
-Stars validate the problem exists. Commits and iteration prove the solution works. Production usage proves it's reliable.
+Stars validate the problem exists. Commits and iteration prove the solution works. Production usage proves it's reliable. Rapid iteration cycles (like Clik's 11 releases in 2 days) prove I listen to users.
 
 ### How I work
 
-- **Ship early, iterate on feedback**: InstantCode added GitHub Actions after observing usage patterns. autosocial-trends runs daily because users need daily data. mimaid deploys continuously with AI fixing builds autonomously.
-- **Technical depth with product sense**: Build Go MCP servers for performance, but design APIs for developer ergonomics. Type safety matters because it reduces pain, not just for technical correctness.
-- **AI exploration with production discipline**: Testing MCP integrations, autonomous workflows, agent orchestration—always with reliability in mind. Not just talking about AI agents, actively deploying them. mimaid's autonomous build fixes prove the model works in production.
+- **Ship early, iterate on feedback**: Clik shipped 11 releases in 2 days based on early adopter feedback. InstantCode added GitHub Actions after observing usage patterns. autosocial-trends runs daily because users need daily data. mimaid deploys continuously with AI fixing builds autonomously.
+- **Technical depth with product sense**: Build Go MCP servers for performance, but design APIs for developer ergonomics. Type safety matters because it reduces pain, not just for technical correctness. Clik's visual interface solves the JSON config problem.
+- **AI exploration with production discipline**: Testing MCP integrations, autonomous workflows, agent orchestration—always with reliability in mind. Not just talking about AI agents, actively deploying them. mimaid's autonomous build fixes and autosocial-trends' daily operations prove the model works in production.
+- **Rapid iteration when it matters**: When building Clik, shipped multiple releases daily to fix friction points immediately. When building infrastructure (claude-plugins), slower, more deliberate approach to get architecture right. Match pace to problem type.
 
 ### Connect
 
@@ -72,7 +83,7 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 - **Company**: Sen Việt
 - **Open to**: Developer tooling, AI infrastructure, autonomous workflows, MCP integrations
 
-Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
+Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, Claude plugin ecosystems, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 10, 2026 (automated via GitHub Actions)*
+*Last updated: January 11, 2026 (automated via GitHub Actions)*
