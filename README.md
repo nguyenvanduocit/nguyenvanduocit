@@ -27,11 +27,11 @@ I spot workflow friction, build solutions, and iterate based on real usage. My p
 
 ### Current focus (Jan 2026)
 
-**Shipping Clik at velocity** (`aiocean/clik-releases`): 4 releases today (Jan 12), 7 releases in 4 days. The problem: developers managing 5+ MCP servers across Claude Desktop, Cursor, Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This rapid iteration cycle demonstrates real product development: ship → observe friction → fix → ship again. Not just building fast—shipping improvements users actually need, at the pace they need them.
+**Shipping Clik at velocity** (`aiocean/clik-releases`): 6 releases on Jan 12 alone, continuing rapid iteration. The problem: developers managing multiple MCP servers across Claude Desktop, Cursor, and Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This rapid iteration cycle demonstrates real product development: ship → observe friction → fix → ship again. Not just building fast—shipping improvements users actually need, at the pace they need them.
 
 **Building Claude plugin marketplace** (`aiocean/claude-plugins`): Intensive development throughout Jan 10, 2026 (7+ commits in one day). The problem: MCP proves AI assistants need external integrations, but developers still rebuild common patterns—authentication, rate limiting, error handling—for each server. Building a plugin marketplace that makes MCP integrations more discoverable, modular, and maintainable. Translating lessons from Clik's rapid iteration into reusable patterns. Goal: reduce time from "I need Claude to access X" to working integration from days to minutes.
 
-**Active diagram collaboration** (`mimaid`): Heavy development today (Jan 12, 7+ commits). Continuing work on minimal Mermaid editor with real-time collaboration (Liveblocks + Yjs). The problem: diagram tools are bloated and break collaboration flow. Building a clean editor that combines seamless multi-user editing with AI-driven maintenance. Recent work focused on collaboration infrastructure and autonomous build health.
+**Active diagram collaboration** (`mimaid`): Heavy development on Jan 12 (multiple commits throughout the day). Continuing work on minimal Mermaid editor with real-time collaboration (Liveblocks + Yjs). The problem: diagram tools are bloated and break collaboration flow. Building a clean editor that combines seamless multi-user editing with AI-driven maintenance. Recent work focused on collaboration infrastructure and autonomous build health.
 
 **Type-safe realtime RPC** (`socketrpc-gen`): Recent work (Jan 11, 2026) on type-safe RPC client-server using socket.io. The problem: Socket.io lacks TypeScript type safety between client and server, leading to runtime errors and poor DX. Building code generation tooling to guarantee type safety across the wire, eliminating a whole class of integration bugs. Shows continued focus on developer ergonomics and type safety as core product values.
 
@@ -90,4 +90,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, Claude plugin ecosystems, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 12, 2026 11:52 UTC*
+*Last updated: January 13, 2026*
