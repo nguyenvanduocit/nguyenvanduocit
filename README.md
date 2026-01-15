@@ -18,11 +18,13 @@ I spot workflow friction, build solutions, and iterate based on feedback. My pro
 
 ### Current focus (Jan 2026)
 
-**Shipping Clik at velocity** (`aiocean/clik-releases`): 3 releases on Jan 13, following 6 releases on Jan 12—9 releases across 2 days showing true product iteration velocity. The problem: developers managing multiple MCP servers across Claude Desktop, Cursor, and Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This velocity demonstrates real product development: ship → observe friction → fix → ship again. Clik solves the workflow pain of managing AI infrastructure across editors.
+**Shipping Clik at velocity** (`aiocean/clik-releases`): 3 releases on Jan 13 (v0.16.14-v0.16.16), following 6 releases on Jan 12 (v0.12.0-v0.16.13)—9 releases across 2 days showing true product iteration velocity. The problem: developers managing multiple MCP servers across Claude Desktop, Cursor, and Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This velocity demonstrates real product development: ship → observe friction → fix → ship again. Clik solves the workflow pain of managing AI infrastructure across editors.
 
 **Building AI-enhanced diagram collaboration** (`mimaid`): Intensive development with 8 commits on Jan 12 pushing real-time collaboration forward. The problem: diagram tools like Mermaid Live Editor feel bloated and break collaboration flow. Building a minimal editor that combines seamless multi-user editing (Liveblocks + Yjs) with AI-driven maintenance. Recent work focused on collaboration infrastructure and autonomous build health—proving that AI can own routine maintenance while humans focus on features. Live at [mimaid.aiocean.dev](https://mimaid.aiocean.dev).
 
 **Type-safe realtime RPC** (`socketrpc-gen`): Recent work (Jan 11) on type-safe RPC client-server using socket.io. The problem: Socket.io lacks TypeScript type safety between client and server, leading to runtime errors and poor DX. Building code generation tooling to guarantee type safety across the wire, eliminating a whole class of integration bugs. This addresses a fundamental pain point in real-time app development.
+
+**Exploring AI research workflows** (`research-kit`): Forked and exploring spec-driven research toolkit (9 stars). Evaluating how AI agents can systematize research processes—from hypothesis formation through data collection to synthesis. Part of ongoing exploration into structured AI workflows beyond code generation.
 
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude-powered automation. mimaid proves the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. This workflow pattern is being validated in production daily.
 
@@ -65,4 +67,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 14, 2026*
+*Last updated: January 15, 2026*
