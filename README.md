@@ -6,7 +6,7 @@ I spot workflow friction, build solutions, and iterate based on feedback. My pro
 
 ### What I build
 
-**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP server giving AI assistants native Jira access. Born from watching teams burn hours on repetitive ticket operations. Issue management, sprint planning, and workflow transitions now happen through natural conversation with Claude. 78 stars, 20 forks, deployed in production teams solving real workflow bottlenecks. (Go)
+**[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP server giving AI assistants native Jira access. Born from watching teams burn hours on repetitive ticket operations. Issue management, sprint planning, and workflow transitions now happen through natural conversation with Claude. 79 stars, 20 forks, deployed in production teams solving real workflow bottlenecks. (Go)
 
 **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian plugin bridging local knowledge bases with the web. Knowledge workers were manually context-switching between notes and research—this integration eliminated that friction. 218 stars from users who needed exactly this workflow bridge. (TypeScript)
 
@@ -18,7 +18,7 @@ I spot workflow friction, build solutions, and iterate based on feedback. My pro
 
 ### Current focus (Jan 2026)
 
-**Shipping Clik at velocity** (`aiocean/clik-releases`): 3 releases on Jan 13 (v0.16.14-v0.16.16)—rapid iteration showing product velocity. The problem: developers managing multiple MCP servers across Claude Desktop, Cursor, and Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release driven by early adopter feedback on installation flows, server lifecycle management, and UX polish. This velocity demonstrates real product development: ship → observe friction → fix → ship again. Clik solves the workflow pain of managing AI infrastructure across editors.
+**Shipping Clik at velocity** (`aiocean/clik-releases`): 9 releases across Jan 12-13 (v0.16.9-v0.16.16)—this pace shows real product iteration. The problem: developers managing multiple MCP servers across Claude Desktop, Cursor, and Zed face fragmented config files and manual JSON editing. Clik provides unified server management—visual config, health monitoring, one-click installation. Each release addresses friction discovered through early adopter feedback: installation flows, server lifecycle management, UX polish. This velocity demonstrates product development in action: ship → observe → fix → ship again. Clik solves the workflow pain of managing AI infrastructure across editors, and rapid iteration proves the commitment to user feedback.
 
 **Exploring AI research workflows** (`research-kit`): Recently forked spec-driven research toolkit (starred by 9 developers). Evaluating how AI agents can systematize research processes—from hypothesis formation through data collection to synthesis. Part of ongoing exploration into structured AI workflows beyond code generation. Investigating what makes research tooling actually useful versus just technically possible.
 
@@ -26,7 +26,7 @@ I spot workflow friction, build solutions, and iterate based on feedback. My pro
 
 **AI autonomy in production infrastructure**: Production systems now maintain themselves through Claude-powered automation. mimaid proves the pattern: build failures trigger Claude, it analyzes logs, fixes errors, opens PRs, merges autonomously. Zero human intervention. Key insight: build failures, unused variables, lint errors, dependency updates are safe for full autonomy. Architectural decisions, API changes, security patches still need human review. This workflow pattern is being validated in production daily.
 
-**MCP in production teams**: jira-mcp (78 stars, 20 forks) proves real teams deploy AI-Jira integration for production workflows. MCP shifted from "interesting protocol" to "critical integration layer" between AI and existing tools. Contributing Go implementations and operational learnings from running MCP servers at scale. Focus: making MCP production-ready with reliability patterns, not just technically possible.
+**MCP in production teams**: jira-mcp (79 stars, 20 forks) proves real teams deploy AI-Jira integration for production workflows. MCP shifted from "interesting protocol" to "critical integration layer" between AI and existing tools. Contributing Go implementations and operational learnings from running MCP servers at scale. Focus: making MCP production-ready with reliability patterns, not just technically possible.
 
 ### Technical depth
 
@@ -40,17 +40,17 @@ I spot workflow friction, build solutions, and iterate based on feedback. My pro
 
 I build by spotting workflow friction and shipping fixes:
 - **Clik**: developers juggling 5+ MCP servers across multiple editors with manual JSON config → unified visual management interface
-- **jira-mcp**: watched teams burn hours on repetitive ticket operations → gave AI native Jira access (78 stars, 20 forks)
+- **jira-mcp**: watched teams burn hours on repetitive ticket operations → gave AI native Jira access (79 stars, 20 forks)
 - **obsidian-open-gate**: knowledge workers context-switching between apps → built the integration bridge (218 stars)
 - **mimaid**: needed clean Mermaid editing with real-time collaboration → minimal editor with AI-maintained infrastructure
 - **goscrape**: repeatedly needing offline website copies → reliable scraping tool
 - **fetch-kit**: writing HTTP boilerplate for every scraper → reusable Go toolkit (9 stars)
 
-Stars validate the problem exists. Commits and iteration prove the solution works. Production usage proves it's reliable. Rapid iteration cycles (like Clik's 9 releases across 2 days) prove I listen to users.
+Stars validate the problem exists. Commits and iteration prove the solution works. Production usage proves it's reliable. Rapid iteration cycles (Clik shipped 9 releases across Jan 12-13) prove I listen to users.
 
 ### How I work
 
-- **Ship early, iterate on feedback**: Clik shipped 9 releases across Jan 12-13 based on early adopter feedback. mimaid deploys continuously with AI fixing builds autonomously.
+- **Ship early, iterate on feedback**: Clik shipped 9 releases across Jan 12-13 addressing user friction immediately. mimaid deploys continuously with AI fixing builds autonomously.
 - **Technical depth with product sense**: Build Go MCP servers for performance, but design APIs for developer ergonomics. Type safety matters because it reduces pain. Clik's visual interface solves the JSON config problem.
 - **AI exploration with production discipline**: Testing MCP integrations, autonomous workflows, agent orchestration—always with reliability in mind. Not just talking about AI agents, actively deploying them. mimaid's autonomous build fixes prove the model works in production.
 - **Rapid iteration when it matters**: When building Clik, shipped multiple releases daily to fix friction points immediately. When building infrastructure, slower, more deliberate approach to get architecture right. Match pace to problem type.
@@ -65,4 +65,4 @@ Stars validate the problem exists. Commits and iteration prove the solution work
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: January 15, 2026*
+*Last updated: January 16, 2026*
