@@ -26,11 +26,13 @@ I spot workflow problems and ship solutions. My projects eliminate context-switc
 
 ### Current focus (Jan 2026)
 
-**Developer observability for AI coding** (`claude-statusline`): Shipped Jan 16 with rapid same-day iteration. The problem: developers burning through Claude API budgets with zero visibility—costs only visible when billing arrives. Solution: statusline with real-time cost tracking, burn rate, and git context. Four pushes on launch day responding to early feedback. Proving observability matters in AI-assisted development.
+**Claude ecosystem tooling** (`aiocean/claude-plugins`): Latest work (4 pushes Jan 18) building plugins that extend Claude's capabilities. Active exploration of how to make AI assistants more powerful through extensibility. Focus on developer experience and seamless integration patterns.
 
-**High-velocity CLI tooling** (`aiocean/clik-releases`): Heavy development activity—11 pushes, 9 releases (v0.12.0 → v0.16.16) in recent sessions. Building developer CLI tools with rapid iteration cycles. Each release addresses real usage patterns and friction points. Ship fast, learn fast, fix fast.
+**Developer observability for AI coding** (`claude-statusline`): Shipped Jan 16 with rapid same-day iteration—4 pushes on launch day responding to early feedback. The problem: developers burning through Claude API budgets with zero visibility—costs only visible when billing arrives. Solution: statusline with real-time cost tracking, burn rate, and git context. Proving observability matters in AI-assisted development.
 
-**AI autonomy in production** (`mimaid`): Four recent updates validating autonomous AI maintenance. Build failures trigger Claude agents that analyze logs, fix issues, open PRs, and merge—zero human intervention. Key insight: routine maintenance (builds, lint, deps) is safe for full autonomy. Architecture and security still need humans. Proving AI can own operational toil in production.
+**High-velocity CLI tooling** (`aiocean/clik-releases`): Sustained high development velocity—9 releases in Jan 12-13 alone. Building developer CLI tools with rapid iteration cycles. Each release addresses real usage patterns and friction points discovered through actual usage. Ship fast, learn fast, fix fast.
+
+**AI autonomy in production** (`mimaid`): Multiple recent updates validating autonomous AI maintenance. Build failures trigger Claude agents that analyze logs, fix issues, open PRs, and merge—zero human intervention. Key insight: routine maintenance (builds, lint, deps) is safe for full autonomy. Architecture and security still need humans. Proving AI can own operational toil in production.
 
 **MCP at production scale** (`jira-mcp`): 79 stars, 19 forks proving real teams deploy AI-Jira integration in production environments. MCP shifted from "interesting protocol" to "critical integration layer" connecting AI to enterprise systems. Contributing Go implementations and operational patterns from running MCP servers under real load. Focus: reliability and performance, not demos.
 
@@ -81,4 +83,4 @@ Stars show the problem is real. Commits show solutions work. Production deployme
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: 2026-01-18*
+*Last updated: 2026-01-18 - Active: Claude plugin development, high-velocity CLI tooling, AI observability*
