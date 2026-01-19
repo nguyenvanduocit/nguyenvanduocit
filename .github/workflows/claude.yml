@@ -2,7 +2,7 @@ name: Update README with Claude
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -39,36 +39,38 @@ jobs:
           claude_args: |
             --allowedTools Edit,Read,Write,Bash,Glob,Grep
           prompt: |
-            Analyze my recent GitHub activity and update my README.md profile.
+            Update my README.md profile based on recent GitHub activity.
 
-            Read these files:
-            - user_profile.json - my GitHub profile info
-            - recent_activity.json - my recent public events
-            - recent_repos.json - my recently updated repos
-            - README.md - current profile README
+            Read: user_profile.json, recent_activity.json, recent_repos.json, README.md
 
-            POSITIONING: I am a Pi-shaped engineer with:
-            1. Deep technical expertise in backend systems and AI tooling (Go, TypeScript)
-            2. Active exploration and interest in AI agents, MCP, and AI-assisted workflows
-            3. Product development knowledge from shipping developer tools and learning from user feedback
+            CRITICAL: Keep README under 40 lines total. Be extremely concise.
 
-            Create an updated README.md that:
-            1. Opens with Pi-shaped engineer positioning (tech depth + AI interest + product sense)
-            2. Frames projects as product solutions, not just technical achievements
-               - Show the problem each tool solves
-               - Mention user impact, adoption, or feedback where evident
-            3. Highlights current work with both technical and product context
-            4. Shows expertise across three dimensions:
-               - Technical: backend, AI tooling, systems
-               - AI exploration: agents, MCP, orchestration
-               - Product: DX thinking, iteration based on usage, solving real workflow problems
-            5. Maintains professional yet approachable tone
-            6. Keeps it concise but shows the full Pi-shape
+            Structure (use this exact format):
+            ```
+            ## Hi, I'm Duoc Nguyen 👋
+
+            Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iteration
+
+            ### Projects
+            - **[project](url)** — one-line description (stars if notable)
+            [max 6 projects, one line each]
+
+            ### Now
+            [2-3 bullet points of current focus from recent activity]
+
+            ### Stack
+            Go, TypeScript, MCP, real-time systems, developer tooling
+
+            ### Connect
+            [12bit.vn](https://12bit.vn) · Việt Nam
+
+            ---
+            *Updated: YYYY-MM-DD*
+            ```
 
             Rules:
-            - Never mention all-in-one-model-context-protocol or dev-kit (they are replaced by multiple mcp repos)
-            - Use proper GitHub profile README markdown formatting
-            - Always update the "Last updated" timestamp at the bottom of the README
-            - Always commit and push the README.md after updating
-            - Do not expose secrets or sensitive information
-            - Show product thinking: user problems, impact, iteration, not just features
+            - MAX 40 lines, no exceptions
+            - One line per project, no paragraphs
+            - No redundant sections (no "How I work", "Product thinking", "Technical depth")
+            - Never mention all-in-one-model-context-protocol or dev-kit
+            - Commit and push after updating
