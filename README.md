@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API
 
 ### Now
-- Shipping Clik desktop app releases (v0.16.21)
-- Building terminal business card tool (duocnv)
-- Exploring MCP plugins ecosystem
+- Shipping Clik releases at aiocean (desktop app v0.16.21)
+- Building terminal business card CLI (duocnv)
+- Experimenting with MCP plugins for Claude
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

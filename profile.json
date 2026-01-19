@@ -8,17 +8,18 @@
     "stars": "1.8K"
   },
   "bio": [
-    "I'm a software engineer who builds tools that make other developers' lives easier.",
+    "Engineering Manager at FireGroup by day, building AI-first tools at aiocean.io by night.",
     "",
-    "By day, I'm an Engineering Manager at FireGroup, leading teams building e-commerce infrastructure. By night, I'm shipping open-source projects at aiocean.io and writing about software at 12bit.vn and onepercent.plus.",
+    "Started coding in 2011, spent 13 years shipping products across e-commerce, developer tools, and AI infrastructure.",
+    "Founded Vue.js Vietnam community in 2016 when the framework was just taking off.",
     "",
-    "My approach is simple: build small, ship fast, iterate based on real usage. I gravitate toward Go and TypeScript for their balance of power and simplicity. Recently, I've been deep in the MCP ecosystem, building connectors that let AI assistants talk to tools like Jira.",
+    "Most known for obsidian-open-gate (219⭐) - an Obsidian plugin that bridges notes with web integrations,",
+    "and jira-mcp (79⭐) - a Go-based MCP server that lets AI agents interact with Jira naturally.",
     "",
-    "I care about creating leverage—tools that multiply what humans can accomplish. Whether it's Obsidian Open Gate (219 stars) helping people bridge their notes with the web, or Jira MCP (79 stars) letting AI assistants manage project workflows, I look for friction points and build solutions.",
+    "I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
+    "Deep focus on Model Context Protocol (MCP), real-time systems, and making developer tools that feel invisible.",
     "",
-    "In 2016, I co-founded Vue.js Vietnam, helping grow the community from zero to thousands of developers. That experience taught me the importance of documentation, approachable tooling, and meeting developers where they are.",
-    "",
-    "I've been writing code professionally since 2011, contributing to 430+ repositories with over 1,800 stars across my projects. I believe in the compound effect of consistent shipping—small improvements accumulate into significant impact over time."
+    "Currently building Clik at aiocean.io - exploring how AI agents can make complex workflows simple."
   ],
   "projects": [
     {
@@ -71,9 +72,9 @@
     }
   ],
   "now": [
-    "Shipping Clik desktop app releases (v0.16.21)",
-    "Building terminal business card tool (duocnv)",
-    "Exploring MCP plugins ecosystem"
+    "Shipping Clik releases at aiocean (desktop app v0.16.21)",
+    "Building terminal business card CLI (duocnv)",
+    "Experimenting with MCP plugins for Claude"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
