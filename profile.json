@@ -7,7 +7,28 @@
     "repos": 430,
     "stars": "1.8K"
   },
+  "bio": [
+    "I'm an Engineering Manager at Sen Việt, where I lead teams building real products. But my real passion lives in the side projects I build at night.",
+    "",
+    "Over 13 years, I've created 430+ repositories with 1.8K stars. My focus has evolved from frontend frameworks to backend systems and now AI tooling.",
+    "",
+    "I started Vue.js Vietnam community in 2016 when the framework was still new. That taught me the value of building communities around tools people actually need.",
+    "",
+    "These days, I'm building at aiocean.io—creating tools that make AI accessible through MCP servers, developer tooling, and infrastructure. Projects like jira-mcp (79⭐) and obsidian-open-gate (219⭐) come from solving my own problems first.",
+    "",
+    "I write about what I build at 12bit.vn and onepercent.plus. The writing helps me think through problems and share what I learn along the way.",
+    "",
+    "My approach is simple: build things that solve real problems, iterate quickly, and share openly. The best projects come from scratching your own itch."
+  ],
   "projects": [
+    {
+      "id": "obsidian-open-gate",
+      "title": "Obsidian Open Gate",
+      "description": "Obsidian plugin bridging notes with the web",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
+      "stars": 219
+    },
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
@@ -17,12 +38,12 @@
       "stars": 79
     },
     {
-      "id": "obsidian-open-gate",
-      "title": "Obsidian Open Gate",
-      "description": "Obsidian plugin bridging notes with web",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 219
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Spec-driven research toolkit",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 9
     },
     {
       "id": "duocnv",
@@ -33,17 +54,9 @@
       "stars": 0
     },
     {
-      "id": "claude-statusline",
-      "title": "Claude Statusline",
-      "description": "Claude Code statusline with cost tracking",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/claude-statusline",
-      "stars": 0
-    },
-    {
       "id": "mimaid",
       "title": "Mimaid",
-      "description": "Minimal Mermaid editor",
+      "description": "Minimal Mermaid diagram editor",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/mimaid",
       "stars": 2
@@ -58,9 +71,9 @@
     }
   ],
   "now": [
-    "Building Claude plugin ecosystem (10+ commits Jan 18)",
-    "Shipping Clik v0.16.20 with iterative improvements",
-    "Creating interactive terminal tools (duocnv launched)"
+    "Iterating on Clik releases (v0.16.21)",
+    "Building terminal CLI tools (duocnv v1.0.3)",
+    "Updating README automation & profile data"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
