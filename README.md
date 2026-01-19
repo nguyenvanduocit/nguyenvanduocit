@@ -20,17 +20,21 @@ I spot workflow problems and ship solutions. My projects eliminate context-switc
 
 **[claude-statusline](https://github.com/nguyenvanduocit/claude-statusline)** — Custom statusline for Claude Code with cost tracking and burn rate visibility. The problem: Claude Code users burning through API budgets blindly—no visibility into costs or session efficiency. Solution: shell-based statusline showing real-time spending, burn rate, and git context. Built and shipped Jan 16 with rapid iteration based on early feedback. Developer observability for AI coding. (Shell)
 
+**[duocnv](https://github.com/nguyenvanduocit/duocnv)** — Interactive terminal business card. The problem: traditional contact sharing is boring—static social media profiles or plain text signatures. Solution: run `bunx duocnv` for an interactive TUI with keyboard navigation, clickable terminal links, project showcase, and easter eggs. Launched Jan 18, 2026. Networking with personality. (TypeScript)
+
 **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API. The problem: developers needing programmatic Copilot access beyond editor extensions—for CI/CD, custom tooling, batch processing. Solution: clean SDK handling authentication, requests, and responses. 1 star, 1 fork—niche but real demand. (TypeScript)
 
 **[goscrape](https://github.com/nguyenvanduocit/goscrape)** — Go-based website scraper for offline archival. The problem: need to preserve web content for offline docs, archival, or local development. Solution: reliable scraping with modern web handling. Updated Jan 8, 2026 with reliability improvements. (Go)
 
 ### Current focus (Jan 2026)
 
-**Claude ecosystem tooling** (`aiocean/claude-plugins`): Latest work (4 pushes Jan 18) building plugins that extend Claude's capabilities. Active exploration of how to make AI assistants more powerful through extensibility. Focus on developer experience and seamless integration patterns.
+**Claude ecosystem expansion** (`aiocean/claude-plugins`): Heavy activity Jan 18 (10 commits) building plugin infrastructure for Claude. Moving beyond individual MCP servers to an extensible plugin ecosystem. Focus on developer experience and integration patterns that make Claude genuinely more capable, not just technically interesting.
+
+**Interactive developer tools** (`duocnv`): Launched Jan 18—terminal business card with interactive TUI. The meta-product insight: developer tools should have personality. Traditional contact sharing (LinkedIn, email signatures) lacks engagement. Solution: `bunx duocnv` delivers an interactive experience with keyboard navigation, clickable links, project showcase. Networking reimagined for terminal-native developers.
+
+**High-velocity CLI iteration** (`aiocean/clik-releases`): Released v0.16.17-0.16.18 on Jan 18, v0.16.16 on Jan 13. Sustained rapid development cycles addressing real usage friction. Each release reflects actual user feedback and deployment learnings. Ship fast, measure impact, fix fast.
 
 **Developer observability for AI coding** (`claude-statusline`): Shipped Jan 16 with rapid same-day iteration—4 pushes on launch day responding to early feedback. The problem: developers burning through Claude API budgets with zero visibility—costs only visible when billing arrives. Solution: statusline with real-time cost tracking, burn rate, and git context. Proving observability matters in AI-assisted development.
-
-**High-velocity CLI tooling** (`aiocean/clik-releases`): Sustained high development velocity—9 releases in Jan 12-13 alone. Building developer CLI tools with rapid iteration cycles. Each release addresses real usage patterns and friction points discovered through actual usage. Ship fast, learn fast, fix fast.
 
 **AI autonomy in production** (`mimaid`): Multiple recent updates validating autonomous AI maintenance. Build failures trigger Claude agents that analyze logs, fix issues, open PRs, and merge—zero human intervention. Key insight: routine maintenance (builds, lint, deps) is safe for full autonomy. Architecture and security still need humans. Proving AI can own operational toil in production.
 
@@ -53,19 +57,19 @@ I spot workflow problems and ship solutions. My projects eliminate context-switc
 
 I identify workflow friction, ship solutions, and iterate on feedback:
 
+- **duocnv**: Boring contact sharing → interactive terminal business card (launched Jan 18, TUI with personality)
+- **claude-plugins**: Fragmented Claude tooling → unified plugin ecosystem (10 commits Jan 18, active development)
 - **claude-statusline**: Developers burning API budgets with zero visibility → real-time cost tracking statusline (shipped Jan 16, 4 same-day updates)
-- **aiocean/clik**: CLI development workflows → high-velocity tooling (9 releases v0.12.0→v0.16.16 in recent activity)
+- **aiocean/clik**: CLI development workflows → high-velocity tooling (v0.16.17-0.16.18 Jan 18, sustained rapid releases)
 - **jira-mcp**: Teams spending hours on repetitive ticket operations → AI-native Jira access (79 stars, 19 forks, production deployments)
 - **obsidian-open-gate**: Knowledge workers context-switching between notes and web → seamless integration (219 stars)
 - **mimaid**: Bloated diagram editors → minimal Mermaid interface with AI-maintained codebase (production autonomous builds)
-- **copilot-sdk**: Need programmatic GitHub Copilot access → clean TypeScript SDK
-- **goscrape**: Web content preservation needs → reliable Go scraper
 
 Stars show the problem is real. Commits show solutions work. Production deployments show it's reliable. Rapid iteration (sometimes multiple releases daily) shows I respond to user feedback.
 
 ### How I work
 
-- **Ship early, iterate on feedback**: `claude-statusline` launched Jan 16 with 4 same-day updates. `clik` shipped 9 releases in recent activity cycles. `mimaid` deploys continuously with AI handling builds. Fast cycles reveal what actually matters.
+- **Ship early, iterate on feedback**: `duocnv` launched Jan 18 with interactive TUI. `claude-statusline` launched Jan 16 with 4 same-day updates. `clik` shipped v0.16.17-0.16.18 Jan 18. `mimaid` deploys continuously with AI handling builds. Fast cycles reveal what actually matters.
 
 - **Technical depth meets product thinking**: Build Go MCP servers for performance. Design APIs for developer ergonomics. Type safety reduces pain. Clean interfaces solve complexity. Surface metrics developers actually use, not vanity numbers.
 
@@ -83,4 +87,4 @@ Stars show the problem is real. Commits show solutions work. Production deployme
 Building tools that make developers faster and workflows smoother. If you're working on developer tooling, AI agents, production MCP deployments, or solving real product problems in this space, let's talk.
 
 ---
-*Last updated: 2026-01-18 - Active: Claude plugin development, high-velocity CLI tooling, AI observability*
+*Last updated: 2026-01-19 - Active: Claude plugin ecosystem, interactive terminal tooling, high-velocity CLI iteration*
