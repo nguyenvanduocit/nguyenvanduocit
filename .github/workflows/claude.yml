@@ -101,7 +101,8 @@ jobs:
             - Bio is LONG-TERM overview, NOT based on recent activity
             - Focus on: overall career themes, top projects by stars, total contributions, main languages
             - Write from high-level perspective: who I am, what I care about, my approach
-            - Include: day job (Engineering Manager), side projects (aiocean.io), writing (12bit.vn, onepercent.plus), community (Vue.js Vietnam 2016)
+            - Include: day job (Engineering Manager at FireGroup), side projects (aiocean.io), writing (12bit.vn, onepercent.plus), community (Vue.js Vietnam 2016)
+            - IMPORTANT: Current company is FireGroup, NOT Sen Việt
             - Bio should be STABLE - only change if there's major career shift
             - 8-12 lines, personal and approachable tone
             - Use empty string "" for paragraph breaks
