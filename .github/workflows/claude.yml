@@ -79,8 +79,9 @@ jobs:
             ```json
             {
               "name": "Duoc Nguyen",
-              "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
+              "tagline": "one-line positioning",
               "stats": { "years": 13, "commits": "5K+", "repos": 425, "stars": "1.8K" },
+              "bio": ["line1", "line2", "...", "line10"],
               "projects": [
                 { "id": "project-key", "title": "Project Name", "description": "one line", "tech": "Go", "url": "https://...", "stars": 79 }
               ],
@@ -95,6 +96,18 @@ jobs:
               "updated": "YYYY-MM-DD"
             }
             ```
-            - Max 6 projects in profile.json
+
+            BIO GENERATION RULES (IMPORTANT):
+            - Bio is LONG-TERM overview, NOT based on recent activity
+            - Focus on: overall career themes, top projects by stars, total contributions, main languages
+            - Write from high-level perspective: who I am, what I care about, my approach
+            - Include: day job (Engineering Manager), side projects (aiocean.io), writing (12bit.vn, onepercent.plus), community (Vue.js Vietnam 2016)
+            - Bio should be STABLE - only change if there's major career shift
+            - 8-12 lines, personal and approachable tone
+            - Use empty string "" for paragraph breaks
+
+            OTHER RULES:
+            - Max 6 projects (select by stars + recent activity)
             - Keep descriptions short (under 50 chars)
+            - "now" section: based on RECENT activity only
             - Commit both README.md and profile.json
