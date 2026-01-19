@@ -8,17 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "I'm an Engineering Manager at Sen Việt, where I lead teams building real products. But my real passion lives in the side projects I build at night.",
+    "I'm a software engineer who builds tools that make other developers' lives easier.",
     "",
-    "Over 13 years, I've created 430+ repositories with 1.8K stars. My focus has evolved from frontend frameworks to backend systems and now AI tooling.",
+    "By day, I'm an Engineering Manager at FireGroup, leading teams building e-commerce infrastructure. By night, I'm shipping open-source projects at aiocean.io and writing about software at 12bit.vn and onepercent.plus.",
     "",
-    "I started Vue.js Vietnam community in 2016 when the framework was still new. That taught me the value of building communities around tools people actually need.",
+    "My approach is simple: build small, ship fast, iterate based on real usage. I gravitate toward Go and TypeScript for their balance of power and simplicity. Recently, I've been deep in the MCP ecosystem, building connectors that let AI assistants talk to tools like Jira.",
     "",
-    "These days, I'm building at aiocean.io—creating tools that make AI accessible through MCP servers, developer tooling, and infrastructure. Projects like jira-mcp (79⭐) and obsidian-open-gate (219⭐) come from solving my own problems first.",
+    "I care about creating leverage—tools that multiply what humans can accomplish. Whether it's Obsidian Open Gate (219 stars) helping people bridge their notes with the web, or Jira MCP (79 stars) letting AI assistants manage project workflows, I look for friction points and build solutions.",
     "",
-    "I write about what I build at 12bit.vn and onepercent.plus. The writing helps me think through problems and share what I learn along the way.",
+    "In 2016, I co-founded Vue.js Vietnam, helping grow the community from zero to thousands of developers. That experience taught me the importance of documentation, approachable tooling, and meeting developers where they are.",
     "",
-    "My approach is simple: build things that solve real problems, iterate quickly, and share openly. The best projects come from scratching your own itch."
+    "I've been writing code professionally since 2011, contributing to 430+ repositories with over 1,800 stars across my projects. I believe in the compound effect of consistent shipping—small improvements accumulate into significant impact over time."
   ],
   "projects": [
     {
@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Iterating on Clik releases (v0.16.21)",
-    "Building terminal CLI tools (duocnv v1.0.3)",
-    "Updating README automation & profile data"
+    "Shipping Clik desktop app releases (v0.16.21)",
+    "Building terminal business card tool (duocnv)",
+    "Exploring MCP plugins ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
