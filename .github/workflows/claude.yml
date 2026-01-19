@@ -74,3 +74,27 @@ jobs:
             - No redundant sections (no "How I work", "Product thinking", "Technical depth")
             - Never mention all-in-one-model-context-protocol or dev-kit
             - Commit and push after updating
+
+            ALSO generate profile.json with this structure:
+            ```json
+            {
+              "name": "Duoc Nguyen",
+              "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
+              "stats": { "years": 13, "commits": "5K+", "repos": 425, "stars": "1.8K" },
+              "projects": [
+                { "id": "project-key", "title": "Project Name", "description": "one line", "tech": "Go", "url": "https://...", "stars": 79 }
+              ],
+              "now": ["Current focus 1", "Current focus 2"],
+              "links": {
+                "github": "https://github.com/nguyenvanduocit",
+                "twitter": "https://x.com/duocdev",
+                "linkedin": "https://linkedin.com/in/duocnv",
+                "blog": "https://12bit.vn",
+                "website": "https://onepercent.plus"
+              },
+              "updated": "YYYY-MM-DD"
+            }
+            ```
+            - Max 6 projects in profile.json
+            - Keep descriptions short (under 50 chars)
+            - Commit both README.md and profile.json
