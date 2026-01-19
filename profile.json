@@ -1,0 +1,73 @@
+{
+  "name": "Duoc Nguyen",
+  "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
+  "stats": {
+    "years": 13,
+    "commits": "5K+",
+    "repos": 430,
+    "stars": "1.8K"
+  },
+  "projects": [
+    {
+      "id": "jira-mcp",
+      "title": "Jira MCP",
+      "description": "Go MCP server for AI-native Jira access",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/jira-mcp",
+      "stars": 79
+    },
+    {
+      "id": "obsidian-open-gate",
+      "title": "Obsidian Open Gate",
+      "description": "Obsidian plugin bridging notes with web",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
+      "stars": 219
+    },
+    {
+      "id": "duocnv",
+      "title": "duocnv",
+      "description": "Interactive terminal business card",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/duocnv",
+      "stars": 0
+    },
+    {
+      "id": "claude-statusline",
+      "title": "Claude Statusline",
+      "description": "Claude Code statusline with cost tracking",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/claude-statusline",
+      "stars": 0
+    },
+    {
+      "id": "mimaid",
+      "title": "Mimaid",
+      "description": "Minimal Mermaid editor",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/mimaid",
+      "stars": 2
+    },
+    {
+      "id": "copilot-sdk",
+      "title": "Copilot SDK",
+      "description": "TypeScript SDK for GitHub Copilot API",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/copilot-sdk",
+      "stars": 1
+    }
+  ],
+  "now": [
+    "Building Claude plugin ecosystem (10+ commits Jan 18)",
+    "Shipping Clik v0.16.20 with iterative improvements",
+    "Creating interactive terminal tools (duocnv launched)"
+  ],
+  "links": {
+    "github": "https://github.com/nguyenvanduocit",
+    "twitter": "https://x.com/duocdev",
+    "linkedin": "https://linkedin.com/in/duocnv",
+    "blog": "https://12bit.vn",
+    "website": "https://onepercent.plus"
+  },
+  "updated": "2026-01-19"
+}
