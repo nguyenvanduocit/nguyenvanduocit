@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API
 
 ### Now
-- Shipping Clik releases at aiocean (v0.16.18-21)
-- Built duocnv terminal business card with Konami code easter egg
-- Created claude-finish-sounds: anime audio hooks for Claude Code
+- Shipping Clik desktop app releases (v0.16.22)
+- Building Claude Code tooling: statusline, finish-sounds
+- Iterating on terminal UX experiments
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
