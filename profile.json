@@ -4,7 +4,7 @@
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 430,
+    "repos": 431,
     "stars": "1.8K"
   },
   "bio": [
@@ -25,7 +25,7 @@
     {
       "id": "obsidian-open-gate",
       "title": "Obsidian Open Gate",
-      "description": "Obsidian plugin bridging notes with the web",
+      "description": "Obsidian plugin bridging notes with web",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
       "stars": 219
@@ -72,9 +72,9 @@
     }
   ],
   "now": [
-    "Shipping Clik releases at aiocean (desktop app v0.16.21)",
-    "Building terminal business card CLI (duocnv)",
-    "Experimenting with MCP plugins for Claude"
+    "Shipping Clik releases at aiocean (v0.16.18-21)",
+    "Built duocnv terminal business card with Konami code easter egg",
+    "Created claude-finish-sounds: anime audio hooks for Claude Code"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -83,5 +83,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-19"
+  "updated": "2026-01-20"
 }
