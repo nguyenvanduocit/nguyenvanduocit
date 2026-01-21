@@ -8,18 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup by day, building AI-first tools at aiocean.io by night.",
+    "Engineering Manager at FireGroup, building e-commerce infrastructure at scale.",
     "",
-    "Started coding in 2011, spent 13 years shipping products across e-commerce, developer tools, and AI infrastructure.",
-    "Founded Vue.js Vietnam community in 2016 when the framework was just taking off.",
+    "I care about making tools that work. Not perfect tools, not impressive tools—tools that solve real problems without getting in the way.",
     "",
-    "Most known for obsidian-open-gate (219⭐) - an Obsidian plugin that bridges notes with web integrations,",
-    "and jira-mcp (79⭐) - a Go-based MCP server that lets AI agents interact with Jira naturally.",
+    "Started coding in 2011. Shipped 425+ repos, accumulated ~1,800 stars. Most of my work lives in Go and TypeScript, lately focused on AI tooling and Model Context Protocol implementations.",
     "",
-    "I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
-    "Deep focus on Model Context Protocol (MCP), real-time systems, and making developer tools that feel invisible.",
+    "Co-founded aiocean.io—side project building developer tools. Write at 12bit.vn (technical) and onepercent.plus (product thinking).",
     "",
-    "Currently building Clik at aiocean.io - exploring how AI agents can make complex workflows simple."
+    "Founded Vue.js Vietnam community in 2016 when the framework was still new. Grew it to thousands of developers before stepping back.",
+    "",
+    "I believe in iteration over planning, shipping over perfecting, and real usage over theoretical elegance. Build things people actually use, then make them better."
   ],
   "projects": [
     {
