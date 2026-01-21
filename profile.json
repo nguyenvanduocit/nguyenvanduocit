@@ -72,9 +72,9 @@
     }
   ],
   "now": [
-    "Shipping Clik desktop app releases (v0.16.22)",
-    "Building Claude Code tooling: statusline, finish-sounds",
-    "Iterating on terminal UX experiments"
+    "Building Claude Code extensions (statusline, finish-sounds)",
+    "Shipping Clik desktop releases (aiocean.io)",
+    "Terminal UX experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -83,5 +83,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-20"
+  "updated": "2026-01-21"
 }
