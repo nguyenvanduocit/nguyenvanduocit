@@ -22,58 +22,58 @@
   ],
   "projects": [
     {
+      "id": "vue-loading-spinner",
+      "title": "Vue Loading Spinner",
+      "description": "Vue.js loading spinners collection",
+      "tech": "Vue",
+      "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
+      "stars": 690
+    },
+    {
       "id": "obsidian-open-gate",
       "title": "Obsidian Open Gate",
-      "description": "Obsidian plugin bridging notes with web",
+      "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
       "stars": 220
     },
     {
+      "id": "ai-commit",
+      "title": "AI Commit",
+      "description": "ChatGPT commit message generator",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/ai-commit",
+      "stars": 104
+    },
+    {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go MCP server for AI-native Jira access",
+      "description": "Go MCP server for Jira AI access",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 79
     },
     {
-      "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 9
+      "id": "instantcode",
+      "title": "InstantCode",
+      "description": "AI browser inspection tool",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/instantCode",
+      "stars": 50
     },
     {
-      "id": "duocnv",
-      "title": "duocnv",
-      "description": "Interactive terminal business card",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/duocnv",
-      "stars": 0
-    },
-    {
-      "id": "mimaid",
-      "title": "Mimaid",
-      "description": "Minimal Mermaid diagram editor",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/mimaid",
-      "stars": 2
-    },
-    {
-      "id": "copilot-sdk",
-      "title": "Copilot SDK",
-      "description": "TypeScript SDK for GitHub Copilot API",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/copilot-sdk",
-      "stars": 1
+      "id": "epubtrans",
+      "title": "EpubTrans",
+      "description": "Bilingual ebook translator using LLMs",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/epubtrans",
+      "stars": 22
     }
   ],
   "now": [
-    "Building Claude Code hooks (statusline, finish-sounds)",
-    "Releasing Clik v0.16.x (aiocean.io)",
-    "Terminal UX tooling"
+    "Building Claude Code extensions (statusline, finish-sounds)",
+    "Shipping Clik v0.16.x releases (desktop AI tooling)",
+    "Terminal UX experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
