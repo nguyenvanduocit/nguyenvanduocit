@@ -3,17 +3,17 @@
 Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iteration
 
 ### Projects
-- **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian plugin bridging notes with web (219⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP server for AI-native Jira access (79⭐)
+- **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration plugin (220⭐)
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP server for Jira AI access (79⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (9⭐)
-- **[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid diagram editor (2⭐)
-- **[duocnv](https://github.com/nguyenvanduocit/duocnv)** — Interactive terminal business card
-- **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API
+- **[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid editor (2⭐)
+- **[duocnv](https://github.com/nguyenvanduocit/duocnv)** — Terminal business card
+- **[socketrpc-gen](https://github.com/nguyenvanduocit/socketrpc-gen)** — Type-safe Socket.io RPC
 
 ### Now
-- Building Claude Code extensions (statusline, finish-sounds)
-- Shipping Clik desktop releases (aiocean.io)
-- Terminal UX experiments
+- Building Claude Code hooks (statusline, finish-sounds)
+- Releasing Clik v0.16.x (aiocean.io)
+- Terminal UX tooling
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-01-21*
+*Updated: 2026-01-22*

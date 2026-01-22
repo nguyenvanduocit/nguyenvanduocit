@@ -2,7 +2,7 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 13,
+    "years": 14,
     "commits": "5K+",
     "repos": 431,
     "stars": "1.8K"
@@ -27,7 +27,7 @@
       "description": "Obsidian plugin bridging notes with web",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 219
+      "stars": 220
     },
     {
       "id": "jira-mcp",
@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Building Claude Code extensions (statusline, finish-sounds)",
-    "Shipping Clik desktop releases (aiocean.io)",
-    "Terminal UX experiments"
+    "Building Claude Code hooks (statusline, finish-sounds)",
+    "Releasing Clik v0.16.x (aiocean.io)",
+    "Terminal UX tooling"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-21"
+  "updated": "2026-01-22"
 }
