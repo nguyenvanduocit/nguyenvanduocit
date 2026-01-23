@@ -1,49 +1,35 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
+  "tagline": "Pi-shaped engineer: Backend/AI × Agents/MCP × Product iteration",
   "stats": {
-    "years": 14,
+    "years": 13,
     "commits": "5K+",
     "repos": 431,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce infrastructure at scale.",
+    "I'm an Engineering Manager at FireGroup, building backend systems and AI tooling that solve real problems.",
     "",
-    "I care about making tools that work. Not perfect tools, not impressive tools—tools that solve real problems without getting in the way.",
+    "13 years of shipping code, 5K+ commits across 431 repos. I work in Go and TypeScript, focusing on developer tools, MCP servers, and AI agents.",
     "",
-    "Started coding in 2011. Shipped 425+ repos, accumulated ~1,800 stars. Most of my work lives in Go and TypeScript, lately focused on AI tooling and Model Context Protocol implementations.",
+    "On the side, I run aiocean.io, building practical AI tools like Clik (desktop AI assistant) and Open Gate (Obsidian web integration).",
     "",
-    "Co-founded aiocean.io—side project building developer tools. Write at 12bit.vn (technical) and onepercent.plus (product thinking).",
+    "I write about engineering and product thinking at 12bit.vn and onepercent.plus — exploring how to build better, ship faster, and think clearer.",
     "",
-    "Founded Vue.js Vietnam community in 2016 when the framework was still new. Grew it to thousands of developers before stepping back.",
+    "Back in 2016, I co-founded Vue.js Vietnam, one of the first Vue.js communities in Southeast Asia. These days I'm deep in AI tooling and MCP protocols.",
     "",
-    "I believe in iteration over planning, shipping over perfecting, and real usage over theoretical elegance. Build things people actually use, then make them better."
+    "I believe in Pi-shaped skills: deep technical expertise (backend, real-time systems) combined with broad context (AI agents, product iteration, developer experience).",
+    "",
+    "I care about tools that respect your time, code that's easy to change, and products that actually matter to people who use them."
   ],
   "projects": [
-    {
-      "id": "vue-loading-spinner",
-      "title": "Vue Loading Spinner",
-      "description": "Vue.js loading spinners collection",
-      "tech": "Vue",
-      "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
-      "stars": 690
-    },
     {
       "id": "obsidian-open-gate",
       "title": "Obsidian Open Gate",
       "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 220
-    },
-    {
-      "id": "ai-commit",
-      "title": "AI Commit",
-      "description": "ChatGPT commit message generator",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/ai-commit",
-      "stars": 104
+      "stars": 221
     },
     {
       "id": "jira-mcp",
@@ -55,25 +41,33 @@
     },
     {
       "id": "instantcode",
-      "title": "InstantCode",
+      "title": "instantCode",
       "description": "AI browser inspection tool",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/instantCode",
       "stars": 50
     },
     {
-      "id": "epubtrans",
-      "title": "EpubTrans",
-      "description": "Bilingual ebook translator using LLMs",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/epubtrans",
-      "stars": 22
+      "id": "claude-statusline",
+      "title": "Claude Statusline",
+      "description": "Cost tracking for Claude Code",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/claude-statusline",
+      "stars": 0
+    },
+    {
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Spec-driven research toolkit",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 9
     }
   ],
   "now": [
-    "Building Claude Code extensions (statusline, finish-sounds)",
-    "Shipping Clik v0.16.x releases (desktop AI tooling)",
-    "Terminal UX experiments"
+    "Iterating on instantCode (AI frontend dev tool)",
+    "Shipping Clik v0.16.x releases",
+    "Hacking Claude Code hooks and statusline"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +76,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-22"
+  "updated": "2026-01-23"
 }
