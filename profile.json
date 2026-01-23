@@ -4,7 +4,7 @@
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 431,
+    "repos": 433,
     "stars": "1.8K"
   },
   "bio": [
@@ -29,7 +29,7 @@
       "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 221
+      "stars": 222
     },
     {
       "id": "jira-mcp",
@@ -48,26 +48,34 @@
       "stars": 50
     },
     {
+      "id": "vite-plugin-ai-annotator",
+      "title": "Vite Plugin AI Annotator",
+      "description": "AI-powered element annotator for Vite",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
+      "stars": 0
+    },
+    {
+      "id": "claude-annotator-plugin",
+      "title": "Claude Annotator Plugin",
+      "description": "Claude Code plugin for visual selection",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/claude-annotator-plugin",
+      "stars": 0
+    },
+    {
       "id": "claude-statusline",
       "title": "Claude Statusline",
       "description": "Cost tracking for Claude Code",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/claude-statusline",
       "stars": 0
-    },
-    {
-      "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 9
     }
   ],
   "now": [
-    "Iterating on instantCode (AI frontend dev tool)",
-    "Shipping Clik v0.16.x releases",
-    "Hacking Claude Code hooks and statusline"
+    "Shipping vite-plugin-ai-annotator v1.1.0 (source location injection)",
+    "Building claude-annotator-plugin for visual element selection",
+    "Iterating on instantCode ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

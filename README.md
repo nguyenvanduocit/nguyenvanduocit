@@ -10,9 +10,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (9⭐)
 
 ### Now
-- Iterating on instantCode (AI frontend dev tool)
-- Shipping Clik v0.16.x releases
-- Hacking Claude Code hooks and statusline
+- Shipping vite-plugin-ai-annotator v1.1.0 (source location injection)
+- Building claude-annotator-plugin for visual element selection
+- Iterating on instantCode ecosystem
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
