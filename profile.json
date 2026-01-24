@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Released vite-plugin-ai-annotator v1.1.0 with HTML source location injection",
-    "Building Claude Code integration for visual element selection workflow",
-    "Iterating on AI-assisted development tooling"
+    "Building AI-assisted dev tools (vite-plugin-ai-annotator, Claude plugins)",
+    "Shipping MCP integrations for developer workflows",
+    "Iterating on visual programming interfaces"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

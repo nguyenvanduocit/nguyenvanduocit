@@ -4,16 +4,14 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Projects
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration plugin (222⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP server for Jira AI access (79⭐)
 - **[instantCode](https://github.com/nguyenvanduocit/instantCode)** — AI browser inspection tool (50⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotator for Vite
-- **[claude-annotator-plugin](https://github.com/nguyenvanduocit/claude-annotator-plugin)** — Claude Code plugin for visual element selection
-- **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API
+- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — Vite plugin for AI-powered element annotation
+- **[claude-annotator-plugin](https://github.com/nguyenvanduocit/claude-annotator-plugin)** — Claude Code visual element picker
 
 ### Now
-- Released vite-plugin-ai-annotator v1.1.0 with HTML source location injection
-- Building Claude Code integration for visual element selection workflow
-- Iterating on AI-assisted development tooling
+- Building AI-assisted dev tools (vite-plugin-ai-annotator, Claude plugins)
+- Shipping MCP integrations for developer workflows
+- Iterating on visual programming interfaces
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
