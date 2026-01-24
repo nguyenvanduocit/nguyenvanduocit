@@ -64,18 +64,18 @@
       "stars": 0
     },
     {
-      "id": "claude-statusline",
-      "title": "Claude Statusline",
-      "description": "Cost tracking for Claude Code",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/claude-statusline",
-      "stars": 0
+      "id": "copilot-sdk",
+      "title": "Copilot SDK",
+      "description": "TypeScript SDK for GitHub Copilot API",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/copilot-sdk",
+      "stars": 1
     }
   ],
   "now": [
-    "Shipping vite-plugin-ai-annotator v1.1.0 (source location injection)",
-    "Building claude-annotator-plugin for visual element selection",
-    "Iterating on instantCode ecosystem"
+    "Released vite-plugin-ai-annotator v1.1.0 with HTML source location injection",
+    "Building Claude Code integration for visual element selection workflow",
+    "Iterating on AI-assisted development tooling"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-23"
+  "updated": "2026-01-24"
 }
