@@ -6,12 +6,12 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration plugin (222⭐)
 - **[instantCode](https://github.com/nguyenvanduocit/instantCode)** — AI browser inspection tool (50⭐)
 - **[dev-kit](https://github.com/nguyenvanduocit/dev-kit)** — MCP dev tools for daily workflows (31⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotator for Vite
+- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI element annotator for Vite
 
 ### Now
-- Iterating on vite-plugin-ai-annotator (20+ commits this week)
-- Building Claude Code integrations for visual selection
-- Exploring AI-human collaboration through element pickers
+- Iterating on vite-plugin-ai-annotator
+- Building Claude Code plugins for visual selection
+- Exploring AI-human collaboration patterns
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
