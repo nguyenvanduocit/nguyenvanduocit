@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Building AI-assisted dev tools (vite-plugin-ai-annotator, Claude plugins)",
-    "Shipping MCP integrations for developer workflows",
-    "Iterating on visual programming interfaces"
+    "Iterating on vite-plugin-ai-annotator (20+ commits this week)",
+    "Building Claude Code integrations for visual selection",
+    "Exploring AI-human collaboration through element pickers"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-24"
+  "updated": "2026-01-25"
 }
