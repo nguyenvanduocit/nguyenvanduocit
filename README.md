@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API (1⭐)
 
 ### Now
-- Building Claude Code plugins (annotator, statusline, finish-sounds)
-- Iterating on vite-plugin-ai-annotator
-- Exploring AI-human collaboration workflows
+- Heavy development on vite-plugin-ai-annotator
+- Building Claude Code plugins ecosystem
+- Contributing to aiocean/claude-plugins (golangci-lint)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

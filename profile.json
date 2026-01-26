@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Building Claude Code plugins (annotator, statusline, finish-sounds)",
-    "Iterating on vite-plugin-ai-annotator",
-    "Exploring AI-human collaboration workflows"
+    "Heavy development on vite-plugin-ai-annotator",
+    "Building Claude Code plugins ecosystem",
+    "Contributing to aiocean/claude-plugins (golangci-lint)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
