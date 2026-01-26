@@ -73,9 +73,9 @@
     }
   ],
   "now": [
+    "Building Claude Code plugins (annotator, statusline, finish-sounds)",
     "Iterating on vite-plugin-ai-annotator",
-    "Building Claude Code plugins for visual selection",
-    "Exploring AI-human collaboration patterns"
+    "Exploring AI-human collaboration workflows"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-25"
+  "updated": "2026-01-26"
 }
