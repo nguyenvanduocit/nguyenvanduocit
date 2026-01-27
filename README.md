@@ -4,16 +4,14 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Projects
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration plugin (222⭐)
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go-based MCP connector for Jira (78⭐)
 - **[instantCode](https://github.com/nguyenvanduocit/instantCode)** — AI browser inspection tool (50⭐)
-- **[dev-kit](https://github.com/nguyenvanduocit/dev-kit)** — MCP dev tools for daily workflows (31⭐)
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI element annotator for Vite
-- **[claude-annotator-plugin](https://github.com/nguyenvanduocit/claude-annotator-plugin)** — Claude Code plugin for InstantCode
-- **[copilot-sdk](https://github.com/nguyenvanduocit/copilot-sdk)** — TypeScript SDK for GitHub Copilot API (1⭐)
 
 ### Now
-- Heavy development on vite-plugin-ai-annotator
-- Building Claude Code plugins ecosystem
-- Contributing to aiocean/claude-plugins (golangci-lint)
+- Active development on vite-plugin-ai-annotator (18+ commits)
+- Contributing to aiocean/claude-plugins (golangci-lint PR)
+- Building AI-powered developer tooling
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +20,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-01-26*
+*Updated: 2026-01-27*

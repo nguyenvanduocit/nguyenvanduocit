@@ -37,7 +37,7 @@
       "description": "Go MCP server for Jira AI access",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
-      "stars": 79
+      "stars": 78
     },
     {
       "id": "instantcode",
@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Heavy development on vite-plugin-ai-annotator",
-    "Building Claude Code plugins ecosystem",
-    "Contributing to aiocean/claude-plugins (golangci-lint)"
+    "Active development on vite-plugin-ai-annotator (18+ commits in 3 days)",
+    "Contributing to aiocean/claude-plugins (golangci-lint PR merged)",
+    "Building AI-powered developer tooling ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-26"
+  "updated": "2026-01-27"
 }
