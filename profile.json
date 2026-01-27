@@ -1,26 +1,24 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Backend/AI × Agents/MCP × Product iteration",
+  "tagline": "Pi-shaped engineer building AI agents and developer tooling",
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 433,
+    "repos": 434,
     "stars": "1.8K"
   },
   "bio": [
-    "I'm an Engineering Manager at FireGroup, building backend systems and AI tooling that solve real problems.",
+    "I'm an Engineering Manager at FireGroup, where I lead teams building scalable backend systems.",
     "",
-    "13 years of shipping code, 5K+ commits across 431 repos. I work in Go and TypeScript, focusing on developer tools, MCP servers, and AI agents.",
+    "Outside work, I build tools that make developers' lives better. My projects span AI tooling (MCP connectors, Claude plugins), real-time systems, and productivity tools.",
     "",
-    "On the side, I run aiocean.io, building practical AI tools like Clik (desktop AI assistant) and Open Gate (Obsidian web integration).",
+    "Started aiocean.io as a sandbox for AI agent experimentation. Built obsidian-open-gate (221 stars) to integrate web APIs with Obsidian, jira-mcp (78 stars) for AI-Jira interaction, and instantCode (51 stars) for AI-powered browser inspection.",
     "",
-    "I write about engineering and product thinking at 12bit.vn and onepercent.plus — exploring how to build better, ship faster, and think clearer.",
+    "I write about software engineering and side projects at 12bit.vn and document my 1% daily improvement journey at onepercent.plus.",
     "",
-    "Back in 2016, I co-founded Vue.js Vietnam, one of the first Vue.js communities in Southeast Asia. These days I'm deep in AI tooling and MCP protocols.",
+    "Back in 2016, I co-founded the Vue.js Vietnam community when Vue was just getting started.",
     "",
-    "I believe in Pi-shaped skills: deep technical expertise (backend, real-time systems) combined with broad context (AI agents, product iteration, developer experience).",
-    "",
-    "I care about tools that respect your time, code that's easy to change, and products that actually matter to people who use them."
+    "I believe in shipping fast, iterating in public, and building things that solve real problems. Most of my work is in Go and TypeScript, focused on backend systems, AI agents, and developer tooling."
   ],
   "projects": [
     {
@@ -29,53 +27,45 @@
       "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 222
+      "stars": 221
     },
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go MCP server for Jira AI access",
+      "description": "Go-based MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 78
     },
     {
       "id": "instantcode",
-      "title": "instantCode",
+      "title": "InstantCode",
       "description": "AI browser inspection tool",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/instantCode",
-      "stars": 50
+      "stars": 51
+    },
+    {
+      "id": "dev-kit",
+      "title": "Dev Kit",
+      "description": "MCP developer toolkit",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/dev-kit",
+      "stars": 31
     },
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
-      "description": "AI-powered element annotator for Vite",
+      "description": "AI element annotator for Vite",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
-      "stars": 0
-    },
-    {
-      "id": "claude-annotator-plugin",
-      "title": "Claude Annotator Plugin",
-      "description": "Claude Code plugin for visual selection",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/claude-annotator-plugin",
-      "stars": 0
-    },
-    {
-      "id": "copilot-sdk",
-      "title": "Copilot SDK",
-      "description": "TypeScript SDK for GitHub Copilot API",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/copilot-sdk",
       "stars": 1
     }
   ],
   "now": [
-    "Active development on vite-plugin-ai-annotator (18+ commits in 3 days)",
-    "Contributing to aiocean/claude-plugins (golangci-lint PR merged)",
-    "Building AI-powered developer tooling ecosystem"
+    "Building new invest app (TypeScript)",
+    "Iterating on vite-plugin-ai-annotator",
+    "Contributing to aiocean/claude-plugins"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
