@@ -1,6 +1,6 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer building AI agents and developer tooling",
+  "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
     "years": 13,
     "commits": "5K+",
@@ -8,17 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "I'm an Engineering Manager at FireGroup, where I lead teams building scalable backend systems.",
+    "Engineering Manager at FireGroup, building high-impact products with distributed teams.",
     "",
-    "Outside work, I build tools that make developers' lives better. My projects span AI tooling (MCP connectors, Claude plugins), real-time systems, and productivity tools.",
+    "I care about developer experience and turning ideas into reality. My work spans AI tooling, real-time systems, and making complex tech accessible.",
     "",
-    "Started aiocean.io as a sandbox for AI agent experimentation. Built obsidian-open-gate (221 stars) to integrate web APIs with Obsidian, jira-mcp (78 stars) for AI-Jira interaction, and instantCode (51 stars) for AI-powered browser inspection.",
+    "Side projects include aiocean.io (AI developer tools) and writing at 12bit.vn and onepercent.plus about engineering and product thinking.",
     "",
-    "I write about software engineering and side projects at 12bit.vn and document my 1% daily improvement journey at onepercent.plus.",
+    "Founded Vue.js Vietnam community in 2016, helping bring modern frontend development to Vietnamese developers.",
     "",
-    "Back in 2016, I co-founded the Vue.js Vietnam community when Vue was just getting started.",
+    "13 years coding, mostly Go and TypeScript. Prefer shipping iteratively over perfect plans. Always exploring how AI can enhance developer workflows.",
     "",
-    "I believe in shipping fast, iterating in public, and building things that solve real problems. Most of my work is in Go and TypeScript, focused on backend systems, AI agents, and developer tooling."
+    "Find me building MCP servers, Obsidian plugins, or experimenting with AI-powered dev tools. Open to collaboration on developer tooling and AI integration projects."
   ],
   "projects": [
     {
@@ -38,20 +38,12 @@
       "stars": 78
     },
     {
-      "id": "instantcode",
+      "id": "instantCode",
       "title": "InstantCode",
       "description": "AI browser inspection tool",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/instantCode",
       "stars": 51
-    },
-    {
-      "id": "dev-kit",
-      "title": "Dev Kit",
-      "description": "MCP developer toolkit",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/dev-kit",
-      "stars": 31
     },
     {
       "id": "vite-plugin-ai-annotator",
@@ -60,12 +52,20 @@
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 1
+    },
+    {
+      "id": "invest",
+      "title": "Invest",
+      "description": "Investment tracking app",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/invest",
+      "stars": 0
     }
   ],
   "now": [
-    "Building new invest app (TypeScript)",
-    "Iterating on vite-plugin-ai-annotator",
-    "Contributing to aiocean/claude-plugins"
+    "Building invest: TypeScript investment tracker (15+ commits)",
+    "Active on vite-plugin-ai-annotator and aiocean/claude-plugins",
+    "Exploring AI-powered developer tooling"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +74,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-27"
+  "updated": "2026-01-28"
 }
