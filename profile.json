@@ -8,17 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building high-impact products with distributed teams.",
+    "Engineering Manager at FireGroup, building e-commerce infrastructure at scale.",
     "",
-    "I care about developer experience and turning ideas into reality. My work spans AI tooling, real-time systems, and making complex tech accessible.",
+    "I've been coding for 13 years, with 434 public repos and 1.8K+ stars. I work primarily in Go and TypeScript, building backend systems, developer tooling, and AI integrations.",
     "",
-    "Side projects include aiocean.io (AI developer tools) and writing at 12bit.vn and onepercent.plus about engineering and product thinking.",
+    "Side projects include aiocean.io (MCP ecosystem), obsidian-open-gate (221⭐ Obsidian plugin), and jira-mcp (79⭐ Go-based Jira connector). I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "Founded Vue.js Vietnam community in 2016, helping bring modern frontend development to Vietnamese developers.",
+    "Founded Vue.js Vietnam community in 2016. Built multiple open-source tools for developers, with focus on AI agents, MCP servers, and real-time systems.",
     "",
-    "13 years coding, mostly Go and TypeScript. Prefer shipping iteratively over perfect plans. Always exploring how AI can enhance developer workflows.",
+    "My approach: Ship fast, iterate with users, build tools that solve real problems. Pi-shaped: deep technical skills in backend/AI tooling, broad understanding of product and systems.",
     "",
-    "Find me building MCP servers, Obsidian plugins, or experimenting with AI-powered dev tools. Open to collaboration on developer tooling and AI integration projects."
+    "Currently exploring Claude Code plugins, MCP integrations, and AI-assisted development workflows."
   ],
   "projects": [
     {
@@ -32,18 +32,26 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go-based MCP connector for Jira",
+      "description": "Go MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
-      "stars": 78
+      "stars": 79
     },
     {
-      "id": "instantCode",
+      "id": "instantcode",
       "title": "InstantCode",
       "description": "AI browser inspection tool",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/instantCode",
       "stars": 51
+    },
+    {
+      "id": "dev-kit",
+      "title": "Dev Kit",
+      "description": "MCP developer toolkit",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/dev-kit",
+      "stars": 31
     },
     {
       "id": "vite-plugin-ai-annotator",
@@ -55,17 +63,17 @@
     },
     {
       "id": "invest",
-      "title": "Invest",
-      "description": "Investment tracking app",
+      "title": "Invest Dashboard",
+      "description": "Investment tracking dashboard",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/invest",
       "stars": 0
     }
   ],
   "now": [
-    "Shipping vite-plugin-ai-annotator & claude-annotator-plugin",
-    "Building invest: TypeScript investment tracker (17+ commits)",
-    "AI tooling experiments: Claude plugins & MCP integrations"
+    "Building invest dashboard (18 commits last 2 days)",
+    "Iterating on vite-plugin-ai-annotator & claude-annotator-plugin",
+    "Exploring Claude Code plugins & MCP tooling"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-28"
+  "updated": "2026-01-29"
 }
