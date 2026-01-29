@@ -10,15 +10,15 @@
   "bio": [
     "Engineering Manager at FireGroup, building e-commerce infrastructure at scale.",
     "",
-    "I've been coding for 13 years, with 434 public repos and 1.8K+ stars. I work primarily in Go and TypeScript, building backend systems, developer tooling, and AI integrations.",
+    "I've been coding for 13+ years, with 434 repos and 1.8K+ stars. Started with PHP, moved through Node.js, now primarily Go and TypeScript.",
     "",
-    "Side projects include aiocean.io (MCP ecosystem), obsidian-open-gate (221⭐ Obsidian plugin), and jira-mcp (79⭐ Go-based Jira connector). I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
+    "On the side, I run aiocean.io — building AI tooling and MCP servers. Recent focus: making AI agents more useful through better context protocols.",
     "",
-    "Founded Vue.js Vietnam community in 2016. Built multiple open-source tools for developers, with focus on AI agents, MCP servers, and real-time systems.",
+    "I write at 12bit.vn (technical deep-dives in Vietnamese) and onepercent.plus (product thinking). Co-founded Vue.js Vietnam community in 2016.",
     "",
-    "My approach: Ship fast, iterate with users, build tools that solve real problems. Pi-shaped: deep technical skills in backend/AI tooling, broad understanding of product and systems.",
+    "My approach: ship fast, iterate based on feedback, focus on utility over complexity. I care about tools that solve real problems.",
     "",
-    "Currently exploring Claude Code plugins, MCP integrations, and AI-assisted development workflows."
+    "Most proud of: obsidian-open-gate (221⭐), jira-mcp (79⭐), and various MCP experiments that push the boundaries of AI-human collaboration."
   ],
   "projects": [
     {
@@ -46,14 +46,6 @@
       "stars": 51
     },
     {
-      "id": "dev-kit",
-      "title": "Dev Kit",
-      "description": "MCP developer toolkit",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/dev-kit",
-      "stars": 31
-    },
-    {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
       "description": "AI element annotator for Vite",
@@ -68,12 +60,20 @@
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/invest",
       "stars": 0
+    },
+    {
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Spec-Driven Research toolkit",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 10
     }
   ],
   "now": [
-    "Building invest dashboard (18 commits last 2 days)",
+    "Building invest dashboard (TypeScript)",
     "Iterating on vite-plugin-ai-annotator & claude-annotator-plugin",
-    "Exploring Claude Code plugins & MCP tooling"
+    "Exploring Claude Code plugins & MCP tooling ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
