@@ -8,17 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce infrastructure at scale.",
+    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
     "",
-    "I've been coding for 13+ years, with 434 repos and 1.8K+ stars. Started with PHP, moved through Node.js, now primarily Go and TypeScript.",
+    "I care about making tools that developers actually want to use. From AI-powered dev workflows to MCP connectors, I focus on practical solutions that eliminate friction.",
     "",
-    "On the side, I run aiocean.io — building AI tooling and MCP servers. Recent focus: making AI agents more useful through better context protocols.",
+    "Built aiocean.io to explore AI agent tooling. Founded Vue.js Vietnam community in 2016. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "I write at 12bit.vn (technical deep-dives in Vietnamese) and onepercent.plus (product thinking). Co-founded Vue.js Vietnam community in 2016.",
+    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Recent projects include obsidian-open-gate (221⭐), jira-mcp (79⭐), and instantCode (51⭐).",
     "",
-    "My approach: ship fast, iterate based on feedback, focus on utility over complexity. I care about tools that solve real problems.",
+    "I believe in iterative product development, pragmatic architecture, and shipping early. More interested in solving real problems than chasing perfect abstractions.",
     "",
-    "Most proud of: obsidian-open-gate (221⭐), jira-mcp (79⭐), and various MCP experiments that push the boundaries of AI-human collaboration."
+    "13 years of commits, 434 repos, still learning every day."
   ],
   "projects": [
     {
@@ -54,26 +54,18 @@
       "stars": 1
     },
     {
-      "id": "invest",
-      "title": "Invest Dashboard",
-      "description": "Investment tracking dashboard",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/invest",
-      "stars": 0
-    },
-    {
       "id": "research-kit",
       "title": "Research Kit",
-      "description": "Spec-Driven Research toolkit",
+      "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
       "stars": 10
     }
   ],
   "now": [
-    "Building AI-powered element annotation tools (vite-plugin & Claude plugin)",
-    "Creating personal investment tracking dashboard",
-    "Contributing to Claude plugins ecosystem (aiocean/claude-plugins)"
+    "Building AI-powered Vite plugins for element annotation",
+    "Contributing to Claude plugins ecosystem (golangci-lint plugin)",
+    "Personal investment tracking experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

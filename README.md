@@ -8,12 +8,11 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[instantCode](https://github.com/nguyenvanduocit/instantCode)** — AI browser inspector (51⭐)
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI element annotator for Vite
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (10⭐)
-- **[invest](https://github.com/nguyenvanduocit/invest)** — Investment tracking dashboard
 
 ### Now
-- Building AI-powered element annotation tools (vite-plugin & Claude plugin)
-- Creating personal investment tracking dashboard
-- Contributing to Claude plugins ecosystem (aiocean/claude-plugins)
+- Building AI-powered Vite plugins for element annotation
+- Contributing to Claude plugins ecosystem (golangci-lint plugin)
+- Personal investment tracking experiments
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
