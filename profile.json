@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Building invest dashboard (TypeScript)",
-    "Iterating on vite-plugin-ai-annotator & claude-annotator-plugin",
-    "Exploring Claude Code plugins & MCP tooling ecosystem"
+    "Building AI-powered element annotation tools (vite-plugin & Claude plugin)",
+    "Creating personal investment tracking dashboard",
+    "Contributing to Claude plugins ecosystem (aiocean/claude-plugins)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-29"
+  "updated": "2026-01-30"
 }
