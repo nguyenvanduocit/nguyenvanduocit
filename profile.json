@@ -14,7 +14,7 @@
     "",
     "Built aiocean.io to explore AI agent tooling. Founded Vue.js Vietnam community in 2016. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Recent projects include obsidian-open-gate (221⭐), jira-mcp (79⭐), and instantCode (51⭐).",
+    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Top projects include obsidian-open-gate (221⭐), jira-mcp (79⭐), and google-kit (20⭐).",
     "",
     "I believe in iterative product development, pragmatic architecture, and shipping early. More interested in solving real problems than chasing perfect abstractions.",
     "",
@@ -32,23 +32,23 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go MCP connector for Jira",
+      "description": "Go-based MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 79
     },
     {
-      "id": "instantcode",
-      "title": "InstantCode",
-      "description": "AI browser inspection tool",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/instantCode",
-      "stars": 51
+      "id": "google-kit",
+      "title": "Google Kit",
+      "description": "Google services toolkit",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/google-kit",
+      "stars": 20
     },
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
-      "description": "AI element annotator for Vite",
+      "description": "AI-powered element annotator for Vite",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 1
@@ -63,9 +63,9 @@
     }
   ],
   "now": [
-    "Building AI-powered Vite plugins for element annotation",
-    "Contributing to Claude plugins ecosystem (golangci-lint plugin)",
-    "Personal investment tracking experiments"
+    "Iterating on vite-plugin-ai-annotator for AI-powered development",
+    "Building personal investment tracking dashboard",
+    "Contributing to aiocean/claude-plugins ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +74,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-30"
+  "updated": "2026-01-31"
 }
