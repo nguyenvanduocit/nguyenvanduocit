@@ -14,7 +14,7 @@
     "",
     "Built aiocean.io to explore AI agent tooling. Founded Vue.js Vietnam community in 2016. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Top projects include obsidian-open-gate (221⭐), jira-mcp (79⭐), and google-kit (20⭐).",
+    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Top projects include obsidian-open-gate (222⭐), jira-mcp (79⭐), and google-kit (20⭐).",
     "",
     "I believe in iterative product development, pragmatic architecture, and shipping early. More interested in solving real problems than chasing perfect abstractions.",
     "",
@@ -27,7 +27,7 @@
       "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 221
+      "stars": 222
     },
     {
       "id": "jira-mcp",
@@ -64,7 +64,7 @@
   ],
   "now": [
     "Iterating on vite-plugin-ai-annotator for AI-powered development",
-    "Building personal investment tracking dashboard",
+    "Building investment tracking dashboard with TypeScript",
     "Contributing to aiocean/claude-plugins ecosystem"
   ],
   "links": {
