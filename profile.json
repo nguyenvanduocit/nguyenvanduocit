@@ -2,23 +2,23 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 13,
+    "years": 14,
     "commits": "5K+",
     "repos": 434,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
+    "Engineering Manager at FireGroup by day, building AI-powered tools by night.",
     "",
-    "I care about making tools that developers actually want to use. From AI-powered dev workflows to MCP connectors, I focus on practical solutions that eliminate friction.",
+    "I've spent 14+ years across the stack—from PHP to Go to TypeScript—but my real focus is on making developers more productive through better tooling.",
     "",
-    "Built aiocean.io to explore AI agent tooling. Founded Vue.js Vietnam community in 2016. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
+    "Created obsidian-open-gate (222 stars), jira-mcp, and other MCP integrations to bridge AI assistants with real development workflows. I believe the best tools feel invisible.",
     "",
-    "My strongest work combines backend systems (Go, TypeScript) with AI tooling and MCP integration. Top projects include obsidian-open-gate (222⭐), jira-mcp (79⭐), and google-kit (20⭐).",
+    "Founded Vue.js Vietnam community in 2016. Write about engineering and life at 12bit.vn and onepercent.plus.",
     "",
-    "I believe in iterative product development, pragmatic architecture, and shipping early. More interested in solving real problems than chasing perfect abstractions.",
+    "Currently exploring: AI-human collaboration interfaces, investment tracking systems, and how to ship faster without breaking things.",
     "",
-    "13 years of commits, 434 repos, still learning every day."
+    "Based in Vietnam. Always iterating."
   ],
   "projects": [
     {
@@ -56,7 +56,7 @@
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
-      "description": "AI-powered element annotator for Vite",
+      "description": "AI element annotator for Vite",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 1
@@ -64,16 +64,16 @@
     {
       "id": "invest",
       "title": "Invest Dashboard",
-      "description": "Investment tracking with real-time data",
+      "description": "Investment tracking dashboard",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/invest",
       "stars": 0
     }
   ],
   "now": [
-    "Iterating on vite-plugin-ai-annotator and Claude annotator plugin for AI-powered development",
-    "Building investment tracking tools with real-time data visualization",
-    "Contributing to aiocean/claude-plugins with golangci-lint integration"
+    "Building investment tracking tools and visualization dashboards",
+    "Developing AI-powered development tooling (vite-plugin-ai-annotator)",
+    "Contributing to aiocean/claude-plugins ecosystem"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[invest](https://github.com/nguyenvanduocit/invest)** — Investment tracking dashboard
 
 ### Now
-- Iterating on vite-plugin-ai-annotator and Claude annotator plugin
-- Building investment tracking tools with real-time data visualization
-- Contributing to aiocean/claude-plugins with golangci-lint integration
+- Building investment tracking tools and visualization dashboards
+- Developing AI-powered development tooling (vite-plugin-ai-annotator)
+- Contributing to aiocean/claude-plugins ecosystem
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
