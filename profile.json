@@ -46,6 +46,14 @@
       "stars": 20
     },
     {
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Spec-driven research toolkit",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 10
+    },
+    {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
       "description": "AI-powered element annotator for Vite",
@@ -54,18 +62,18 @@
       "stars": 1
     },
     {
-      "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 10
+      "id": "invest",
+      "title": "Invest Dashboard",
+      "description": "Investment tracking with real-time data",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/invest",
+      "stars": 0
     }
   ],
   "now": [
-    "Iterating on vite-plugin-ai-annotator for AI-powered development",
-    "Building investment tracking dashboard with TypeScript",
-    "Contributing to aiocean/claude-plugins ecosystem"
+    "Iterating on vite-plugin-ai-annotator and Claude annotator plugin for AI-powered development",
+    "Building investment tracking tools with real-time data visualization",
+    "Contributing to aiocean/claude-plugins with golangci-lint integration"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-01-31"
+  "updated": "2026-02-01"
 }
