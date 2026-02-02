@@ -6,14 +6,13 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration (222⭐)
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP Jira connector (79⭐)
 - **[google-kit](https://github.com/nguyenvanduocit/google-kit)** — Google services toolkit (20⭐)
-- **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (10⭐)
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI element annotator for Vite
-- **[invest](https://github.com/nguyenvanduocit/invest)** — Investment tracking dashboard
+- **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (10⭐)
 
 ### Now
-- Building investment tracking and financial visualization tools
-- Developing Claude plugins and MCP integrations
-- Experimenting with AI-powered development workflows
+- Building Claude plugins for AI-powered development workflows
+- Developing investment tracking and financial visualization tools
+- Iterating on MCP integrations and AI tooling experiments
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

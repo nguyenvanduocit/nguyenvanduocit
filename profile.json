@@ -2,23 +2,25 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 14,
+    "years": 13,
     "commits": "5K+",
     "repos": 434,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup by day, building AI-powered tools by night.",
+    "Engineering Manager at FireGroup, building scalable backend systems and AI-powered tooling.",
     "",
-    "I've spent 14+ years across the stack—from PHP to Go to TypeScript—but my real focus is on making developers more productive through better tooling.",
+    "I care about tools that reduce friction between ideas and execution. My work spans Go backends, TypeScript tooling, and AI agent integrations through MCP.",
     "",
-    "Created obsidian-open-gate (222 stars), jira-mcp, and other MCP integrations to bridge AI assistants with real development workflows. I believe the best tools feel invisible.",
+    "Side projects: aiocean.io (AI development tools), writing at 12bit.vn and onepercent.plus.",
     "",
-    "Founded Vue.js Vietnam community in 2016. Write about engineering and life at 12bit.vn and onepercent.plus.",
+    "Founded Vue.js Vietnam community in 2016, connecting 10K+ developers.",
     "",
-    "Currently exploring: AI-human collaboration interfaces, investment tracking systems, and how to ship faster without breaking things.",
+    "Top projects: obsidian-open-gate (222⭐ - Obsidian web integration), jira-mcp (79⭐ - Go MCP connector), google-kit (20⭐ - Google services toolkit).",
     "",
-    "Based in Vietnam. Always iterating."
+    "I approach engineering with product thinking: start small, iterate fast, validate assumptions. Build for real problems, not hypothetical ones.",
+    "",
+    "Based in Vietnam, working remotely across timezones."
   ],
   "projects": [
     {
@@ -46,14 +48,6 @@
       "stars": 20
     },
     {
-      "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 10
-    },
-    {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite Plugin AI Annotator",
       "description": "AI element annotator for Vite",
@@ -62,18 +56,18 @@
       "stars": 1
     },
     {
-      "id": "invest",
-      "title": "Invest Dashboard",
-      "description": "Investment tracking dashboard",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/invest",
-      "stars": 0
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Spec-driven research toolkit",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 10
     }
   ],
   "now": [
-    "Building investment tracking and financial visualization tools",
-    "Developing Claude plugins and MCP integrations",
-    "Experimenting with AI-powered development workflows"
+    "Building Claude plugins for AI-powered development workflows",
+    "Developing investment tracking and financial visualization tools",
+    "Iterating on MCP integrations and AI tooling experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
