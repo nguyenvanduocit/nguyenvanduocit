@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Building investment tracking tools and visualization dashboards",
-    "Developing AI-powered development tooling (vite-plugin-ai-annotator)",
-    "Contributing to aiocean/claude-plugins ecosystem"
+    "Building investment tracking and financial visualization tools",
+    "Developing Claude plugins and MCP integrations",
+    "Experimenting with AI-powered development workflows"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-01"
+  "updated": "2026-02-02"
 }

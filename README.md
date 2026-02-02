@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[invest](https://github.com/nguyenvanduocit/invest)** — Investment tracking dashboard
 
 ### Now
-- Building investment tracking tools and visualization dashboards
-- Developing AI-powered development tooling (vite-plugin-ai-annotator)
-- Contributing to aiocean/claude-plugins ecosystem
+- Building investment tracking and financial visualization tools
+- Developing Claude plugins and MCP integrations
+- Experimenting with AI-powered development workflows
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-01*
+*Updated: 2026-02-02*
