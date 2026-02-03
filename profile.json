@@ -48,26 +48,34 @@
       "stars": 20
     },
     {
-      "id": "vite-plugin-ai-annotator",
-      "title": "Vite Plugin AI Annotator",
-      "description": "AI element annotator for Vite",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
-      "stars": 1
-    },
-    {
       "id": "research-kit",
       "title": "Research Kit",
       "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
       "stars": 10
+    },
+    {
+      "id": "socketrpc-gen",
+      "title": "SocketRPC Gen",
+      "description": "Type-safe Socket.io RPC code generator",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/socketrpc-gen",
+      "stars": 1
+    },
+    {
+      "id": "vite-plugin-ai-annotator",
+      "title": "Vite Plugin AI Annotator",
+      "description": "AI element annotator for Vite",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
+      "stars": 1
     }
   ],
   "now": [
-    "Building Claude plugins and MCP integrations",
-    "Developing investment tracking tools with TypeScript",
-    "Iterating on AI-powered dev workflows"
+    "Adding attachment downloads to jira-mcp (v1.17.4)",
+    "Building investment portfolio tracker with real-time data",
+    "Improving Socket.io type-safe RPC patterns"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
