@@ -65,9 +65,9 @@
     }
   ],
   "now": [
-    "Building Claude plugins for AI-powered development workflows",
-    "Developing investment tracking and financial visualization tools",
-    "Iterating on MCP integrations and AI tooling experiments"
+    "Building Claude plugins and MCP integrations",
+    "Developing investment tracking tools with TypeScript",
+    "Iterating on AI-powered dev workflows"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -76,5 +76,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-02"
+  "updated": "2026-02-03"
 }
