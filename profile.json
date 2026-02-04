@@ -4,7 +4,7 @@
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 434,
+    "repos": 435,
     "stars": "1.8K"
   },
   "bio": [
@@ -16,7 +16,7 @@
     "",
     "Founded Vue.js Vietnam community in 2016, connecting 10K+ developers.",
     "",
-    "Top projects: obsidian-open-gate (222⭐ - Obsidian web integration), jira-mcp (79⭐ - Go MCP connector), google-kit (20⭐ - Google services toolkit).",
+    "Top projects: obsidian-open-gate (222⭐ - Obsidian web integration), jira-mcp (79⭐ - Go MCP connector), google-mcp (20⭐ - Google services MCP server).",
     "",
     "I approach engineering with product thinking: start small, iterate fast, validate assumptions. Build for real problems, not hypothetical ones.",
     "",
@@ -40,11 +40,11 @@
       "stars": 79
     },
     {
-      "id": "google-kit",
-      "title": "Google Kit",
-      "description": "Google services toolkit",
+      "id": "google-mcp",
+      "title": "Google MCP",
+      "description": "Google services MCP server",
       "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/google-kit",
+      "url": "https://github.com/nguyenvanduocit/google-mcp",
       "stars": 20
     },
     {
@@ -64,18 +64,18 @@
       "stars": 1
     },
     {
-      "id": "vite-plugin-ai-annotator",
-      "title": "Vite Plugin AI Annotator",
-      "description": "AI element annotator for Vite",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
-      "stars": 1
+      "id": "x-mcp",
+      "title": "X MCP",
+      "description": "X/Twitter MCP server",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/x-mcp",
+      "stars": 0
     }
   ],
   "now": [
-    "Adding attachment downloads to jira-mcp (v1.17.4)",
-    "Building investment portfolio tracker with real-time data",
-    "Improving Socket.io type-safe RPC patterns"
+    "Building X/Twitter MCP integration",
+    "Shipping Clik releases (v0.16.24)",
+    "Enhancing research-kit for spec-driven workflows"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-03"
+  "updated": "2026-02-04"
 }
