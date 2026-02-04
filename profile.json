@@ -8,19 +8,19 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building scalable backend systems and AI-powered tooling.",
+    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
     "",
-    "I care about tools that reduce friction between ideas and execution. My work spans Go backends, TypeScript tooling, and AI agent integrations through MCP.",
+    "I care about shipping products that solve real problems. My approach: start with code, iterate with users, refine with data.",
     "",
-    "Side projects: aiocean.io (AI development tools), writing at 12bit.vn and onepercent.plus.",
+    "Created aiocean.io to experiment with AI-first developer tools. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "Founded Vue.js Vietnam community in 2016, connecting 10K+ developers.",
+    "Helped build Vue.js Vietnam community in 2016. Active in open source with 1.8K+ stars across 435+ repos.",
     "",
-    "Top projects: obsidian-open-gate (222⭐ - Obsidian web integration), jira-mcp (79⭐ - Go MCP connector), google-mcp (20⭐ - Google services MCP server).",
+    "Main languages: Go and TypeScript. Focus areas: backend systems, AI tooling, MCP servers, real-time architectures.",
     "",
-    "I approach engineering with product thinking: start small, iterate fast, validate assumptions. Build for real problems, not hypothetical ones.",
+    "Side projects include Obsidian Open Gate (222★), Jira MCP (79★), and various developer tools that make AI integration seamless.",
     "",
-    "Based in Vietnam, working remotely across timezones."
+    "Based in Vietnam. Always exploring the intersection of AI agents and developer productivity."
   ],
   "projects": [
     {
@@ -53,14 +53,14 @@
       "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 10
+      "stars": 11
     },
     {
-      "id": "socketrpc-gen",
-      "title": "SocketRPC Gen",
-      "description": "Type-safe Socket.io RPC code generator",
+      "id": "vite-plugin-ai-annotator",
+      "title": "Vite Plugin AI Annotator",
+      "description": "AI-powered element annotator for Vite",
       "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/socketrpc-gen",
+      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 1
     },
     {
@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Building X/Twitter MCP integration",
-    "Shipping Clik releases (v0.16.24)",
-    "Enhancing research-kit for spec-driven workflows"
+    "Shipping Clik releases (v0.16.25) at aiocean.io",
+    "Building vite-plugin-ai-annotator for AI-powered code modifications",
+    "Enhancing research-kit workflows for spec-driven development"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
