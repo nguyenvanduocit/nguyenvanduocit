@@ -8,19 +8,17 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
+    "Engineering Manager at FireGroup, building scalable backend systems and AI-powered tools.",
     "",
-    "I care about shipping products that solve real problems. My approach: start with code, iterate with users, refine with data.",
+    "13 years turning ideas into working software. I care about tools that solve real problems, not just interesting engineering puzzles.",
     "",
-    "Created aiocean.io to experiment with AI-first developer tools. Write about engineering and product thinking at 12bit.vn and onepercent.plus.",
+    "My approach: start with the problem, ship fast, iterate based on real usage. Technical depth where it matters, pragmatism everywhere else.",
     "",
-    "Helped build Vue.js Vietnam community in 2016. Active in open source with 1.8K+ stars across 435+ repos.",
+    "Built obsidian-open-gate (222 stars) for Obsidian web integration, jira-mcp (79 stars) for AI-Jira workflows, and google-mcp (20 stars) for Google services. Most proud of work that helps developers ship faster.",
     "",
-    "Main languages: Go and TypeScript. Focus areas: backend systems, AI tooling, MCP servers, real-time architectures.",
+    "Side projects at aiocean.io (Clik, real-time systems), writing at 12bit.vn and onepercent.plus. Founded Vue.js Vietnam community in 2016.",
     "",
-    "Side projects include Obsidian Open Gate (222★), Jira MCP (79★), and various developer tools that make AI integration seamless.",
-    "",
-    "Based in Vietnam. Always exploring the intersection of AI agents and developer productivity."
+    "Go, TypeScript, MCP. Backend systems, developer tooling, AI integrations. Focus on real-time systems and making complex things simple."
   ],
   "projects": [
     {
@@ -34,7 +32,7 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go-based MCP connector for Jira",
+      "description": "MCP server for Jira integration",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 79
@@ -42,7 +40,7 @@
     {
       "id": "google-mcp",
       "title": "Google MCP",
-      "description": "Google services MCP server",
+      "description": "MCP server for Google services",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/google-mcp",
       "stars": 20
@@ -53,11 +51,11 @@
       "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 11
+      "stars": 12
     },
     {
       "id": "vite-plugin-ai-annotator",
-      "title": "Vite Plugin AI Annotator",
+      "title": "Vite AI Annotator",
       "description": "AI-powered element annotator for Vite",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
@@ -66,16 +64,16 @@
     {
       "id": "x-mcp",
       "title": "X MCP",
-      "description": "X/Twitter MCP server",
+      "description": "MCP server for X/Twitter",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/x-mcp",
       "stars": 0
     }
   ],
   "now": [
-    "Shipping Clik releases (v0.16.25) at aiocean.io",
-    "Building vite-plugin-ai-annotator for AI-powered code modifications",
-    "Enhancing research-kit workflows for spec-driven development"
+    "Shipping Clik v0.16.25 at aiocean",
+    "Enhancing Jira MCP with attachment support",
+    "Building x-mcp and google-mcp integrations"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-04"
+  "updated": "2026-02-05"
 }

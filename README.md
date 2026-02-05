@@ -4,16 +4,16 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Projects
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration (222⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP Jira connector (79⭐)
-- **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP server (20⭐)
-- **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (11⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotator for Vite
-- **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — X/Twitter MCP server
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — MCP server for Jira (79⭐)
+- **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — MCP server for Google services (20⭐)
+- **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (12⭐)
+- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered Vite dev tool
+- **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — MCP server for X/Twitter
 
 ### Now
-- Shipping Clik releases (v0.16.25)
-- Building vite-plugin-ai-annotator for AI code modifications
-- Enhancing research-kit workflows
+- Shipping Clik v0.16.25 at aiocean
+- Enhancing Jira MCP with attachment support
+- Building x-mcp and google-mcp integrations
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-04*
+*Updated: 2026-02-05*
