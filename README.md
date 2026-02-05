@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — MCP server for X/Twitter
 
 ### Now
-- Shipping Clik v0.16.25 at aiocean
-- Enhancing Jira MCP with attachment support
-- Building x-mcp and google-mcp integrations
+- Building Clik v0.16.26 releases at aiocean
+- Iterating on vite-plugin-ai-annotator
+- Research kit experiments and x-mcp development
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
