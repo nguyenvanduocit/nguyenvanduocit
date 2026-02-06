@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Building Clik v0.16.26 releases at aiocean",
-    "Iterating on vite-plugin-ai-annotator",
-    "Research kit experiments and x-mcp development"
+    "Shipping Clik releases (v0.16.26) at aiocean",
+    "Iterating on vite-plugin-ai-annotator and x-mcp",
+    "Research kit experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-05"
+  "updated": "2026-02-06"
 }

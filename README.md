@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — MCP server for X/Twitter
 
 ### Now
-- Building Clik v0.16.26 releases at aiocean
-- Iterating on vite-plugin-ai-annotator
-- Research kit experiments and x-mcp development
+- Shipping Clik releases (v0.16.26) at aiocean
+- Iterating on vite-plugin-ai-annotator and x-mcp
+- Research kit experiments
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-05*
+*Updated: 2026-02-06*
