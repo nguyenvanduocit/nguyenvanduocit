@@ -4,7 +4,7 @@
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 435,
+    "repos": 436,
     "stars": "1.8K"
   },
   "bio": [
@@ -72,8 +72,8 @@
   ],
   "now": [
     "Shipping Clik releases (v0.16.26) at aiocean",
-    "Iterating on vite-plugin-ai-annotator and x-mcp",
-    "Research kit experiments"
+    "Building vite-plugin-ai-annotator and x-mcp",
+    "Experimenting with research-kit workflows"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
