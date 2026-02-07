@@ -2,24 +2,25 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 13,
+    "years": 14,
     "commits": "5K+",
     "repos": 436,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup by day, building AI tools by night.",
+    "Engineering Manager at FireGroup, building e-commerce infrastructure.",
     "",
-    "I care about building things that solve real problems—fast iteration over perfect plans.",
-    "My best work combines deep backend experience (Go, TypeScript) with AI/MCP experimentation.",
+    "13+ years shipping backend systems, developer tools, and AI integrations.",
     "",
-    "Top projects: obsidian-open-gate (222⭐), jira-mcp (79⭐), google-mcp (20⭐).",
-    "Side venture: aiocean.io (Clik desktop app, 5K+ commits in clik-releases).",
+    "Created aiocean.io for rapid product experiments — Clik desktop app, MCP servers (Jira, Google, X).",
     "",
-    "I write about engineering and life at 12bit.vn and onepercent.plus.",
-    "Co-founded Vue.js Vietnam community in 2016.",
+    "Maintain obsidian-open-gate (222⭐), empowering 10K+ users with Obsidian web integration.",
     "",
-    "I believe in learning by shipping. Every project teaches something new."
+    "Write about engineering, product thinking, and AI at 12bit.vn and onepercent.plus.",
+    "",
+    "Co-founded Vue.js Vietnam community in 2016 — built bridges for Vietnamese developers.",
+    "",
+    "Believe in shipping fast, iterating often, and building tools that multiply developer leverage."
   ],
   "projects": [
     {
