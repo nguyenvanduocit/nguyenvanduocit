@@ -2,25 +2,25 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 14,
+    "years": 13,
     "commits": "5K+",
     "repos": 436,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce infrastructure.",
+    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
     "",
-    "13+ years shipping backend systems, developer tools, and AI integrations.",
+    "I build tools that help developers ship faster. My focus is on AI-powered developer tooling, MCP servers, and real-time systems.",
     "",
-    "Created aiocean.io for rapid product experiments — Clik desktop app, MCP servers (Jira, Google, X).",
+    "Side projects: aiocean.io (desktop apps), 12bit.vn (writing about engineering), onepercent.plus (product thinking).",
     "",
-    "Maintain obsidian-open-gate (222⭐), empowering 10K+ users with Obsidian web integration.",
+    "Open source: Created obsidian-open-gate (222⭐), jira-mcp (79⭐), google-mcp (20⭐). Contributed to MCP ecosystem and dev tools.",
     "",
-    "Write about engineering, product thinking, and AI at 12bit.vn and onepercent.plus.",
+    "Co-founded Vue.js Vietnam community in 2016. Been coding since 2011, from PHP to Go to TypeScript.",
     "",
-    "Co-founded Vue.js Vietnam community in 2016 — built bridges for Vietnamese developers.",
+    "I care about: pragmatic engineering, tight feedback loops, tools that fade into the background.",
     "",
-    "Believe in shipping fast, iterating often, and building tools that multiply developer leverage."
+    "Based in Việt Nam. Available for consulting on Go backends, MCP servers, and AI tooling."
   ],
   "projects": [
     {
@@ -53,29 +53,29 @@
       "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 12
+      "stars": 13
     },
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite AI Annotator",
-      "description": "AI-powered element annotator for Vite",
+      "description": "AI code editor integration",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
-      "stars": 1
+      "stars": 2
     },
     {
       "id": "x-mcp",
       "title": "X MCP",
-      "description": "MCP server for X/Twitter",
+      "description": "X/Twitter MCP server",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/x-mcp",
       "stars": 0
     }
   ],
   "now": [
-    "Shipping MCP servers and AI tooling (x-mcp, google-mcp)",
-    "Iterating on Clik desktop app releases at aiocean",
-    "Building vite-plugin-ai-annotator for AI-powered code mods"
+    "Building MCP servers (x-mcp, google-mcp updates)",
+    "Shipping Clik desktop app at aiocean",
+    "Experimenting with AI dev tooling"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-07"
+  "updated": "2026-02-08"
 }
