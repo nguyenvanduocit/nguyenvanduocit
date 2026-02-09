@@ -4,7 +4,7 @@
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 436,
+    "repos": 437,
     "stars": "1.8K"
   },
   "bio": [
@@ -14,7 +14,7 @@
     "",
     "Side projects: aiocean.io (desktop apps), 12bit.vn (writing about engineering), onepercent.plus (product thinking).",
     "",
-    "Open source: Created obsidian-open-gate (222⭐), jira-mcp (79⭐), google-mcp (20⭐). Contributed to MCP ecosystem and dev tools.",
+    "Open source: Created obsidian-open-gate (223⭐), jira-mcp (79⭐), google-mcp (20⭐). Contributed to MCP ecosystem and dev tools.",
     "",
     "Co-founded Vue.js Vietnam community in 2016. Been coding since 2011, from PHP to Go to TypeScript.",
     "",
@@ -29,7 +29,7 @@
       "description": "Obsidian web integration plugin",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 222
+      "stars": 223
     },
     {
       "id": "jira-mcp",
@@ -58,7 +58,7 @@
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite AI Annotator",
-      "description": "AI code editor integration",
+      "description": "AI-powered element picker for Vite",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 2
@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Shipping Clik v0.16.26 releases at aiocean",
-    "Building MCP servers (x-mcp, google-mcp)",
-    "Active development on vite-plugin-ai-annotator and research-kit"
+    "Contributing to SwiftOBD2 fork (iOS vehicle diagnostics)",
+    "Building x-mcp for X/Twitter integration",
+    "Shipping Clik desktop app updates (v0.16.26)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-08"
+  "updated": "2026-02-09"
 }
