@@ -73,9 +73,9 @@
     }
   ],
   "now": [
-    "Building Claude MCP plugins at aiocean",
-    "Contributing to Swift OBD2 (vehicle diagnostics)",
-    "Experimenting with Vite AI annotator"
+    "Clik releases and Claude plugin development at aiocean",
+    "Swift OBD2 vehicle diagnostics contributions",
+    "Vite AI annotator experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -84,5 +84,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-09"
+  "updated": "2026-02-10"
 }
