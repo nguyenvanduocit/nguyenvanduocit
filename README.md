@@ -7,12 +7,12 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — MCP server for Jira (79⭐)
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP (20⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (13⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI element annotator for Vite (2⭐)
+- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered Vite element annotator (2⭐)
 
 ### Now
-- Clik releases and Claude plugin development
-- Swift OBD2 vehicle diagnostics contributions
-- Vite AI annotator experiments
+- Shipping Claude plugins for aiocean
+- Building Clik desktop app releases
+- Exploring Swift vehicle diagnostics
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

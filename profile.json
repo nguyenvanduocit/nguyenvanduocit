@@ -8,25 +8,23 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce platforms at scale.",
+    "Engineering Manager at FireGroup, building e-commerce systems at scale.",
     "",
-    "I build tools that help developers ship faster. My focus is on AI-powered developer tooling, MCP servers, and real-time systems.",
+    "Outside work, I build tools that scratch my own itch. Started with Obsidian plugins (obsidian-open-gate, 223⭐), then dove into MCP servers to make AI assistants more useful (jira-mcp, google-mcp). Most projects begin as weekend experiments.",
     "",
-    "Side projects: aiocean.io (desktop apps), 12bit.vn (writing about engineering), onepercent.plus (product thinking).",
+    "I write at 12bit.vn about technical decisions and onepercent.plus about continuous improvement. Founded Vue.js Vietnam community in 2016 when the framework was still new.",
     "",
-    "Open source: Created obsidian-open-gate (223⭐), jira-mcp (79⭐), google-mcp (20⭐). Contributed to MCP ecosystem and dev tools.",
+    "Side project aiocean.io is where I prototype AI tooling ideas - currently focused on Claude plugins and desktop app distribution (Clik).",
     "",
-    "Co-founded Vue.js Vietnam community in 2016. Been coding since 2011, from PHP to Go to TypeScript.",
+    "After 13 years, still learning Go and TypeScript daily. The best code is the one you delete.",
     "",
-    "I care about: pragmatic engineering, tight feedback loops, tools that fade into the background.",
-    "",
-    "Based in Việt Nam. Available for consulting on Go backends, MCP servers, and AI tooling."
+    "Based in Vietnam, working with distributed teams globally."
   ],
   "projects": [
     {
       "id": "obsidian-open-gate",
       "title": "Obsidian Open Gate",
-      "description": "Obsidian web integration plugin",
+      "description": "Web integration for Obsidian notes",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
       "stars": 223
@@ -34,7 +32,7 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "MCP server for Jira integration",
+      "description": "MCP server for Atlassian Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 79
@@ -42,7 +40,7 @@
     {
       "id": "google-mcp",
       "title": "Google MCP",
-      "description": "MCP server for Google services",
+      "description": "Google services MCP connector",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/google-mcp",
       "stars": 20
@@ -58,24 +56,16 @@
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite AI Annotator",
-      "description": "AI-powered element picker for Vite",
+      "description": "AI-powered element annotator",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 2
     },
-    {
-      "id": "x-mcp",
-      "title": "X MCP",
-      "description": "X/Twitter MCP server",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/x-mcp",
-      "stars": 0
-    }
   ],
   "now": [
-    "Clik releases and Claude plugin development at aiocean",
-    "Swift OBD2 vehicle diagnostics contributions",
-    "Vite AI annotator experiments"
+    "Shipping Claude plugins for aiocean",
+    "Building Clik desktop app releases",
+    "Exploring Swift vehicle diagnostics"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
