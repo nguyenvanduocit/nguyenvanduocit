@@ -60,12 +60,12 @@
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 2
-    },
+    }
   ],
   "now": [
-    "Shipping Claude plugins for aiocean",
-    "Building Clik desktop app releases",
-    "Exploring Swift vehicle diagnostics"
+    "Building Claude plugins and MCP servers at aiocean",
+    "Shipping Clik desktop app releases (v0.16.28)",
+    "Exploring Swift OBD2 vehicle diagnostics"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +74,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-10"
+  "updated": "2026-02-11"
 }

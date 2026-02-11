@@ -10,9 +10,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered Vite element annotator (2⭐)
 
 ### Now
-- Shipping Claude plugins for aiocean
-- Building Clik desktop app releases
-- Exploring Swift vehicle diagnostics
+- Building Claude plugins and MCP servers
+- Shipping Clik desktop app (v0.16.28)
+- Swift OBD2 vehicle diagnostics
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -21,4 +21,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-10*
+*Updated: 2026-02-11*
