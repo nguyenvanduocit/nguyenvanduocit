@@ -2,9 +2,9 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 13,
+    "years": 15,
     "commits": "5K+",
-    "repos": 437,
+    "repos": 439,
     "stars": "1.8K"
   },
   "bio": [
@@ -35,15 +35,7 @@
       "description": "MCP server for Atlassian Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
-      "stars": 79
-    },
-    {
-      "id": "google-mcp",
-      "title": "Google MCP",
-      "description": "Google services MCP connector",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/google-mcp",
-      "stars": 20
+      "stars": 80
     },
     {
       "id": "research-kit",
@@ -52,6 +44,14 @@
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
       "stars": 13
+    },
+    {
+      "id": "mimaid",
+      "title": "Mimaid",
+      "description": "Minimal Mermaid diagram editor",
+      "tech": "TypeScript",
+      "url": "https://github.com/nguyenvanduocit/mimaid",
+      "stars": 2
     },
     {
       "id": "vite-plugin-ai-annotator",
@@ -63,9 +63,9 @@
     }
   ],
   "now": [
-    "Building Claude plugins and MCP servers at aiocean",
-    "Shipping Clik desktop app releases (v0.16.28)",
-    "Exploring Swift OBD2 vehicle diagnostics"
+    "Building Claude MCP plugins and integrations at aiocean/claude-plugins",
+    "Contributing Go language support to CodeWiki open-source project",
+    "Experimenting with investment tracking dashboards"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +74,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-11"
+  "updated": "2026-02-12"
 }

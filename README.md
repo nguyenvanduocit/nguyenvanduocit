@@ -4,15 +4,15 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Projects
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Obsidian web integration (223⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — MCP server for Jira (79⭐)
-- **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP (20⭐)
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — MCP server for Jira (80⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (13⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered Vite element annotator (2⭐)
+- **[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid editor (2⭐)
+- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotator (2⭐)
 
 ### Now
-- Building Claude plugins and MCP servers
-- Shipping Clik desktop app (v0.16.28)
-- Swift OBD2 vehicle diagnostics
+- Building Claude MCP plugins (aiocean/claude-plugins)
+- Contributing to CodeWiki with Go language support
+- Investment tracking tools experiments
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -21,4 +21,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-11*
+*Updated: 2026-02-12*
