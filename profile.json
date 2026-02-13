@@ -63,9 +63,9 @@
     }
   ],
   "now": [
-    "Building Claude MCP plugins and integrations at aiocean/claude-plugins",
-    "Contributing Go language support to CodeWiki open-source project",
-    "Experimenting with investment tracking dashboards"
+    "Building Claude MCP plugins and tooling at aiocean/claude-plugins",
+    "Contributing to CodeWiki with Python multi-language analyzer improvements",
+    "Experimenting with investment tracking tools and data visualization"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +74,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-12"
+  "updated": "2026-02-13"
 }

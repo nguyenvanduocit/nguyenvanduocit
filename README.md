@@ -10,8 +10,8 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotator (2⭐)
 
 ### Now
-- Building Claude MCP plugins (aiocean/claude-plugins)
-- Contributing to CodeWiki with Go language support
+- Building Claude MCP plugins and tooling
+- Contributing to CodeWiki (Python multi-language analyzer)
 - Investment tracking tools experiments
 
 ### Stack
@@ -21,4 +21,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-12*
+*Updated: 2026-02-13*
