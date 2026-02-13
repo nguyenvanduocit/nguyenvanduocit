@@ -2,25 +2,33 @@
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": {
-    "years": 15,
+    "years": 13,
     "commits": "5K+",
     "repos": 439,
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce systems at scale.",
+    "Engineering Manager at FireGroup, building e-commerce and logistics platforms at scale.",
     "",
-    "Outside work, I build tools that scratch my own itch. Started with Obsidian plugins (obsidian-open-gate, 223⭐), then dove into MCP servers to make AI assistants more useful (jira-mcp, google-mcp). Most projects begin as weekend experiments.",
+    "Outside work, I build tools that scratch my own itch. Started with Vue.js components (vue-loading-spinner, 688⭐), then Obsidian plugins (obsidian-open-gate, 223⭐), now building MCP servers to make AI assistants more useful (jira-mcp, 80⭐). Most projects begin as weekend experiments.",
     "",
-    "I write at 12bit.vn about technical decisions and onepercent.plus about continuous improvement. Founded Vue.js Vietnam community in 2016 when the framework was still new.",
+    "I write at 12bit.vn about technical decisions and onepercent.plus about continuous improvement. Co-founded Vue.js Vietnam community in 2016 when the framework was still new.",
     "",
-    "Side project aiocean.io is where I prototype AI tooling ideas - currently focused on Claude plugins and desktop app distribution (Clik).",
+    "Side project aiocean.io is where I prototype AI tooling ideas - currently focused on Claude plugins and developer workflows.",
     "",
     "After 13 years, still learning Go and TypeScript daily. The best code is the one you delete.",
     "",
     "Based in Vietnam, working with distributed teams globally."
   ],
   "projects": [
+    {
+      "id": "vue-loading-spinner",
+      "title": "Vue Loading Spinner",
+      "description": "Collection of loading spinners for Vue.js",
+      "tech": "Vue",
+      "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
+      "stars": 688
+    },
     {
       "id": "obsidian-open-gate",
       "title": "Obsidian Open Gate",
@@ -32,18 +40,18 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "MCP server for Atlassian Jira",
+      "description": "Go-based MCP server for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 80
     },
     {
-      "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 13
+      "id": "codewiki",
+      "title": "CodeWiki",
+      "description": "Multilingual code documentation framework",
+      "tech": "Python",
+      "url": "https://github.com/nguyenvanduocit/CodeWiki",
+      "stars": 0
     },
     {
       "id": "mimaid",
@@ -56,16 +64,16 @@
     {
       "id": "vite-plugin-ai-annotator",
       "title": "Vite AI Annotator",
-      "description": "AI-powered element annotator",
+      "description": "AI element picker for Vite projects",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
       "stars": 2
     }
   ],
   "now": [
-    "Building Claude MCP plugins and tooling at aiocean/claude-plugins",
-    "Contributing to CodeWiki with Python multi-language analyzer improvements",
-    "Experimenting with investment tracking tools and data visualization"
+    "Active development on claude-plugins MCP servers",
+    "Contributing to CodeWiki Python multi-language analyzer",
+    "Building investment tracking dashboard experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
