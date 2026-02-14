@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Active development on claude-plugins MCP servers",
-    "Contributing to CodeWiki Python multi-language analyzer",
-    "Building investment tracking dashboard experiments"
+    "Working on CodeWiki enhancements and Python analyzer improvements",
+    "Developing claude-plugins MCP server with new integrations",
+    "Building investment tracking dashboard tools"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-13"
+  "updated": "2026-02-14"
 }
