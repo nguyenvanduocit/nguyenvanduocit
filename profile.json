@@ -30,14 +30,6 @@
       "stars": 688
     },
     {
-      "id": "obsidian-open-gate",
-      "title": "Obsidian Open Gate",
-      "description": "Web integration for Obsidian notes",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/obsidian-open-gate",
-      "stars": 223
-    },
-    {
       "id": "jira-mcp",
       "title": "Jira MCP",
       "description": "Go-based MCP server for Jira",
@@ -46,9 +38,17 @@
       "stars": 80
     },
     {
+      "id": "research-kit",
+      "title": "Research Kit",
+      "description": "Toolkit for spec-driven research",
+      "tech": "Shell",
+      "url": "https://github.com/nguyenvanduocit/research-kit",
+      "stars": 14
+    },
+    {
       "id": "codewiki",
       "title": "CodeWiki",
-      "description": "Multilingual code documentation framework",
+      "description": "Code documentation with Go support",
       "tech": "Python",
       "url": "https://github.com/nguyenvanduocit/CodeWiki",
       "stars": 0
@@ -56,24 +56,24 @@
     {
       "id": "mimaid",
       "title": "Mimaid",
-      "description": "Minimal Mermaid diagram editor",
+      "description": "Minimal Mermaid editor",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/mimaid",
       "stars": 2
     },
     {
-      "id": "vite-plugin-ai-annotator",
-      "title": "Vite AI Annotator",
-      "description": "AI element picker for Vite projects",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator",
-      "stars": 2
+      "id": "invest",
+      "title": "Invest",
+      "description": "Investment tracking dashboard",
+      "tech": "HTML",
+      "url": "https://github.com/nguyenvanduocit/invest",
+      "stars": 0
     }
   ],
   "now": [
-    "Working on CodeWiki enhancements and Python analyzer improvements",
-    "Developing claude-plugins MCP server with new integrations",
-    "Building investment tracking dashboard tools"
+    "Contributing to CodeWiki fork with Go language analyzer improvements",
+    "Developing aiocean/claude-plugins MCP server for AI workflows",
+    "Building personal investment analytics and tracking tools"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
