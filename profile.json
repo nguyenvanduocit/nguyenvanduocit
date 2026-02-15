@@ -46,20 +46,20 @@
       "stars": 14
     },
     {
-      "id": "codewiki",
-      "title": "CodeWiki",
-      "description": "Code documentation with Go support",
-      "tech": "Python",
-      "url": "https://github.com/nguyenvanduocit/CodeWiki",
-      "stars": 0
-    },
-    {
       "id": "mimaid",
       "title": "Mimaid",
       "description": "Minimal Mermaid editor",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/mimaid",
       "stars": 2
+    },
+    {
+      "id": "codewiki",
+      "title": "CodeWiki",
+      "description": "Code documentation with Go support",
+      "tech": "Python",
+      "url": "https://github.com/nguyenvanduocit/CodeWiki",
+      "stars": 0
     },
     {
       "id": "invest",
@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Forked and enhanced CodeWiki with Go language support",
-    "Building MCP plugins for Claude AI at aiocean",
-    "Personal investment tracking and analytics"
+    "Building MCP plugins at aiocean/claude-plugins",
+    "Working on CodeWiki fork with Go support",
+    "Investment tracking and analytics experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
