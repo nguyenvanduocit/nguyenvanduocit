@@ -71,9 +71,9 @@
     }
   ],
   "now": [
-    "Contributing to CodeWiki fork with Go language analyzer improvements",
-    "Developing aiocean/claude-plugins MCP server for AI workflows",
-    "Building personal investment analytics and tracking tools"
+    "Forked and enhanced CodeWiki with Go language support",
+    "Building MCP plugins for Claude AI at aiocean",
+    "Personal investment tracking and analytics"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-14"
+  "updated": "2026-02-15"
 }
