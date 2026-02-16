@@ -7,13 +7,12 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (80⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (14⭐)
 - **[frontendContext](https://github.com/nguyenvanduocit/frontendContext)** — Enrich frontend context for AI (3⭐)
-- **[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid editor
-- **[invest](https://github.com/nguyenvanduocit/invest)** — Investment tracking dashboard
+- **[mimaid](https://github.com/nguyenvanduocit/mimaid)** — Minimal Mermaid editor (2⭐)
 
 ### Now
 - Building MCP plugins at aiocean/claude-plugins
-- Forked and enhancing CodeWiki with Go support
-- Investment analytics experiments
+- Contributing to CodeWiki with Go language enhancements
+- Exploring investment analytics and visualization tools
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

@@ -8,72 +8,64 @@
     "stars": "1.8K"
   },
   "bio": [
-    "I'm an Engineering Manager at FireGroup, building scalable backend systems and AI-powered developer tools.",
+    "Engineering Manager at FireGroup, building distributed systems and leading engineering teams.",
     "",
-    "Over 13 years, I've shipped 439+ repos with 1.8K+ stars, writing mostly in Go and TypeScript. I focus on backend infrastructure, real-time systems, and AI agent tooling.",
+    "I spend my days architecting backend systems in Go and TypeScript, and my nights building AI tools that actually solve problems.",
     "",
-    "My approach: depth in backend/AI tooling, breadth in product iteration. I built vue-loading-spinner (688⭐), jira-mcp (80⭐ Go MCP server), and multiple MCP integrations. Recently forked CodeWiki to add Go language support.",
+    "Founded aiocean.io—a side project exploring how AI agents can enhance developer workflows through MCP (Model Context Protocol) integrations.",
     "",
-    "On the side, I run aiocean.io, exploring MCP plugins and AI agent ecosystems. I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
+    "Co-founded Vue.js Vietnam community in 2016, helping grow the Vietnamese frontend ecosystem from the ground up.",
     "",
-    "Back in 2016, I co-founded Vue.js Vietnam community, helping developers adopt Vue.js across the region.",
+    "I write about engineering, product thinking, and the 1% improvements that compound at 12bit.vn and onepercent.plus.",
     "",
-    "I care about tools that make developers faster and systems that scale cleanly. Currently experimenting with investment analytics and AI-enhanced workflows."
+    "My philosophy: ship early, iterate fast, and let real users guide the next version. Most of my 1.8K GitHub stars came from scratching my own itches and sharing the solutions."
   ],
   "projects": [
     {
       "id": "vue-loading-spinner",
-      "title": "Vue Loading Spinner",
-      "description": "Vue.js loading spinner components collection",
+      "title": "vue-loading-spinner",
+      "description": "Vue.js loading spinner collection",
       "tech": "Vue",
       "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
       "stars": 688
     },
     {
       "id": "jira-mcp",
-      "title": "Jira MCP",
-      "description": "Go-based MCP connector for Jira",
+      "title": "jira-mcp",
+      "description": "Go MCP connector for Jira integration",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 80
     },
     {
       "id": "research-kit",
-      "title": "Research Kit",
-      "description": "Toolkit for spec-driven research",
+      "title": "research-kit",
+      "description": "Spec-driven research toolkit",
       "tech": "Shell",
       "url": "https://github.com/nguyenvanduocit/research-kit",
       "stars": 14
     },
     {
       "id": "frontendContext",
-      "title": "Frontend Context",
-      "description": "Enrich frontend context for better AI responses",
+      "title": "frontendContext",
+      "description": "Enrich frontend context for better AI response",
       "tech": "JavaScript",
       "url": "https://github.com/nguyenvanduocit/frontendContext",
       "stars": 3
     },
     {
       "id": "mimaid",
-      "title": "Mimaid",
-      "description": "Minimal Mermaid diagram editor",
+      "title": "mimaid",
+      "description": "Minimal Mermaid editor",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/mimaid",
       "stars": 2
-    },
-    {
-      "id": "invest",
-      "title": "Invest",
-      "description": "Investment tracking dashboard",
-      "tech": "HTML",
-      "url": "https://github.com/nguyenvanduocit/invest",
-      "stars": 0
     }
   ],
   "now": [
     "Building MCP plugins at aiocean/claude-plugins",
-    "Forked and enhancing CodeWiki with Go language support",
-    "Investment analytics experiments"
+    "Contributing to CodeWiki with Go language enhancements",
+    "Exploring investment analytics and visualization tools"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
