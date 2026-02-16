@@ -8,23 +8,23 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce and logistics platforms at scale.",
+    "I'm an Engineering Manager at FireGroup, building scalable backend systems and AI-powered developer tools.",
     "",
-    "Outside work, I build tools that scratch my own itch. Started with Vue.js components (vue-loading-spinner, 688⭐), then Obsidian plugins (obsidian-open-gate, 223⭐), now building MCP servers to make AI assistants more useful (jira-mcp, 80⭐). Most projects begin as weekend experiments.",
+    "Over 13 years, I've shipped 439+ repos with 1.8K+ stars, writing mostly in Go and TypeScript. I focus on backend infrastructure, real-time systems, and AI agent tooling.",
     "",
-    "I write at 12bit.vn about technical decisions and onepercent.plus about continuous improvement. Co-founded Vue.js Vietnam community in 2016 when the framework was still new.",
+    "My approach: depth in backend/AI tooling, breadth in product iteration. I built vue-loading-spinner (688⭐), jira-mcp (80⭐ Go MCP server), and multiple MCP integrations. Recently forked CodeWiki to add Go language support.",
     "",
-    "Side project aiocean.io is where I prototype AI tooling ideas - currently focused on Claude plugins and developer workflows.",
+    "On the side, I run aiocean.io, exploring MCP plugins and AI agent ecosystems. I write about engineering and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "After 13 years, still learning Go and TypeScript daily. The best code is the one you delete.",
+    "Back in 2016, I co-founded Vue.js Vietnam community, helping developers adopt Vue.js across the region.",
     "",
-    "Based in Vietnam, working with distributed teams globally."
+    "I care about tools that make developers faster and systems that scale cleanly. Currently experimenting with investment analytics and AI-enhanced workflows."
   ],
   "projects": [
     {
       "id": "vue-loading-spinner",
       "title": "Vue Loading Spinner",
-      "description": "Collection of loading spinners for Vue.js",
+      "description": "Vue.js loading spinner components collection",
       "tech": "Vue",
       "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
       "stars": 688
@@ -32,7 +32,7 @@
     {
       "id": "jira-mcp",
       "title": "Jira MCP",
-      "description": "Go-based MCP server for Jira",
+      "description": "Go-based MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 80
@@ -46,20 +46,20 @@
       "stars": 14
     },
     {
+      "id": "frontendContext",
+      "title": "Frontend Context",
+      "description": "Enrich frontend context for better AI responses",
+      "tech": "JavaScript",
+      "url": "https://github.com/nguyenvanduocit/frontendContext",
+      "stars": 3
+    },
+    {
       "id": "mimaid",
       "title": "Mimaid",
-      "description": "Minimal Mermaid editor",
+      "description": "Minimal Mermaid diagram editor",
       "tech": "TypeScript",
       "url": "https://github.com/nguyenvanduocit/mimaid",
       "stars": 2
-    },
-    {
-      "id": "codewiki",
-      "title": "CodeWiki",
-      "description": "Code documentation with Go support",
-      "tech": "Python",
-      "url": "https://github.com/nguyenvanduocit/CodeWiki",
-      "stars": 0
     },
     {
       "id": "invest",
@@ -72,8 +72,8 @@
   ],
   "now": [
     "Building MCP plugins at aiocean/claude-plugins",
-    "Working on CodeWiki fork with Go support",
-    "Investment tracking and analytics experiments"
+    "Forked and enhancing CodeWiki with Go language support",
+    "Investment analytics experiments"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -82,5 +82,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-15"
+  "updated": "2026-02-16"
 }
