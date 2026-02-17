@@ -8,17 +8,15 @@
     "stars": "1.8K"
   },
   "bio": [
-    "Engineering Manager at FireGroup, building distributed systems and leading engineering teams.",
+    "Engineering Manager at FireGroup, building e-commerce systems at scale.",
     "",
-    "I spend my days architecting backend systems in Go and TypeScript, and my nights building AI tools that actually solve problems.",
+    "I've spent over a decade building products across the stack. Started as a frontend developer in 2013, co-founded Vue.js Vietnam in 2016 when the framework was just taking off. These days I work mostly with Go and TypeScript, focusing on backend systems and AI tooling.",
     "",
-    "Founded aiocean.io—a side project exploring how AI agents can enhance developer workflows through MCP (Model Context Protocol) integrations.",
+    "Side projects at aiocean.io explore AI agents and MCP integration. I write about engineering and product thinking at 12bit.vn and onepercent.plus - mostly technical deep dives and lessons from building products.",
     "",
-    "Co-founded Vue.js Vietnam community in 2016, helping grow the Vietnamese frontend ecosystem from the ground up.",
+    "Key projects include vue-loading-spinner (688 stars), jira-mcp (80 stars) for AI-Jira integration, and research-kit for spec-driven research. Recent work focuses on MCP plugins and developer tooling that makes AI more useful for real work.",
     "",
-    "I write about engineering, product thinking, and the 1% improvements that compound at 12bit.vn and onepercent.plus.",
-    "",
-    "My philosophy: ship early, iterate fast, and let real users guide the next version. Most of my 1.8K GitHub stars came from scratching my own itches and sharing the solutions."
+    "I care about building tools that solve actual problems, not just interesting technical challenges. The best code is the code that ships and helps users get things done."
   ],
   "projects": [
     {
@@ -64,8 +62,8 @@
   ],
   "now": [
     "Building MCP plugins at aiocean/claude-plugins",
-    "Contributing to CodeWiki with Go language enhancements",
-    "Exploring investment analytics and visualization tools"
+    "Contributing to CodeWiki fork with Go enhancements",
+    "Exploring investment analytics dashboards"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -74,5 +72,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-16"
+  "updated": "2026-02-17"
 }

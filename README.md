@@ -11,8 +11,8 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Now
 - Building MCP plugins at aiocean/claude-plugins
-- Contributing to CodeWiki with Go language enhancements
-- Exploring investment analytics and visualization tools
+- Contributing to CodeWiki fork with Go enhancements
+- Exploring investment analytics dashboards
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -21,4 +21,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-16*
+*Updated: 2026-02-17*
