@@ -1,10 +1,10 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
+  "tagline": "Pi-shaped engineer: Go/TS backend × AI agents/MCP × Product iteration",
   "stats": {
     "years": 13,
     "commits": "5K+",
-    "repos": 439,
+    "repos": 440,
     "stars": "1.8K"
   },
   "bio": [
@@ -14,7 +14,7 @@
     "",
     "Side projects at aiocean.io explore AI agents and MCP integration. I write about engineering and product thinking at 12bit.vn and onepercent.plus - mostly technical deep dives and lessons from building products.",
     "",
-    "Key projects include vue-loading-spinner (688 stars), jira-mcp (80 stars) for AI-Jira integration, and research-kit for spec-driven research. Recent work focuses on MCP plugins and developer tooling that makes AI more useful for real work.",
+    "Key projects include vue-loading-spinner (688 stars), jira-mcp (80 stars) for AI-Jira integration, and telegram-mcp for connecting AI assistants to Telegram via MTProto. Recent work focuses on MCP servers and developer tooling that makes AI more useful for real work.",
     "",
     "I care about building tools that solve actual problems, not just interesting technical challenges. The best code is the code that ships and helps users get things done."
   ],
@@ -30,10 +30,18 @@
     {
       "id": "jira-mcp",
       "title": "jira-mcp",
-      "description": "Go MCP connector for Jira integration",
+      "description": "Go MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
       "stars": 80
+    },
+    {
+      "id": "telegram-mcp",
+      "title": "telegram-mcp",
+      "description": "AI-to-Telegram via MTProto",
+      "tech": "Go",
+      "url": "https://github.com/nguyenvanduocit/telegram-mcp",
+      "stars": 0
     },
     {
       "id": "research-kit",
@@ -46,24 +54,16 @@
     {
       "id": "frontendContext",
       "title": "frontendContext",
-      "description": "Enrich frontend context for better AI response",
+      "description": "Enrich frontend context for AI",
       "tech": "JavaScript",
       "url": "https://github.com/nguyenvanduocit/frontendContext",
       "stars": 3
-    },
-    {
-      "id": "mimaid",
-      "title": "mimaid",
-      "description": "Minimal Mermaid editor",
-      "tech": "TypeScript",
-      "url": "https://github.com/nguyenvanduocit/mimaid",
-      "stars": 2
     }
   ],
   "now": [
+    "Launched telegram-mcp: connect AI assistants to Telegram via MTProto",
     "Building MCP plugins at aiocean/claude-plugins",
-    "Contributing to CodeWiki fork with Go enhancements",
-    "Exploring investment analytics dashboards"
+    "Contributing Go support to CodeWiki"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
