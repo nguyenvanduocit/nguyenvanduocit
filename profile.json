@@ -58,12 +58,20 @@
       "tech": "JavaScript",
       "url": "https://github.com/nguyenvanduocit/frontendContext",
       "stars": 3
+    },
+    {
+      "id": "invest",
+      "title": "invest",
+      "description": "Personal investment portfolio tracker",
+      "tech": "HTML",
+      "url": "https://github.com/nguyenvanduocit/invest",
+      "stars": 0
     }
   ],
   "now": [
-    "Launched telegram-mcp: connect AI assistants to Telegram via MTProto",
-    "Building MCP plugins at aiocean/claude-plugins",
-    "Contributing Go support to CodeWiki"
+    "Building invest: investment portfolio tracker with dashboard",
+    "Maintaining telegram-mcp: AI-to-Telegram MCP server via MTProto",
+    "Contributing to CodeWiki multilingual codebase documentation"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -72,5 +80,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-18"
+  "updated": "2026-02-19"
 }
