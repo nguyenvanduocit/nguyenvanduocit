@@ -14,7 +14,7 @@
     "",
     "Side projects at aiocean.io explore AI agents and MCP integration. I write about engineering and product thinking at 12bit.vn and onepercent.plus - mostly technical deep dives and lessons from building products.",
     "",
-    "Key projects include vue-loading-spinner (688 stars), jira-mcp (80 stars) for AI-Jira integration, and telegram-mcp for connecting AI assistants to Telegram via MTProto. Recent work focuses on MCP servers and developer tooling that makes AI more useful for real work.",
+    "Key projects include vue-loading-spinner (689 stars), jira-mcp (80 stars) for AI-Jira integration, and telegram-mcp for connecting AI assistants to Telegram via MTProto. Recent work focuses on MCP servers and developer tooling that makes AI more useful for real work.",
     "",
     "I care about building tools that solve actual problems, not just interesting technical challenges. The best code is the code that ships and helps users get things done."
   ],
@@ -25,7 +25,7 @@
       "description": "Vue.js loading spinner collection",
       "tech": "Vue",
       "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
-      "stars": 688
+      "stars": 689
     },
     {
       "id": "jira-mcp",
@@ -80,5 +80,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-20"
+  "updated": "2026-02-21"
 }
