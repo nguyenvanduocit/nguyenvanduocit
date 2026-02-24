@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-23*
+*Updated: 2026-02-24*
