@@ -4,7 +4,7 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Projects
 - **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinners (689⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (80⭐)
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (81⭐)
 - **[telegram-mcp](https://github.com/nguyenvanduocit/telegram-mcp)** — AI-to-Telegram via MTProto (Go)
 - **[frontendContext](https://github.com/nguyenvanduocit/frontendContext)** — Enrich frontend context for AI (3⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (14⭐)

@@ -33,7 +33,7 @@
       "description": "Go MCP connector for Jira",
       "tech": "Go",
       "url": "https://github.com/nguyenvanduocit/jira-mcp",
-      "stars": 80
+      "stars": 81
     },
     {
       "id": "telegram-mcp",
