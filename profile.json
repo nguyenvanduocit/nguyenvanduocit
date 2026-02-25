@@ -1,77 +1,33 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Go/TS backend × AI agents/MCP × Product iteration",
-  "stats": {
-    "years": 13,
-    "commits": "5K+",
-    "repos": 440,
-    "stars": "1.8K"
-  },
+  "tagline": "Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iteration",
+  "stats": { "years": 13, "commits": "5K+", "repos": 440, "stars": "1.8K" },
   "bio": [
-    "Engineering Manager at FireGroup, building e-commerce systems at scale.",
+    "Engineering Manager at FireGroup, building AI-first developer tools on the side.",
+    "13+ years writing software — started in 2011, still shipping daily.",
     "",
-    "I've spent over a decade building products across the stack. Started as a frontend developer in 2013, co-founded Vue.js Vietnam in 2016 when the framework was just taking off. These days I work mostly with Go and TypeScript, focusing on backend systems and AI tooling.",
+    "Most known for vue-loading-spinner (689⭐) and a growing suite of MCP connectors.",
+    "Obsessed with the intersection of AI agents, developer workflows, and real products.",
     "",
-    "Side projects at aiocean.io explore AI agents and MCP integration. I write about engineering and product thinking at 12bit.vn and onepercent.plus - mostly technical deep dives and lessons from building products.",
+    "Running aiocean.io as a playground for AI tooling experiments.",
+    "Writing about tech and productivity at 12bit.vn (Vietnamese) and onepercent.plus.",
     "",
-    "Key projects include vue-loading-spinner (689 stars), jira-mcp (80 stars) for AI-Jira integration, and telegram-mcp for connecting AI assistants to Telegram via MTProto. Recent work focuses on MCP servers and developer tooling that makes AI more useful for real work.",
-    "",
-    "I care about building tools that solve actual problems, not just interesting technical challenges. The best code is the code that ships and helps users get things done."
+    "Co-organized the Vue.js Vietnam community in 2016.",
+    "440+ public repos, based in Việt Nam.",
+    "Believe in shipping fast, learning in public, and building tools you'd actually use."
   ],
   "projects": [
-    {
-      "id": "vue-loading-spinner",
-      "title": "vue-loading-spinner",
-      "description": "Vue.js loading spinner collection",
-      "tech": "Vue",
-      "url": "https://github.com/nguyenvanduocit/vue-loading-spinner",
-      "stars": 689
-    },
-    {
-      "id": "jira-mcp",
-      "title": "jira-mcp",
-      "description": "Go MCP connector for Jira",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/jira-mcp",
-      "stars": 81
-    },
-    {
-      "id": "telegram-mcp",
-      "title": "telegram-mcp",
-      "description": "AI-to-Telegram via MTProto",
-      "tech": "Go",
-      "url": "https://github.com/nguyenvanduocit/telegram-mcp",
-      "stars": 0
-    },
-    {
-      "id": "research-kit",
-      "title": "research-kit",
-      "description": "Spec-driven research toolkit",
-      "tech": "Shell",
-      "url": "https://github.com/nguyenvanduocit/research-kit",
-      "stars": 14
-    },
-    {
-      "id": "frontendContext",
-      "title": "frontendContext",
-      "description": "Enrich frontend context for AI",
-      "tech": "JavaScript",
-      "url": "https://github.com/nguyenvanduocit/frontendContext",
-      "stars": 3
-    },
-    {
-      "id": "invest",
-      "title": "invest",
-      "description": "Personal investment portfolio tracker",
-      "tech": "HTML",
-      "url": "https://github.com/nguyenvanduocit/invest",
-      "stars": 0
-    }
+    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
+    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
+    { "id": "telegram-mcp", "title": "telegram-mcp", "description": "AI-to-Telegram via MTProto", "tech": "Go", "url": "https://github.com/nguyenvanduocit/telegram-mcp", "stars": 0 },
+    { "id": "research-kit", "title": "research-kit", "description": "Spec-driven research toolkit", "tech": "Shell", "url": "https://github.com/nguyenvanduocit/research-kit", "stars": 14 },
+    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual codebase docs framework", "tech": "Go", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 },
+    { "id": "invest", "title": "invest", "description": "Personal investment portfolio tracker", "tech": "HTML", "url": "https://github.com/nguyenvanduocit/invest", "stars": 0 }
   ],
   "now": [
-    "Building invest: investment portfolio tracker with dashboard",
-    "Maintaining telegram-mcp: AI-to-Telegram MCP server via MTProto",
-    "Contributing to CodeWiki multilingual codebase documentation"
+    "Extending AI tooling via claude-plugins on the aiocean platform",
+    "Shipping telegram-mcp: connect AI assistants to Telegram via MTProto",
+    "Building invest: personal investment portfolio with analytics dashboard"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

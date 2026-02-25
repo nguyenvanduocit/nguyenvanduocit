@@ -6,14 +6,14 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinners (689⭐)
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (81⭐)
 - **[telegram-mcp](https://github.com/nguyenvanduocit/telegram-mcp)** — AI-to-Telegram via MTProto (Go)
-- **[frontendContext](https://github.com/nguyenvanduocit/frontendContext)** — Enrich frontend context for AI (3⭐)
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (14⭐)
+- **[CodeWiki](https://github.com/nguyenvanduocit/CodeWiki)** — Multilingual codebase docs framework
 - **[invest](https://github.com/nguyenvanduocit/invest)** — Personal investment portfolio tracker
 
 ### Now
-- Building `invest`: investment portfolio tracker with dashboard
-- Maintaining `telegram-mcp`: AI-to-Telegram MCP server via MTProto
-- Contributing to `CodeWiki`: multilingual codebase documentation
+- Extending AI tooling via `claude-plugins` on the aiocean platform
+- Shipping `telegram-mcp`: connect AI assistants to Telegram via MTProto
+- Building `invest`: personal investment portfolio with analytics dashboard
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
