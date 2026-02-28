@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (14⭐)
 
 ### Now
-- Pushing `google-mcp`: MCP connector for Google services
-- Launched `authcurl` with Homebrew tap for easy install
-- Extending AI tooling via `claude-plugins` on aiocean platform
+- Active development on `google-mcp` and `CodeWiki`
+- Launched `authcurl`: curl wrapper with auto auth + Homebrew tap
+- Building AI plugins via `claude-plugins` on aiocean
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-27*
+*Updated: 2026-02-28*

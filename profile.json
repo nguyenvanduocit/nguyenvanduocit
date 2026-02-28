@@ -25,9 +25,9 @@
     { "id": "research-kit", "title": "research-kit", "description": "Spec-driven research toolkit", "tech": "Shell", "url": "https://github.com/nguyenvanduocit/research-kit", "stars": 14 }
   ],
   "now": [
-    "Pushing google-mcp: MCP connector for Google services",
-    "Launched authcurl with Homebrew tap for easy install",
-    "Extending AI tooling via claude-plugins on aiocean platform"
+    "Active development on google-mcp and CodeWiki",
+    "Launched authcurl: curl wrapper with auto auth + Homebrew tap",
+    "Building AI plugins via claude-plugins on aiocean"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-27"
+  "updated": "2026-02-28"
 }
