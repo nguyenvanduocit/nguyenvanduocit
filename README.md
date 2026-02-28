@@ -6,14 +6,14 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinners (689⭐)
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (81⭐)
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Go MCP connector for Google services (20⭐)
+- **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — MCP server for X/Twitter (Go)
 - **[authcurl](https://github.com/nguyenvanduocit/authcurl)** — curl wrapper with automatic auth injection
-- **[telegram-mcp](https://github.com/nguyenvanduocit/telegram-mcp)** — AI-to-Telegram via MTProto (Go)
-- **[research-kit](https://github.com/nguyenvanduocit/research-kit)** — Spec-driven research toolkit (14⭐)
+- **[CodeWiki](https://github.com/nguyenvanduocit/CodeWiki)** — Multilingual codebase documentation framework
 
 ### Now
 - Active development on `google-mcp` and `CodeWiki`
 - Launched `authcurl`: curl wrapper with auto auth + Homebrew tap
-- Building AI plugins via `claude-plugins` on aiocean
+- Exploring AI agent ecosystem (LiteLLM, relay, MCP tooling)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

@@ -20,14 +20,14 @@
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Go MCP connector for Google services", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
+    { "id": "x-mcp", "title": "x-mcp", "description": "MCP server for X/Twitter", "tech": "Go", "url": "https://github.com/nguyenvanduocit/x-mcp", "stars": 1 },
     { "id": "authcurl", "title": "authcurl", "description": "curl wrapper with automatic auth injection", "tech": "Go", "url": "https://github.com/nguyenvanduocit/authcurl", "stars": 0 },
-    { "id": "telegram-mcp", "title": "telegram-mcp", "description": "AI-to-Telegram via MTProto", "tech": "Go", "url": "https://github.com/nguyenvanduocit/telegram-mcp", "stars": 0 },
-    { "id": "research-kit", "title": "research-kit", "description": "Spec-driven research toolkit", "tech": "Shell", "url": "https://github.com/nguyenvanduocit/research-kit", "stars": 14 }
+    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual codebase documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 }
   ],
   "now": [
     "Active development on google-mcp and CodeWiki",
     "Launched authcurl: curl wrapper with auto auth + Homebrew tap",
-    "Building AI plugins via claude-plugins on aiocean"
+    "Exploring AI agent ecosystem (LiteLLM, relay, MCP tooling)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
