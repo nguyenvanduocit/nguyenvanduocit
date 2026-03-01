@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[CodeWiki](https://github.com/nguyenvanduocit/CodeWiki)** — Multilingual codebase documentation framework
 
 ### Now
-- Active development on `google-mcp` and `CodeWiki`
+- Building `aiocean/claude-plugins` and iterating on `google-mcp`
 - Launched `authcurl`: curl wrapper with auto auth + Homebrew tap
-- Exploring AI agent ecosystem (LiteLLM, relay, MCP tooling)
+- Tracking AI relay/orchestration tooling (MCP, LiteLLM, AgentWorkforce)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-02-28*
+*Updated: 2026-03-01*

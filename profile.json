@@ -25,9 +25,9 @@
     { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual codebase documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 }
   ],
   "now": [
-    "Active development on google-mcp and CodeWiki",
+    "Building aiocean/claude-plugins and iterating on google-mcp",
     "Launched authcurl: curl wrapper with auto auth + Homebrew tap",
-    "Exploring AI agent ecosystem (LiteLLM, relay, MCP tooling)"
+    "Tracking AI relay/orchestration tooling (MCP, LiteLLM, AgentWorkforce)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-02-28"
+  "updated": "2026-03-01"
 }
