@@ -1,6 +1,6 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iteration",
+  "tagline": "Pi-shaped engineer: Backend/AI tooling × MCP × Product iteration",
   "stats": { "years": 13, "commits": "5K+", "repos": 442, "stars": "1.8K" },
   "bio": [
     "Engineering Manager at FireGroup, building AI-first developer tools on the side.",
@@ -12,22 +12,22 @@
     "Running aiocean.io as a playground for AI tooling experiments.",
     "Writing about tech and productivity at 12bit.vn (Vietnamese) and onepercent.plus.",
     "",
-    "Co-organized the Vue.js Vietnam community in 2016.",
+    "Helped kick off the Vue.js Vietnam community in 2016.",
     "442+ public repos, based in Việt Nam.",
     "Believe in shipping fast, learning in public, and building tools you'd actually use."
   ],
   "projects": [
-    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
+    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Go MCP connector for Google services", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
-    { "id": "x-mcp", "title": "x-mcp", "description": "MCP server for X/Twitter", "tech": "Go", "url": "https://github.com/nguyenvanduocit/x-mcp", "stars": 1 },
+    { "id": "google-chat-mcp", "title": "google-chat-mcp", "description": "MCP server for Google Chat", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-chat-mcp", "stars": 0 },
     { "id": "authcurl", "title": "authcurl", "description": "curl wrapper with automatic auth injection", "tech": "Go", "url": "https://github.com/nguyenvanduocit/authcurl", "stars": 0 },
     { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual codebase documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 }
   ],
   "now": [
-    "Building aiocean/claude-plugins and iterating on google-mcp",
-    "Launched authcurl: curl wrapper with auto auth + Homebrew tap",
-    "Tracking AI relay/orchestration tooling (MCP, LiteLLM, AgentWorkforce)"
+    "Released google-chat-mcp v0.1.0 — MCP server for Google Chat with attachment support",
+    "Iterating on aiocean/claude-plugins and google-mcp integrations",
+    "Building developer CLI tools: authcurl with Homebrew distribution"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-01"
+  "updated": "2026-03-02"
 }
