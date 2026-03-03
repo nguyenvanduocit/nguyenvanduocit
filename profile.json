@@ -25,9 +25,9 @@
     { "id": "authcurl", "title": "authcurl", "description": "curl wrapper with automatic auth injection", "tech": "Go", "url": "https://github.com/nguyenvanduocit/authcurl", "stars": 0 }
   ],
   "now": [
-    "Building headlesschat — REST API chat rooms for AI agent coordination",
-    "Released google-chat-mcp v0.1.0 — MCP server for Google Chat",
-    "Distributing CLI tools via Homebrew (authcurl)"
+    "Iterating on aiocean/claude-plugins — Claude plugin suite for AI workflows",
+    "Building headlesschat develop branch — REST API chat rooms for AI agents",
+    "Released google-chat-mcp v0.1.0 — MCP server for Google Chat"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-02"
+  "updated": "2026-03-03"
 }

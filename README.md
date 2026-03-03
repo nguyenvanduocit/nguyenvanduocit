@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[authcurl](https://github.com/nguyenvanduocit/authcurl)** — curl wrapper with automatic auth injection
 
 ### Now
-- Building `headlesschat` — REST API chat rooms for AI agent coordination
+- Iterating on `aiocean/claude-plugins` — Claude plugin suite for AI workflows
+- Building `headlesschat` develop branch — REST API chat rooms for AI agents
 - Released `google-chat-mcp` v0.1.0 — MCP server for Google Chat
-- Distributing CLI tools via Homebrew (`authcurl`)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-03-02*
+*Updated: 2026-03-03*
