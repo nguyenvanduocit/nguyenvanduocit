@@ -12,8 +12,8 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 
 ### Now
 - Iterating on `aiocean/claude-plugins` — Claude plugin suite for AI workflows
-- Building `headlesschat` develop branch — REST API chat rooms for AI agents
-- Released `google-chat-mcp` v0.1.0 — MCP server for Google Chat
+- Filed upstream fix in `vercel/chat` — Google Chat attachment API (401 bug)
+- Building `headlesschat` — REST API chat rooms for AI agents
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
