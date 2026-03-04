@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[authcurl](https://github.com/nguyenvanduocit/authcurl)** — curl wrapper with automatic auth injection
 
 ### Now
-- Iterating on `aiocean/claude-plugins` — Claude plugin suite for AI workflows
-- Filed upstream fix in `vercel/chat` — Google Chat attachment API (401 bug)
-- Building `headlesschat` — REST API chat rooms for AI agents
+- Pushing updates to `aiocean/claude-plugins` — Claude plugin suite for AI workflows
+- Contributed Google embed provider to `tobi/qmd` — local doc search engine
+- Exploring `cmux` — Ghostty-based terminal with AI agent notifications
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

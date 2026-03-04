@@ -1,7 +1,7 @@
 {
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Backend/AI tooling × MCP × Product iteration",
-  "stats": { "years": 13, "commits": "5K+", "repos": 443, "stars": "1.8K" },
+  "stats": { "years": 13, "commits": "5K+", "repos": 445, "stars": "1.8K" },
   "bio": [
     "Engineering Manager at FireGroup, building AI-first developer tools on the side.",
     "13+ years writing software — started in 2011, still shipping daily.",
@@ -13,7 +13,7 @@
     "Writing about tech and productivity at 12bit.vn (Vietnamese) and onepercent.plus.",
     "",
     "Helped kick off the Vue.js Vietnam community in 2016.",
-    "443+ public repos, based in Việt Nam.",
+    "445+ public repos, based in Việt Nam.",
     "Believe in shipping fast, learning in public, and building tools you'd actually use."
   ],
   "projects": [
@@ -25,9 +25,9 @@
     { "id": "authcurl", "title": "authcurl", "description": "curl wrapper with automatic auth injection", "tech": "Go", "url": "https://github.com/nguyenvanduocit/authcurl", "stars": 0 }
   ],
   "now": [
-    "Iterating on aiocean/claude-plugins — Claude plugin suite for AI workflows",
-    "Filed upstream fix in vercel/chat — Google Chat attachment API (401 bug)",
-    "Building headlesschat — REST API chat rooms for AI agents"
+    "Pushing updates to aiocean/claude-plugins — Claude plugin suite for AI workflows",
+    "Contributed Google embed provider to tobi/qmd — local doc search engine",
+    "Exploring cmux — Ghostty-based terminal with AI agent notifications"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
