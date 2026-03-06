@@ -19,15 +19,15 @@
   "projects": [
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
-    { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered annotation Vite plugin", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 0 },
-    { "id": "google-chat-mcp", "title": "google-chat-mcp", "description": "MCP server for Google Chat with attachment support", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-chat-mcp", "stars": 0 },
-    { "id": "headlesschat", "title": "headlesschat", "description": "Turn-based chat rooms for AI agent communication", "tech": "Go", "url": "https://github.com/nguyenvanduocit/headlesschat", "stars": 0 },
+    { "id": "claude-plugins", "title": "claude-plugins", "description": "20 Claude Code plugins for AI-augmented dev workflows", "tech": "Markdown", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
+    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual repo-level documentation framework", "tech": "Go", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 },
+    { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered annotation Vite plugin", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Go MCP connector for Google services", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
   ],
   "now": [
-    "Actively building vite-plugin-ai-annotator — AI-powered annotation for Vite projects",
-    "Iterating on aiocean/claude-plugins — Claude AI workflow tooling",
-    "Maintaining google-chat-mcp and headlesschat — MCP and agent communication tools"
+    "Released aiocean/claude-plugins v1.0.0 — 20 plugins for Claude Code (worktree, debug, code-review, and more)",
+    "Building CodeWiki — structured, multilingual documentation across entire codebases",
+    "Iterating on vite-plugin-ai-annotator — AI annotation layer for Vite projects"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
