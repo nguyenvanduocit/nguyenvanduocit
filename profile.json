@@ -19,15 +19,15 @@
   "projects": [
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
-    { "id": "google-mcp", "title": "google-mcp", "description": "Go MCP connector for Google services", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
+    { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered annotation Vite plugin", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 0 },
     { "id": "google-chat-mcp", "title": "google-chat-mcp", "description": "MCP server for Google Chat with attachment support", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-chat-mcp", "stars": 0 },
     { "id": "headlesschat", "title": "headlesschat", "description": "Turn-based chat rooms for AI agent communication", "tech": "Go", "url": "https://github.com/nguyenvanduocit/headlesschat", "stars": 0 },
-    { "id": "goscrape", "title": "goscrape", "description": "Web scraper in Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/goscrape", "stars": 0 }
+    { "id": "google-mcp", "title": "google-mcp", "description": "Go MCP connector for Google services", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
   ],
   "now": [
-    "Active development on goscrape and aiocean/claude-plugins — AI workflow tooling",
-    "Contributed Google embed provider upstream to tobi/qmd — local doc search engine",
-    "Released google-chat-mcp v0.1.0 — MCP for Google Chat with service account auth"
+    "Actively building vite-plugin-ai-annotator — AI-powered annotation for Vite projects",
+    "Iterating on aiocean/claude-plugins — Claude AI workflow tooling",
+    "Maintaining google-chat-mcp and headlesschat — MCP and agent communication tools"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-05"
+  "updated": "2026-03-06"
 }
