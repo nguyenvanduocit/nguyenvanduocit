@@ -8,7 +8,7 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[claude-plugins](https://github.com/aiocean/claude-plugins)** — 20+ Claude Code plugins for AI-augmented dev workflows
 - **[CodeWiki](https://github.com/nguyenvanduocit/CodeWiki)** — Multilingual repo-level documentation framework
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered annotation Vite plugin
-- **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Go MCP connector for Google services (20⭐)
+- **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (224⭐)
 
 ### Now
 - Expanding `aiocean/claude-plugins` — added golang mastery, code-review, and worktree plugins
