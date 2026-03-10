@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (224⭐)
 
 ### Now
-- Expanding `aiocean/claude-plugins` — added golang mastery, code-review, and worktree plugins
-- Building `CodeWiki` — structured, multilingual documentation across entire codebases
-- Iterating on `vite-plugin-ai-annotator` — AI annotation layer for Vite projects
+- Refactored `CodeWiki` to a flatter project structure for cleaner multilingual doc generation
+- Expanding `aiocean/claude-plugins` with golang mastery & code-review workflows
+- Exploring code graph context tooling for AI-assisted codebase understanding
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
