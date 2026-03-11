@@ -18,16 +18,16 @@
   ],
   "projects": [
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
-    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 81 },
-    { "id": "claude-plugins", "title": "claude-plugins", "description": "20+ Claude Code plugins for AI-augmented dev workflows", "tech": "Markdown", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
-    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual repo-level documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 },
+    { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 223 },
+    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
+    { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-augmented dev workflows", "tech": "Markdown", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
     { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered annotation Vite plugin", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 },
-    { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 224 }
+    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual repo-level documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 }
   ],
   "now": [
-    "Refactored CodeWiki to a flatter project structure for cleaner multilingual doc generation",
-    "Expanding aiocean/claude-plugins with golang mastery & code-review workflows",
-    "Exploring code graph context tooling for AI-assisted codebase understanding"
+    "Iterating rapidly on aiocean/claude-plugins — multiple shipping sessions daily",
+    "Merged CocoIndex + Qdrant integration for semantic code search in claude-plugins",
+    "Exploring code graph/indexing tools for AI-assisted codebase understanding"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
