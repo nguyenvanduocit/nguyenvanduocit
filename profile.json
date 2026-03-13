@@ -20,14 +20,14 @@
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 223 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
-    { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-augmented dev workflows", "tech": "Markdown", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
-    { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered annotation Vite plugin", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 },
-    { "id": "CodeWiki", "title": "CodeWiki", "description": "Multilingual repo-level documentation framework", "tech": "Python", "url": "https://github.com/nguyenvanduocit/CodeWiki", "stars": 0 }
+    { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
+    { "id": "rag-kit", "title": "rag-kit", "description": "RAG toolkit for Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/rag-kit", "stars": 19 },
+    { "id": "x-mcp", "title": "x-mcp", "description": "X/Twitter MCP server in Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/x-mcp", "stars": 1 }
   ],
   "now": [
-    "Iterating rapidly on aiocean/claude-plugins — multiple shipping sessions daily",
-    "Merged CocoIndex + Qdrant integration for semantic code search in claude-plugins",
-    "Exploring code graph/indexing tools for AI-assisted codebase understanding"
+    "Shipping updates across the MCP server suite (x-mcp, google-chat-mcp, script-mcp)",
+    "Publishing releases via homebrew-tap for easy CLI installation",
+    "Expanding Go MCP connectors for developer productivity tools"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

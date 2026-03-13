@@ -6,14 +6,14 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinner collection (689⭐)
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (223⭐)
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (83⭐)
-- **[claude-plugins](https://github.com/aiocean/claude-plugins)** — Claude Code plugins for AI-augmented dev workflows
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered annotation Vite plugin
-- **[CodeWiki](https://github.com/nguyenvanduocit/CodeWiki)** — Multilingual repo-level documentation framework
+- **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
+- **[rag-kit](https://github.com/nguyenvanduocit/rag-kit)** — RAG toolkit for Go (19⭐)
+- **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — X/Twitter MCP server in Go
 
 ### Now
-- Iterating rapidly on `aiocean/claude-plugins` — multiple shipping sessions daily
-- Merged CocoIndex + Qdrant integration into claude-plugins for semantic code search
-- Exploring code graph/indexing tools for AI-assisted codebase understanding
+- Shipping updates across the MCP server suite (x-mcp, google-chat-mcp, script-mcp)
+- Publishing releases via homebrew-tap for easy CLI installation
+- Expanding Go MCP connectors for developer productivity tools
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
