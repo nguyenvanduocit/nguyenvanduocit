@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[x-mcp](https://github.com/nguyenvanduocit/x-mcp)** — X/Twitter MCP server in Go
 
 ### Now
-- Shipping updates across the MCP server suite (x-mcp, google-chat-mcp, script-mcp)
+- Adding security hardening (TruffleHog scanning) across MCP servers (jira, gitlab, google-chat)
 - Publishing releases via homebrew-tap for easy CLI installation
-- Expanding Go MCP connectors for developer productivity tools
+- Growing Go MCP connector ecosystem: jira, gitlab, google-chat, x/twitter
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-03-13*
+*Updated: 2026-03-14*
