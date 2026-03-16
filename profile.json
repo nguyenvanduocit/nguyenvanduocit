@@ -1,12 +1,12 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Backend/AI tooling × MCP × Product iteration",
+  "tagline": "Pi-shaped engineer: Go/TS backend × AI agents/MCP × product iteration",
   "stats": { "years": 13, "commits": "5K+", "repos": 445, "stars": "1.8K" },
   "bio": [
     "Engineering Manager at FireGroup, building AI-first developer tools on the side.",
     "13+ years writing software — started in 2011, still shipping daily.",
     "",
-    "Most known for vue-loading-spinner (689⭐) and a growing suite of MCP connectors.",
+    "Most known for vue-loading-spinner (688⭐) and a growing suite of MCP connectors.",
     "Obsessed with the intersection of AI agents, developer workflows, and real products.",
     "",
     "Running aiocean.io as a playground for AI tooling experiments.",
@@ -17,17 +17,17 @@
     "Believe in shipping fast, learning in public, and building tools you'd actually use."
   ],
   "projects": [
-    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 689 },
+    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 688 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 223 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
+    { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-assisted dev", "tech": "TypeScript", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
-    { "id": "rag-kit", "title": "rag-kit", "description": "RAG toolkit for Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/rag-kit", "stars": 19 },
-    { "id": "x-mcp", "title": "x-mcp", "description": "X/Twitter MCP server in Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/x-mcp", "stars": 1 }
+    { "id": "rag-kit", "title": "rag-kit", "description": "RAG toolkit for Go", "tech": "Go", "url": "https://github.com/nguyenvanduocit/rag-kit", "stars": 19 }
   ],
   "now": [
-    "Building Claude plugins for the aiocean.io AI platform",
-    "Security hardening (TruffleHog scanning) across Go MCP servers (jira, gitlab, google-chat)",
-    "Distributing Go MCP tools via Homebrew tap"
+    "Building Claude Code plugins: epub translation & multi-layer code review (aiocean.io)",
+    "Maintaining jira-mcp and distributing Go MCP tools via Homebrew tap",
+    "Exploring AI context management (context-hub, Understand-Anything)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
