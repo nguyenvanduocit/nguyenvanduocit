@@ -13,7 +13,7 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 ### Now
 - Building Claude Code plugins: epub translation & multi-layer code review (aiocean.io)
 - Maintaining jira-mcp and distributing Go MCP tools via Homebrew tap
-- Exploring AI context management (context-hub, Understand-Anything)
+- Exploring screen capture + AI tooling (screenpipe, uniOCR ecosystem)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
