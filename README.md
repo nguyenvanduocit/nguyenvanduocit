@@ -11,8 +11,8 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered code annotation for Vite
 
 ### Now
-- Developing vite-plugin-ai-annotator: AI annotation layer for Vite projects
-- Building claude-plugins (epub translation, multi-layer code review)
+- Refactoring vite-plugin-ai-annotator: removed MCP, pure AI element annotation
+- Extending claude-plugins with epub HTML preservation and jread pagination
 - Maintaining Go MCP suite (jira, google, confluence) via Homebrew tap
 
 ### Stack

@@ -25,8 +25,8 @@
     { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered code annotation for Vite", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 }
   ],
   "now": [
-    "Developing vite-plugin-ai-annotator: AI annotation layer for Vite projects",
-    "Building claude-plugins (epub translation, multi-layer code review)",
+    "Refactoring vite-plugin-ai-annotator: removed MCP, pure AI element annotation",
+    "Extending claude-plugins with epub HTML preservation and jread pagination",
     "Maintaining Go MCP suite (jira, google, confluence) via Homebrew tap"
   ],
   "links": {
