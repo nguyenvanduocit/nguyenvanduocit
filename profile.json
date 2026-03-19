@@ -25,9 +25,9 @@
     { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered code annotation for Vite", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 }
   ],
   "now": [
-    "Migrating claude-plugins to GitNexus with new AI coding plugins",
-    "Building selfapp — personal productivity app under aiocean",
-    "Simplified vite-plugin-ai-annotator: pure AI annotation, dropped MCP layer"
+    "Iterating heavily on aiocean/selfapp — a personal productivity app",
+    "Shipped GitNexus migration + new plugins to claude-plugins",
+    "Active development on vite-plugin-ai-annotator (AI element annotation for Vite)"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

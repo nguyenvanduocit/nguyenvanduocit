@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotation for Vite
 
 ### Now
-- Migrating claude-plugins to GitNexus with new AI coding plugins
-- Building selfapp — personal productivity app under aiocean
-- Simplified vite-plugin-ai-annotator: pure AI annotation, dropped MCP layer
+- Iterating heavily on aiocean/selfapp — a personal productivity app
+- Shipped GitNexus migration + new plugins to claude-plugins
+- Active development on vite-plugin-ai-annotator (AI element annotation for Vite)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
