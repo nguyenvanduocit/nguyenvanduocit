@@ -22,12 +22,12 @@
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
     { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-assisted dev", "tech": "TypeScript", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 },
-    { "id": "vite-plugin-ai-annotator", "title": "vite-plugin-ai-annotator", "description": "AI-powered code annotation for Vite", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/vite-plugin-ai-annotator", "stars": 3 }
+    { "id": "headlesschat", "title": "headlesschat", "description": "Turn-based chat rooms for AI agents", "tech": "Go", "url": "https://github.com/nguyenvanduocit/headlesschat", "stars": 0 }
   ],
   "now": [
-    "Iterating heavily on aiocean/selfapp — a personal productivity app",
-    "Shipped GitNexus migration + new plugins to claude-plugins",
-    "Active development on vite-plugin-ai-annotator (AI element annotation for Vite)"
+    "Iterating heavily on aiocean/selfapp — personal productivity app",
+    "Active development on headlesschat and google-mcp",
+    "Shipped GitNexus migration + new plugins to claude-plugins"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-19"
+  "updated": "2026-03-20"
 }

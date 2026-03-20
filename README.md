@@ -8,12 +8,12 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (83⭐)
 - **[claude-plugins](https://github.com/aiocean/claude-plugins)** — Claude Code plugins for AI-assisted dev
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
-- **[vite-plugin-ai-annotator](https://github.com/nguyenvanduocit/vite-plugin-ai-annotator)** — AI-powered element annotation for Vite
+- **[headlesschat](https://github.com/nguyenvanduocit/headlesschat)** — Turn-based chat rooms for AI agents
 
 ### Now
-- Iterating heavily on aiocean/selfapp — a personal productivity app
+- Iterating heavily on aiocean/selfapp — personal productivity app
+- Active development on headlesschat and google-mcp
 - Shipped GitNexus migration + new plugins to claude-plugins
-- Active development on vite-plugin-ai-annotator (AI element annotation for Vite)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-03-19*
+*Updated: 2026-03-20*
