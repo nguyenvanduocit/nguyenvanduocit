@@ -1,23 +1,21 @@
 {
   "name": "Duoc Nguyen",
-  "tagline": "Pi-shaped engineer: Go/TS backend × AI agents/MCP × product iteration",
+  "tagline": "Pi-shaped engineer: Backend/AI tooling × AI agents/MCP × Product iteration",
   "stats": { "years": 13, "commits": "5K+", "repos": 445, "stars": "1.8K" },
   "bio": [
-    "Engineering Manager at FireGroup, building AI-first developer tools on the side.",
-    "13+ years writing software — started in 2011, still shipping daily.",
+    "I'm Duoc — an Engineering Manager at FireGroup and a builder at heart.",
+    "Over 13 years I've shipped production systems in Go and TypeScript, from real-time backends to developer tooling.",
     "",
-    "Most known for vue-loading-spinner (688⭐) and a growing suite of MCP connectors.",
-    "Obsessed with the intersection of AI agents, developer workflows, and real products.",
+    "My open source work sits at the intersection of AI and developer experience: MCP connectors, Claude Code plugins, and agent communication primitives.",
+    "Top projects: vue-loading-spinner (688⭐), obsidian-open-gate (223⭐), jira-mcp (84⭐).",
     "",
-    "Running aiocean.io as a playground for AI tooling experiments.",
-    "Writing about tech and productivity at 12bit.vn (Vietnamese) and onepercent.plus.",
+    "Outside of work I run aiocean.io — a personal AI-powered productivity suite — and write about software craft and product thinking at 12bit.vn and onepercent.plus.",
     "",
-    "Helped kick off the Vue.js Vietnam community in 2016.",
-    "445+ public repos, based in Việt Nam.",
-    "Believe in shipping fast, learning in public, and building tools you'd actually use."
+    "I co-organized the Vue.js Vietnam community back in 2016 and still care about building a strong local tech scene.",
+    "I believe the best tools are invisible, the best systems are boring, and the best code is the code you don't have to write."
   ],
   "projects": [
-    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 688 },
+    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue.js", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 688 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 223 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 84 },
     { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-assisted dev", "tech": "TypeScript", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
@@ -25,9 +23,9 @@
     { "id": "headlesschat", "title": "headlesschat", "description": "Turn-based chat rooms for AI agents", "tech": "Go", "url": "https://github.com/nguyenvanduocit/headlesschat", "stars": 0 }
   ],
   "now": [
-    "Adding skill context + fork agent to claude-plugins",
-    "Heavy iteration on aiocean/selfapp — personal productivity app",
-    "Maintaining MCP tools: google-mcp, qmd updates"
+    "Adding circuit-breaker resilience to claude-plugins",
+    "Researching new Claude plugin concepts and agent skills",
+    "Starting invest: personal investment tracking tool"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",

@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[headlesschat](https://github.com/nguyenvanduocit/headlesschat)** — Turn-based chat rooms for AI agents
 
 ### Now
-- Adding skill context + fork agent to claude-plugins
-- Heavy iteration on aiocean/selfapp — personal productivity app
-- Maintaining MCP tools: google-mcp, qmd updates
+- Adding circuit-breaker resilience to claude-plugins
+- Researching new Claude plugin concepts and agent skills
+- Starting invest: personal investment tracking tool
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
