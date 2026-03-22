@@ -7,13 +7,13 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (223⭐)
 - **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (84⭐)
 - **[claude-plugins](https://github.com/aiocean/claude-plugins)** — Claude Code plugins for AI-assisted dev
+- **[quote-share](https://github.com/nguyenvanduocit/quote-share)** — Generate beautiful images from Obsidian (26⭐)
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
-- **[headlesschat](https://github.com/nguyenvanduocit/headlesschat)** — Turn-based chat rooms for AI agents
 
 ### Now
-- Adding circuit-breaker resilience to claude-plugins
-- Researching new Claude plugin concepts and agent skills
-- Starting invest: personal investment tracking tool
+- Iterating on claude-plugins: PRs, resilience patterns, new skills
+- Building invest: personal investment tracking tool
+- Exploring AI agent peer communication (claude-peers-mcp)
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-03-21*
+*Updated: 2026-03-22*
