@@ -3,17 +3,17 @@
 Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iteration
 
 ### Projects
-- **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinner collection (688⭐)
+- **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinner collection (687⭐)
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (223⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (84⭐)
-- **[claude-plugins](https://github.com/aiocean/claude-plugins)** — Claude Code plugins for AI-assisted dev
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (83⭐)
+- **[pandaConcept](https://github.com/nguyenvanduocit/pandaConcept)** — Skills & workflows for Claude Code agents
 - **[quote-share](https://github.com/nguyenvanduocit/quote-share)** — Generate beautiful images from Obsidian (26⭐)
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
 
 ### Now
-- Heavy iteration on claude-plugins: branch management, PRs, new skills
+- Heavy iteration on pandaConcept: skills preflight checks, workflows, removing flux-provider
+- Maintaining jira-mcp and google-mcp MCP connectors
 - Building invest: personal investment tracking tool
-- Maintaining google-mcp and jira-mcp MCP connectors
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling

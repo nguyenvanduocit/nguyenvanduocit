@@ -1,7 +1,7 @@
 {
   "name": "Duoc Nguyen",
   "tagline": "Pi-shaped engineer: Go/TS backend × AI agents/MCP × Product iteration",
-  "stats": { "years": 13, "commits": "5K+", "repos": 445, "stars": "1.8K" },
+  "stats": { "years": 13, "commits": "5K+", "repos": 446, "stars": "1.8K" },
   "bio": [
     "Engineering Manager at FireGroup by day, builder by night.",
     "13+ years in the industry — started when mobile was still 'mobile web'.",
@@ -13,21 +13,21 @@
     "Write at 12bit.vn and onepercent.plus when I have something worth saying.",
     "",
     "Co-founded Vue.js Vietnam community in 2016.",
-    "445+ public repos — some are good, most are experiments.",
+    "446+ public repos — some are good, most are experiments.",
     "Building in public from Việt Nam."
   ],
   "projects": [
-    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue.js", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 688 },
+    { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue.js", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 687 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 223 },
-    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 84 },
-    { "id": "claude-plugins", "title": "claude-plugins", "description": "Claude Code plugins for AI-assisted dev", "tech": "TypeScript", "url": "https://github.com/aiocean/claude-plugins", "stars": 0 },
+    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
+    { "id": "pandaConcept", "title": "pandaConcept", "description": "Skills & workflows for Claude Code agents", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/pandaConcept", "stars": 0 },
     { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
   ],
   "now": [
-    "Heavy iteration on claude-plugins: branch management, PRs, new skills",
-    "Building invest: personal investment tracking tool",
-    "Maintaining google-mcp and jira-mcp MCP connectors"
+    "Heavy iteration on pandaConcept: skills preflight checks and workflows",
+    "Maintaining jira-mcp and google-mcp MCP connectors",
+    "Building invest: personal investment tracking tool"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
