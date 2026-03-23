@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
 
 ### Now
-- Iterating on claude-plugins: PRs, resilience patterns, new skills
+- Heavy iteration on claude-plugins: branch management, PRs, new skills
 - Building invest: personal investment tracking tool
-- Exploring AI agent peer communication (claude-peers-mcp)
+- Maintaining google-mcp and jira-mcp MCP connectors
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
@@ -22,4 +22,4 @@ Go, TypeScript, MCP, real-time systems, developer tooling
 [12bit.vn](https://12bit.vn) · Việt Nam
 
 ---
-*Updated: 2026-03-22*
+*Updated: 2026-03-23*
