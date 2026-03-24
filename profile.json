@@ -25,8 +25,8 @@
     { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
   ],
   "now": [
-    "Heavy iteration on pandaConcept: skills preflight checks and workflows",
-    "Maintaining jira-mcp and google-mcp MCP connectors",
+    "Heavy iteration on pandaConcept: skills, workflows, Claude Code agent patterns",
+    "Working on aiocean/claude-plugins and qmd (mini doc search CLI)",
     "Building invest: personal investment tracking tool"
   ],
   "links": {
