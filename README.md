@@ -11,8 +11,8 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
 
 ### Now
-- Heavy iteration on pandaConcept: skills, workflows, Claude Code agent patterns
-- Working on aiocean/claude-plugins and qmd (mini doc search CLI)
+- Active development on aiocean/claude-plugins: Claude Code plugin system
+- Iterating on pandaConcept: agent skills and workflows
 - Building invest: personal investment tracking tool
 
 ### Stack
