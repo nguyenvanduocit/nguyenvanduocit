@@ -5,15 +5,15 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 ### Projects
 - **[vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner)** — Vue.js loading spinner collection (687⭐)
 - **[obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)** — Embed any website inside Obsidian (224⭐)
-- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (84⭐)
-- **[pandaConcept](https://github.com/nguyenvanduocit/pandaConcept)** — Skills & workflows for Claude Code agents
+- **[jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)** — Go MCP connector for Jira (85⭐)
+- **[claude-room](https://github.com/nguyenvanduocit/claude-room)** — Inter-agent messaging for Claude Code
 - **[quote-share](https://github.com/nguyenvanduocit/quote-share)** — Generate beautiful images from Obsidian (26⭐)
 - **[google-mcp](https://github.com/nguyenvanduocit/google-mcp)** — Google services MCP connector (20⭐)
 
 ### Now
-- Active development on aiocean/claude-plugins: Claude Code plugin system
-- Iterating on pandaConcept: agent skills and workflows
-- Building invest: personal investment tracking tool
+- Building claude-room: Claude Code inter-agent communication
+- Active development on jira-mcp
+- Shipping clik CLI tool via aiocean
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
