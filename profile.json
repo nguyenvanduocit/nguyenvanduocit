@@ -19,7 +19,7 @@
   "projects": [
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue.js", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 687 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 224 },
-    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 83 },
+    { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 84 },
     { "id": "pandaConcept", "title": "pandaConcept", "description": "Skills & workflows for Claude Code agents", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/pandaConcept", "stars": 0 },
     { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 },
     { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-26"
+  "updated": "2026-03-27"
 }
