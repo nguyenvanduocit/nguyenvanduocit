@@ -20,14 +20,14 @@
     { "id": "vue-loading-spinner", "title": "vue-loading-spinner", "description": "Vue.js loading spinner collection", "tech": "Vue.js", "url": "https://github.com/nguyenvanduocit/vue-loading-spinner", "stars": 687 },
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 224 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 85 },
-    { "id": "claude-room", "title": "claude-room", "description": "Inter-agent messaging for Claude Code", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/claude-room", "stars": 0 },
-    { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 },
-    { "id": "google-mcp", "title": "google-mcp", "description": "Google services MCP connector", "tech": "Go", "url": "https://github.com/nguyenvanduocit/google-mcp", "stars": 20 }
+    { "id": "instantCode", "title": "instantCode", "description": "AI browser inspection tool", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/instantCode", "stars": 52 },
+    { "id": "claude-room", "title": "claude-room", "description": "Inter-agent messaging for Claude Code", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/claude-room", "stars": 1 },
+    { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 }
   ],
   "now": [
-    "Building claude-room: Claude Code inter-agent communication",
-    "Active development on jira-mcp",
-    "Shipping clik CLI tool via aiocean"
+    "Heavy development on claude-room: Claude Code inter-agent communication",
+    "Building claude-plugins for aiocean AI tooling",
+    "Shipped new clik CLI release via aiocean"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-27"
+  "updated": "2026-03-28"
 }
