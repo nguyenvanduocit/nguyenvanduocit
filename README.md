@@ -11,9 +11,9 @@ Pi-shaped engineer: Backend/AI tooling (Go, TS) × AI agents/MCP × Product iter
 - **[quote-share](https://github.com/nguyenvanduocit/quote-share)** — Generate beautiful images from Obsidian (26⭐)
 
 ### Now
-- Heavy development on claude-room: Claude Code inter-agent communication
-- Building claude-plugins for aiocean AI tooling
-- Shipped new clik CLI release via aiocean
+- Active development on claude-room (inter-agent comms) and invest tool
+- Managing claude-plugins issues for aiocean AI tooling
+- Shipped clik CLI release via aiocean
 
 ### Stack
 Go, TypeScript, MCP, real-time systems, developer tooling
