@@ -21,13 +21,13 @@
     { "id": "obsidian-open-gate", "title": "obsidian-open-gate", "description": "Embed any website inside Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/obsidian-open-gate", "stars": 224 },
     { "id": "jira-mcp", "title": "jira-mcp", "description": "Go MCP connector for Jira", "tech": "Go", "url": "https://github.com/nguyenvanduocit/jira-mcp", "stars": 85 },
     { "id": "instantCode", "title": "instantCode", "description": "AI browser inspection tool", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/instantCode", "stars": 52 },
-    { "id": "claude-room", "title": "claude-room", "description": "Inter-agent messaging for Claude Code", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/claude-room", "stars": 1 },
+    { "id": "claude-room", "title": "claude-room", "description": "Inter-agent messaging for Claude Code", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/claude-room", "stars": 2 },
     { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 }
   ],
   "now": [
-    "Active development on claude-room (inter-agent comms) and invest tool",
-    "Managing claude-plugins issues for aiocean AI tooling",
-    "Shipped clik CLI release via aiocean"
+    "Shipping jira-mcp updates and invest tool development",
+    "Iterating on claude-room for inter-agent messaging",
+    "Pushing aiocean claude-plugins and clik releases"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
