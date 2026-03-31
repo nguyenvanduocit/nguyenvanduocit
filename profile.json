@@ -25,9 +25,9 @@
     { "id": "quote-share", "title": "quote-share", "description": "Generate beautiful images from Obsidian", "tech": "TypeScript", "url": "https://github.com/nguyenvanduocit/quote-share", "stars": 26 }
   ],
   "now": [
-    "Shipping jira-mcp updates and invest tool development",
-    "Iterating on claude-room for inter-agent messaging",
-    "Pushing aiocean claude-plugins and clik releases"
+    "Actively shipping aiocean claude-plugins",
+    "Maintaining jira-mcp and homebrew distribution",
+    "Building claude-room for inter-agent communication"
   ],
   "links": {
     "github": "https://github.com/nguyenvanduocit",
@@ -36,5 +36,5 @@
     "blog": "https://12bit.vn",
     "website": "https://onepercent.plus"
   },
-  "updated": "2026-03-30"
+  "updated": "2026-03-31"
 }
